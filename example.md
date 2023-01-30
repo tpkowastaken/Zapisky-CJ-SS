@@ -1,8 +1,3 @@
-# Zapisky-CJ-SS
-Zápisky z Češtiny na střední škole od prváku až do čtvrťáku pomocí GFM (Github Flavored Markdown)
-
-# Format
-```
 # Témata
 ## <div style="margin-left: 40px;">Skupiny/Národnosti</div>
 ### <div style= "margin-left: 80px;">Autoři</div>
@@ -25,7 +20,3 @@ Nadpisy jsou vždy bez bulletů
 <span style="color: #A76ED4">Pojmy</span>
 
 <span style="color: #FF6363">Ostatní </span>
-```
-jak to vypadá můžete vidět v example.md
-
-# Jak přispět?
