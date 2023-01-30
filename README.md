@@ -29,3 +29,9 @@ Nadpisy jsou vždy bez bulletů
 jak to vypadá můžete vidět v example.md
 
 # Jak přispět?
+
+po exportování do html přidejte tyto dva řádky kódu do ```style``` elementu
+```
+background-color: #1e1e1e;
+color: #c4c4c4;
+```
