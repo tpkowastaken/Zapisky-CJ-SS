@@ -29,6 +29,7 @@ Nadpisy jsou vždy bez bulletů
 jak to vypadá můžete vidět v example.md
 
 # Jak přispět?
+do branche main už musí být všechno odsuď hotovo, v branchi no-colors stačí jen text
 
 po exportování do html přidejte tyto dva řádky kódu do ```style``` elementu
 ```
