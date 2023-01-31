@@ -55,7 +55,7 @@ Markdown All in One
 
 (Markdown Paste)
 
-**insert-color-span** od PavelDobCZ23 - instalace není přes marketplace, ale manuální - stáhnete si vsix soubor, otevřete si složku stažené (nebo kam jste si dali soubor) a nahoru do navigačního řádku napíšete "cmd". Poté do příkazového řádku vložite: 
+**insert-color-span** od PavelDobCZ23 - instalace není přes marketplace, ale manuální - stáhnete si [vsix soubor](https://mega.nz/file/ms5SgBbS#evWf4CNwX8oW5fwYs2-RPlyZPtHE7wmPWJQGZ3Ccgf4), otevřete si složku stažené (nebo kam jste si dali soubor) a nahoru do navigačního řádku napíšete "cmd". Poté do příkazového řádku vložite: 
 ```
 code --install-extension ./insert-color-span-1.0.0.vsix
 ```
