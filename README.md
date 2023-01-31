@@ -24,9 +24,9 @@ Zápisky z Češtiny na střední škole od prváku až do čtvrťáku pomocí G
 Nadpisy jsou vždy bez bulletů, odsazení posle předchozího obsahu
 
 odsazení u Nadpisů:
-## <span style="margin-left: 40px;"> odsazeno o jeden tab
+## <span style="margin-left: 40px;"> odsazeno o jeden tab</span>
 ```
-jak to vypadá můžete vidět v example.md
+jak to vypadá můžete vidět v example.md (barvičky jsou vidět až při konverzi do html)
 
 # Jak přispět?
 
