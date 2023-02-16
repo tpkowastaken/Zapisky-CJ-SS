@@ -18,7 +18,7 @@ Exilová (protestantská) Tvorba
 * Byl podporován <span style="color: #6CAA46">**Karlem Starším ze Žerotína**</span> a díky němu mohl studovat na univerzitách v německu
 * Vrátil se do Přerova a stal se ředitelem gymnázia
 * Stává se Kazatelem a pak Knězem Jednoty Bratrské
-* 1620 utíká z Česka a ukrývá se na panství Karel ze Žerotína v okolí Brandýsa nad Orlicí
+* <span style="color: #DBA400">1620</span> utíká z Česka a ukrývá se na panství <span style="color: #FF6363">**Karel ze Žerotína**</span> v okolí Brandýsa nad Orlicí
 * Začínají se pálit komenského knihy, spisy
 * V Polském Lešně dále vyučuje a píše další spisy - Rektor Vyššího Gymnázia
 * Leszno - Kratičká zpráva o morním nakažení - Ámos Komenský navíc pomáhá nemocným.
