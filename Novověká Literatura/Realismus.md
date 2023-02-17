@@ -10,7 +10,7 @@
 * Postavy se vyvíjejí (character development)
   * Typizace - postavy vykreslují typické problémy (např. Alkoholik - alkoholismus)
  
-### <span style= "color: #6CAA46">Honoré de Balzac</span>
+### <span style="color: #6CAA46">**Honoré de Balzac**</span>
 * Bývá považován za zakladatele kriticko-realistického románu
 * Začal tvořit od <span style="color: #DBA400">30.let 19.st.</span>
 * Psychologická analýza postav
@@ -27,7 +27,7 @@
 * Bachovský absolutismus 1851-59
   * cenzura, represe, pronásledování, důsledek potlační revoluce 1848
 
-### <span style= "color: #6CAA46">Božena Němcová</span>
+### <span style="color: #6CAA46">**Božena Němcová**</span>
 * žila 1820-1862
 * sbírala lidovou slovesnost
   * nejčastěji pohádky

@@ -17,17 +17,17 @@
 ### <span style="color: #6CAA46">**Jan z Rabštejna (15.st.)**</span>
 * <span style="color: #EC7627">**Dialogus**</span> 
   * dialog, učenecká argumentace ve formě dopisu
-	Bohuslav Hasištejnský z Lobkowic
+Bohuslav Hasištejnský z Lobkowic
 Rozvoj českého jazyka
-	Viktoria Kornel ze Všehrad
-	Jan Blahoslav
+Viktoria Kornel ze Všehrad
+Jan Blahoslav
 * Biskup <span style="color: #8422ce">**Jednoty bratrské**</span> - evangelická církev
 * <span style="color: #EC7627">**Gramatika česká**</span>
 * <span style="color: #EC7627">**Bible Kralická**</span>
   * <span style="color: #DBA400">1594</span> - vzor dokonalé češtiny, kolektivní dílo jednoty bratrské, obsahuje překlad nového zákona z řečtiny
 * <span style="color: #EC7627">**Filipika proti Misomusům**</span> 
   * Misomusové - (nepřátelé můz - můzy jsou inspirace, motivace) - bylo to používáno, aby nastala dobrá rétorika - způsob jak promlouvat k lidem, jak nejlépe kázat slovo boží
-	Václav Hájek z Libočan
+Václav Hájek z Libočan
 * <span style="color: #EC7627">**Kronika česká**</span> (<span style="color: #EC7627">**hájkova kronika**</span>) 
   * <span style="color: #DBA400">1541</span>
   * Fabulace
@@ -40,7 +40,7 @@ Rozvoj českého jazyka
 * <span style="color: #EC7627">**Deník Václava Šaška z Bířkova**</span>
   * popis příhody na cestě poselství mírové organizace
     * předchůdce EU <span style="color: #6CAA46">**Jiří z Poděbrad**</span>
-	Václav Vratislav z Mitrovic - přelom 16-17.st.
+Václav Vratislav z Mitrovic - přelom 16-17.st.
 * <span style="color: #EC7627">**Příhody**</span>
 ## <span style="color: #327DC3">**Česká Literatura Humanismu**</span>
 ### <span style="color: #6CAA46">**Hynek z Poděbrad**</span> - syn Jiřího z poděbrad

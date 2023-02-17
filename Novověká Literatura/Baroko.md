@@ -25,7 +25,7 @@ Exilová (protestantská) Tvorba
 * Anglie, Skandinávie, polsko, Švédsko, Nizozemí, Uhry
 * Velký Požár Lešna, během požáru došlo o spálení části jeho spisů - jeden z nich Latinsko-Český slovník (poklad jazyka českého)
 * Po požáru odchází do amsterdamu
-		Díla
+Díla
   * Latinsko-Český slovník
     * Nedochováno (spáleno)
   * Brána Jazyků otevřená
@@ -71,7 +71,7 @@ Adam Michna z Otradovic
 * Česká mariánská muzika = kancionál
 * Hudebník, skladatel a básník
 * Koledy náboženská tématika, milostné písně
-	Bedřich Bridel
+Bedřich Bridel
 * Co Bůh? Člověk - Bůh je všemocný, člověk je oproti němu malický - duchovní lyrika
 Bohuslav Balbín
 * Rozmanitosti z historie království českého - česká vlastivěda
@@ -79,15 +79,15 @@ Bohuslav Balbín
 * Jezuita, vzdělanec, český vlastenec, historik, psal latinsky
 Puristé (skupina)
 * Snažili se očistit český jazyk od cizích vlivů
-		Václav Jan Rosa
+Václav Jan Rosa
   * Jazykovědec
   * Čechořečnost
-	  * Latinská mluvnice češtiny
+  * Latinská mluvnice češtiny
 Pololidová tvorba
 * Povádí o lidu, o venkovském prostředí, zároveň je to psáno z pohledu měšťana
 * Většinou v češtině
 * Vznikl tu žánr: Kramářské písně
-	František Jan Vavák
+František Jan Vavák
   * Paměti
   * Byl to rychtář
 Lidová tvorba

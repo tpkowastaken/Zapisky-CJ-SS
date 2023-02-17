@@ -49,7 +49,7 @@
   * Je to idea o ideální budoucnosti společnosti, jak by to mělo správně fungovat
 * <span style="color: #EC7627">**Antiutopie**</span>
   * Idea popisuje společnost která se odebrala špatným směrem - varovný příklad budoucnosti, čemu se vyvarovat
-	Geoffrey Chaucer
+Geoffrey Chaucer
 * <span style="color: #EC7627">**Canterburské povídky**</span>
   * próza
   * Rámcová kompozice
