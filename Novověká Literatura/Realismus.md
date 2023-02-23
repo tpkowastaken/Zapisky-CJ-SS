@@ -111,9 +111,9 @@
 
 ### Bachův Absolutismus
 * Útisk českého kulturního života
-* 1858 - Almanach Máj - vystoupení mladé básnické generace
+* 1858 - <span style="color: #EC7627">**Almanach Máj**</span> - vystoupení mladé básnické generace
 * Mácha symbolem revolty v básnictví
-* Jan Neruda - Vítězslav Hájek
+* <span style="color: #6CAA46">**Jan Neruda**</span> - <span style="color: #6CAA46">**Vítězslav Hájek**</span> - <span style="color: #6CAA46">**Karolína Světlá**</span>
 * Májovci
 * Snaha o realismus
   1. ST
@@ -125,3 +125,24 @@
   * Fejeton
 * Neruda hodně cestoval
 * Jan Neruda - se podepisoval jako trojúhelník
+
+### Ruchovci x Lumírovci
+ Vlastenci x Světová Literatura
+### <span style="color: #8422ce">**Ruchovci**</span>
+* škola národa
+* S. Čech
+* <span style="color: #6CAA46">**Eliška Krásnohorská**</span>
+### <span style="color: #8422ce">**Lumírovci**</span>
+* škola kosmopolitní
+* <span style="color: #6CAA46">**Jaroslav Vrchlický**</span>
+* <span style="color: #6CAA46">**J.V.Sládek**</span> - původně u Ruchovců a později přešel k Lumírovcům
+* <span style="color: #6CAA46">**J. Zeyer**</span>
+### <span style="color: #6CAA46">**J. Zeyer**</span>
+* pohádka
+  * láska zvítězí
+### <span style="color: #6CAA46">**Jaroslav Vrchlický**</span>
+* postavil se za nenásilnou výchovu u dětských básniček
+### Národní divadlo
+* <span style="color: #DBA400">1868</span> - položen základní kámen
+### <span style="color: #6CAA46">**Jan Neruda**</span>
+* <span style="color: #8422ce">**Májovec**</span>
