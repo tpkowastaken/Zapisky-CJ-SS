@@ -79,7 +79,7 @@
 
 
 
-### <span style= "color: #6CAA46">Karel Havlíček Borovský</span>
+### <span style= "color: #6CAA46">**Karel Havlíček Borovský**</span>
 * žil 1821-1856
 * novinář, spisovatel, básník, neradikální, kritik
 * liberální politik
