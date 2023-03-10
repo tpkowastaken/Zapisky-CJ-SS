@@ -84,29 +84,29 @@
 * novinář, spisovatel, básník, neradikální, kritik
 * liberální politik
 * kritizuje rakouskou monarchii, absolutizmus, carské Rusko, nevolnictví, církev
-* <span style="color: #EC7627">Národní noviny </span>
+* <span style="color: #EC7627">**Národní noviny**</span>
   * první České nezávislé noviny
-* <span style="color: #EC7627">Včela</span>
-* <span style="color: #EC7627">Slovan</span>
+* <span style="color: #EC7627">**Včela**</span>
+* <span style="color: #EC7627">**Slovan**</span>
 * Představitel politické satiry
-* <span style="color: #EC7627">Epigramy</span>
+* <span style="color: #EC7627">**Epigramy**</span>
   * politická satira
   * sbírka epigramů
     * epigram - krátká satirická báseň
 * v době Bachova absolutismu byl ve vyhnanctví v Brixenu 1851-1855
-* <span style="color: #EC7627">Křest sv. Vladimíra</span>
+* <span style="color: #EC7627">**Křest sv. Vladimíra**</span>
   * jeho 3. dílo z Brixenu
   * satirická skladba, inspirována historickou událostí, kterou je přijetí Křesťanství od cara Vladimíra
   * Vladimír zajme boha Peruna, utopí ho a pod nátlakem hledá nového boha.
-* <span style="color: #EC7627">Tyroslké elegie</span>
+* <span style="color: #EC7627">**Tyroslké elegie**</span>
   * jeho 1. dílo z Brixenu
   * skladba líčící Havlíčkův exil v Brixenu
-* <span style="color: #EC7627">Král Lárva</span>
+* <span style="color: #EC7627">**Král Lárva**</span>
   * jeho 2. dílo z Brixenu
   * skladba inspirovaná irskou pověstí o králi s oslýma ušima
   * kritika hlouposti, pokrytectví, podlézání
-* <span style="color: #EC7627">Obrazy z Rus</span>
-* <span style="color: #EC7627">Nesforův letopis</span>
+* <span style="color: #EC7627">**Obrazy z Rus**</span>
+* <span style="color: #EC7627">**Nesforův letopis**</span>
   * Perun
 
 ### Bachův Absolutismus
@@ -126,7 +126,7 @@
 * Neruda hodně cestoval
 * Jan Neruda - se podepisoval jako trojúhelník
 
-### Ruchovci x Lumírovci
+### <span style="color: #8422ce">**Ruchovci**</span> x <span style="color: #8422ce">**Lumírovci**</span>
  Vlastenci x Světová Literatura
 ### <span style="color: #8422ce">**Ruchovci**</span>
 * škola národa
@@ -142,6 +142,13 @@
   * láska zvítězí
 ### <span style="color: #6CAA46">**Jaroslav Vrchlický**</span>
 * postavil se za nenásilnou výchovu u dětských básniček
+* [<span style="color: #EC7627">**Balada o hovně**</span>](https://www.cesky-jazyk.cz/citanka/jaroslav-vrchlicky/balada-o-hovne.html)
+  * Balada o trusu ležícím na stole
+  * nápad vznikl potom, co mu přítel dal odznak hovna na stůl
+  * Tvůrce popisuje, že celou společnost spojují naše výkaly
+* <span style="color: #EC7627">**Okna v bouři**</span>
+  * témata: zrada, zklamání, soucit 
+  * "zlí lidé největší jsou nešťastníci"
 ### Národní divadlo
 * <span style="color: #DBA400">1868</span> - položen základní kámen
 ### <span style="color: #6CAA46">**Jan Neruda**</span>
