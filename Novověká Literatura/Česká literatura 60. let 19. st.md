@@ -216,4 +216,37 @@
     - drama
     - doba Karla IV.
     - zákaz ženám na Karlštejn
+- <span style= "color: #EC7627">**Z hlubin**</span>
+    - básnická sbírka
+    - starší domácí tradice
+    - vliv hořké poezie od Mayera, Máchy a Nerudy(Hřbitovní kvítí)
+    - melancholie a neprožitá erotika
+- <span style= "color: #EC7627">**Victoriaa Colonna**</span>
+    - básnická sbírka
+    - monolog stárnoucího Michelangela o lásce a tvůrčích bolestech
+- <span style= "color: #EC7627">**Zlomky epojeje**</span>
+    - cyklus - jednotlivé sbírky
+    - odraz názorových obratů, proměna optimismu, pozdější skepse a pesimistický názor
+    - "zlomy" epojeje lidstva
+    - sbírky v cyklu:
+        - Duch a Svět (1878)
+        - Mít 
+            - 2 díly (1879,1880)
 
+### <span style= "color: #6CAA46">**Josef Zayer (Lumírovci)**</span>
+- 1841 - 1901
+- 2x odešel do Ruska
+    - byl tam vychovatelem u šlechtických rodin
+- zpočátku psal hlavně fantastické novely
+- <span style= "color: #EC7627">**Román o věrném přátelství Amise a Amila**</span>
+    - 1877
+    - rytířský román
+    - parafráze starofrancouzkých skladeb
+- <span style= "color: #EC7627">**Gompači a Komurasaki**</span>
+    - 1884
+    - příběh z Japonska o tragické lásce
+- prozaické romány na vrcholu:
+- <span style= "color: #EC7627">**Jan Maria Plojhar**</span>
+    - 1888
+- <span style= "color: #EC7627">**Dům u tonoucí hvězdy**</span>
+    - 1894
