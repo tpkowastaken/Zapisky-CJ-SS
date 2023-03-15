@@ -76,7 +76,7 @@ při čtení textu v .md souborech můžete zmáčknout ctrl+shift+p a markdown:
 
 insert-color-span přidá do menu pravého tlačítka stilizační nabídky pro text (barvičky a odsazení - Trebesin Čj -- Formátování )
 
-Pokud chcete exportovat do html přidejte tyto dva řádky kódu do ```style``` elementu pro dark mode
+Pokud chcete exportovat do html přidejte tyto dva řádky kódu do ```body``` v ```style``` elementu pro dark mode
 ```
 background-color: #1e1e1e;
 color: #c4c4c4;
