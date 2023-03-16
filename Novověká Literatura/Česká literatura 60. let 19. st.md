@@ -1,6 +1,7 @@
 # Česká literatura 60. až 80. let 19. st.
 ## Generace májovců
 - alamanach = soubor literárních příspěvků
+- do almanachů ze starší generace přispívá Erben a Němcová
 - 1858 vydání almanachu Máj
     - vystoupení mladé generace
     - májovci v čele s Janem Nerudou a Vítězslavem Hálkem
@@ -79,11 +80,11 @@
 - manžel Petr Možák
     - zemřela jim dcera, přetěhovala se do Světlé v Podještědí
         - na venkově nachází rovnováha a klid
-- autorka vesnických románů
+- autorka **vesnických románů**
 - často příběhy žen
 - <span style= "color: #EC7627">**První česka**</span>
     - próza z městského prostředí
-- její venkovská próza - Ještědská romány
+- její venkovská próza - **Ještědská romány**
 - <span style= "color: #EC7627">**Vesnický román**</span>
     - 1867
     - nešťastné manželství a rychtářka
@@ -235,6 +236,8 @@
 
 ### <span style= "color: #6CAA46">**Josef Zayer (Lumírovci)**</span>
 - 1841 - 1901
+- cestovatel, kosmopolita, "exotický pták české literatury"
+- novorenesanční
 - 2x odešel do Ruska
     - byl tam vychovatelem u šlechtických rodin
 - zpočátku psal hlavně fantastické novely
@@ -245,8 +248,16 @@
 - <span style= "color: #EC7627">**Gompači a Komurasaki**</span>
     - 1884
     - příběh z Japonska o tragické lásce
-- prozaické romány na vrcholu:
+- <span style= "color: #EC7627">**Vyšehrad**</span>
+    - básnický cyklus
+    - mýty/české pověsti
+- <span style= "color: #EC7627">**3 legendy o krucifiksu**</span>
+    - mysteriozní povídky
+
+- romány na vrcholu:
 - <span style= "color: #EC7627">**Jan Maria Plojhar**</span>
     - 1888
 - <span style= "color: #EC7627">**Dům u tonoucí hvězdy**</span>
     - 1894
+    - prvky moderního směru - dekadence
+        - dekadence - hledá krásu v úpadcích
