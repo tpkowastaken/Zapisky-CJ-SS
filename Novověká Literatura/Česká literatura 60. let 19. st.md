@@ -234,7 +234,7 @@
         - Mít 
             - 2 díly (1879,1880)
 
-### <span style= "color: #6CAA46">**Josef Zayer (Lumírovci)**</span>
+### <span style= "color: #6CAA46">**Julius Zayer (Lumírovci)**</span>
 - 1841 - 1901
 - cestovatel, kosmopolita, "exotický pták české literatury"
 - novorenesanční
