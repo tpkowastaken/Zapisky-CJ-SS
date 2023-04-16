@@ -1,47 +1,20 @@
-name: Build and Deploy
-
 on:
   push:
     branches:
-      - main  # Change this to match the name of your default branch
-
+      - main
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-
-    - name: Set Permissions
-      run: |
-        sudo chown -R $USER .
-        sudo chmod -R 777 .
-        
-    - name: Install Dependencies
-      run: |
-        sudo apt-get install -y ruby-full build-essential zlib1g-dev
-        sudo gem install bundler
-        sudo bundle install
-        
-
-    - name: Build Jekyll for GitHub Pages
-      uses: actions/jekyll-build-pages@v1.0.7
-      #with:
-    # Directory where the source files reside.
-        #source: # optional, default is ./
-    # Output directory of the build. Although it can be nested inside the source, it cannot be the same as the source directory.
-        #destination: # optional, default is ./_site
-    # Publishes posts with a future date. When set to true, the build is made with the --future option which overrides the future option that may be set in a Jekyll configuration file.
-        #future: # optional
-    # The SHA-1 of the git commit for which the build is running. Default to GITHUB_SHA.
-        #build_revision: # optional, default is ${{ github.sha }}
-    # Verbose output
-        #verbose: # optional, default is true
-    # GitHub token
-        #token: # default is ${{ github.TOKEN }}
-
-    #- name: Deploy to GitHub Pages
-      #uses: peaceiris/actions-gh-pages@v3
-      #with:
-        #personal_token: ${{ secrets.TOKEN }}
-        #publish_dir: ./_site
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install
+      - name: Build site
+        run: bundle exec jekyll build --destination _site
