@@ -19,7 +19,7 @@ jobs:
         
     - name: Install Dependencies
       run: |
-        gem 'jekyll-theme-minimal'
+        gem install 'jekyll-theme-minimal'
 
     - name: Build with Jekyll
       uses: docker://jekyll/builder:latest
