@@ -28,7 +28,7 @@ jobs:
       uses: docker://jekyll/builder:latest
       with:
         entrypoint: jekyll
-        args: build --source "./Novověká Literatura" --destination ./_site
+        args: build --source "./Novověká Literatura" --destination ./_site --incremental --watch
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
