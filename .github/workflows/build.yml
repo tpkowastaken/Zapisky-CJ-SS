@@ -28,7 +28,7 @@ jobs:
       uses: docker://jekyll/builder:latest
       with:
         entrypoint: jekyll
-        args: build --recursive --source ./ --destination ./_site
+        args: build --source ./ --destination ./_site
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
