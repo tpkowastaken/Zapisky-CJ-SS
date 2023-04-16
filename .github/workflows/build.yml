@@ -16,6 +16,12 @@ jobs:
       run: |
         sudo chown -R $USER .
         sudo chmod -R 777 .
+        
+    - name: Install Dependencies
+      run: |
+        sudo apt-get install -y ruby-full build-essential zlib1g-dev
+        gem install bundler
+        bundle install
 
     - name: Build with Jekyll
       uses: docker://jekyll/builder:latest
