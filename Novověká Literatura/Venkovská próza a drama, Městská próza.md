@@ -51,7 +51,8 @@
 - je ze sklářské rodiny - téma sklářství
 - <span style="color: #EC7627">**Skláři**</span>
     - román
-- <span style="color: #EC7627">**Nohy na blatech**</span>
+- <span style="color: #EC7627">**Mlhy na blatech**</span>
+    - idealizace českého sedláka
 - <span style="color: #EC7627">**V ráji Šumavském**</span>
 ### <span style= "color: #6CAA46">**Josef Holeček**</span>
 - z jižních Čech
