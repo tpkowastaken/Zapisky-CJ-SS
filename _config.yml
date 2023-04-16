@@ -1,12 +1,18 @@
-encoding: utf-8
+theme               : jekyll-theme-minimal
+source              : .
+destination         : ./_site
 
-markdown: kramdown
+# Handling Reading
+include             : ["*.md","*.markdown"]
+encoding            : "utf-8"
+markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
 
-theme: jekyll-theme-minimal
+# Plugins
+plugins             : ["jekyll-feed"]
 
-plugins:
-  - jekyll-feed
- 
-include:
-  - "*.md"
-  - "*.markdown"
+# Conversion
+markdown            : kramdown
+
+# Markdown Processors
+kramdown:
+  show_warnings     : true
