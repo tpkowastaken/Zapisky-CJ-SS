@@ -8,5 +8,5 @@ plugins:
   - jekyll-feed
  
 include:
-  - "**/*.md"
-  - "**/*.markdown"
+  - "*.md"
+  - "*.markdown"
