@@ -3,7 +3,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - gh-pages  # Change this to match the name of your default branch
+      - main  # Change this to match the name of your default branch
 
 jobs:
   build-and-deploy:
@@ -11,6 +11,11 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+
+    - name: Set Permissions
+      run: |
+        sudo chown -R $USER .
+        sudo chmod -R 777 .
 
     - name: Build with Jekyll
       uses: docker://jekyll/builder:latest
