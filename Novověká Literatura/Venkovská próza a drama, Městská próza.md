@@ -16,6 +16,7 @@
 - <span style="color: #EC7627">**Výmiňkáři**</span>
     - povídka
     - rodiny a děti vs. výmiňkáři
+    - spory mezi starými rodiči a jejich dětmi
     - tragičtí, smutní hrdinové
 - <span style="color: #EC7627">**Kalibův zločin**</span>
     - psychologický román
