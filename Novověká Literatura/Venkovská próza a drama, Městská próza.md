@@ -26,8 +26,8 @@
     - návrat do doby národního obrození
     - o působení vlastenců na vesnicích (učitelé, faráři)
 - <span style="color: #EC7627">**Západ**</span>
-    - depresivní a nostalgocká próza s motivem osamocení
-    - o stařičkém faráři co dožívá život, ztráí blízké
+    - depresivní a nostalgická próza s motivem osamocení
+    - o stařičkém faráři co dožívá život, ztrácí blízké
 ### <span style= "color: #6CAA46">**Antola Stašek**</span>
 - advokát co hájil dělníky
 - až v 70. letech začal s pokusy o básně
@@ -60,8 +60,9 @@
 - <span style="color: #EC7627">**Naši**</span>
     - románová kronika
     - spatřuje charakter českého národa v českém sedlákovi
-### <span style= "color: #6CAA46">**Jinřich Šimon Baar**</span>
+### <span style= "color: #6CAA46">**Jindřich Šimon Baar**</span>
 - <span style="color: #EC7627">**Jan Cimbura**</span>
+    - legendární sedlák spjatý s přírodou 
 # Venkovské drama 2. poloviny 19. st.
 - řeší podobná témata jako venkovská próza
 ### <span style= "color: #6CAA46">**Ladislav Stroupežnický**</span>
