@@ -1,3 +1,13 @@
+---
+toc: true
+layout: dark
+title: -
+category: Novověká Literatura 
+---
+---
+---
+---
+# Humanismus 
 ---\n---\n---\n---\n# Humanismus
 toc: true\ntoc: true\ntoc: true\ntoc: true\n* <span style="color: #DBA400">70\. léta 15. století</span>
 layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n*  Odklon od boha jako jádra tehdejšího uvažování. 

@@ -1,3 +1,13 @@
+---
+toc: true
+layout: dark
+title: -
+category: Novověká Literatura 
+---
+---
+---
+---
+# Národní obrození 
 ---\n---\n---\n---\n# Národní obrození
 toc: true\ntoc: true\ntoc: true\ntoc: true\n* 1.pol. 19.st.
 layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* snaha obrodit český jazyk, kulturu a literaturu.

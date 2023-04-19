@@ -1,3 +1,13 @@
+---
+toc: true
+layout: dark
+title: -
+category: testy 
+---
+---
+---
+---
+co je to kritický realismus a jak se projevuje v české literatuře 
 ---\n---\n---\n---\nco je to kritický realismus a jak se projevuje v české literatuře
 toc: true\ntoc: true\ntoc: true\ntoc: true\n
 layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* Někdy jako synonymum pro realismus 19. a počátku 20. století, jindy jako druhá, vyspělejší fáze realismu, 

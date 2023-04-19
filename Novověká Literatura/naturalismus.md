@@ -1,3 +1,13 @@
+---
+toc: true
+layout: dark
+title: -
+category: Novověká Literatura 
+---
+---
+---
+---
+* Odnož realismu (krajní směr realismu) 
 ---\n---\n---\n---\n* Odnož realismu (krajní směr realismu)
 toc: true\ntoc: true\ntoc: true\ntoc: true\n* Zde se reálně zobrazují i odpudivé, škaredé jevy
 layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n○ Chybějící nohy, nemoci, smrt, krev, tabu témata

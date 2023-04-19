@@ -1,3 +1,13 @@
+---
+toc: true
+layout: dark
+title: -
+category: Novověká Literatura 
+---
+---
+---
+---
+# Realismus 
 ---\n---\n---\n---\n# Realismus
 toc: true\ntoc: true\ntoc: true\ntoc: true\n* <span style="color: #DBA400">2.pol.19.st</span>
 layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* Umělecký směr a zároveň metoda zobrazení skutečnosti

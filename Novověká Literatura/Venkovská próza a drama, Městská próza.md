@@ -1,3 +1,13 @@
+---
+toc: true
+layout: dark
+title: -
+category: Novověká Literatura 
+---
+---
+---
+---
+# Venkovská próza 2. poloviny 19. st. 
 ---\n---\n---\n---\n# Venkovská próza 2. poloviny 19. st.
 toc: true\ntoc: true\ntoc: true\ntoc: true\n## kritický realismus
 layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n- zdůrazňuje problémy a kritizuje je

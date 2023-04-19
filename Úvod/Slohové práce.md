@@ -1,3 +1,13 @@
+---
+toc: true
+layout: dark
+title: -
+category: Úvod 
+---
+---
+---
+---
+# Slohové práce 
 ---\n---\n---\n---\n# Slohové práce
 toc: true\ntoc: true\ntoc: true\ntoc: true\nOdstavce
 layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\npři přecházení od jedné myšlenky ke druhé nebo se mění část práce (začátek -> obsah -> konec). Nemusíme vynechávat řádek. Odsazuje se <tab> nebo enterem. Rozlišovat malá a velká písmena.

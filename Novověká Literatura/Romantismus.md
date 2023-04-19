@@ -1,3 +1,13 @@
+---
+toc: true
+layout: dark
+title: -
+category: Novověká Literatura 
+---
+---
+---
+---
+# Romantismus 
 ---\n---\n---\n---\n# Romantismus
 toc: true\ntoc: true\ntoc: true\ntoc: true\n* 1.pol. 19. st.
 layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n  * Ve světové literatuře: Poč. 19. st.

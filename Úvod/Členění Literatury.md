@@ -1,3 +1,13 @@
+---
+toc: true
+layout: dark
+title: -
+category: Úvod 
+---
+---
+---
+---
+# Členění Literatury 
 ---\n---\n---\n---\n# Členění Literatury
 toc: true\ntoc: true\ntoc: true\ntoc: true\n1. Umělecká (krásná/beletrie) - povídky a přiběhy
 layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n2. Odborná                          populárně naučná - (encyklopedie)

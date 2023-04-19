@@ -1,3 +1,13 @@
+---
+toc: true
+layout: dark
+title: -
+category: Novověká Literatura 
+---
+---
+---
+---
+generace Rukovsko-lumírovská 
 ---\n---\n---\n---\ngenerace Rukovsko-lumírovská
 toc: true\ntoc: true\ntoc: true\ntoc: true\n
 layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\nskupina Ruchovců X skupina lumírovců

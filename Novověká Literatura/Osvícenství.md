@@ -1,3 +1,13 @@
+---
+toc: true
+layout: dark
+title: -
+category: Novověká Literatura 
+---
+---
+---
+---
+# Osvícenství 
 ---\n---\n---\n---\n# Osvícenství
 toc: true\ntoc: true\ntoc: true\ntoc: true\n* 18.st.
 layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\nZnaky

@@ -1,3 +1,13 @@
+---
+toc: true
+layout: dark
+title: -
+category: Novověká Literatura 
+---
+---
+---
+---
+# Česká literatura 60. až 80. let 19. st. 
 ---\n---\n---\n---\n# Česká literatura 60. až 80. let 19. st.
 toc: true\ntoc: true\ntoc: true\ntoc: true\n## Generace májovců
 layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n- alamanach = soubor literárních příspěvků

@@ -1,3 +1,13 @@
+---
+toc: true
+layout: dark
+title: -
+category: Novověká Literatura 
+---
+---
+---
+---
+# Klasicismus 
 ---\n---\n---\n---\n# Klasicismus
 toc: true\ntoc: true\ntoc: true\ntoc: true\n* 17-18.st.
 layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* Umělecký směr
