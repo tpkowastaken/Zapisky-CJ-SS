@@ -6,10 +6,16 @@ category: .
 ---
 
 
+
+
 # Témata
 
 
+
+
 ## <span style="color: #327DC3">**Dělení**</span>
+
+
 
 
 ### <span style="color: #6CAA46">**Autoři**</span>
@@ -31,6 +37,8 @@ category: .
 Nadpisy jsou vždy bez bulletů, odsazení posle předchozího obsahu
 
 odsazení u Nadpisů:
+
+
 
 
 ## <span style="margin-left: 40px;"> odsazeno o jeden tab</span>

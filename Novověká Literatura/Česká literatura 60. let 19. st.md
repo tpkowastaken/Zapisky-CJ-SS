@@ -6,7 +6,11 @@ category: Novověká Literatura
 ---
 
 
+
+
 # Česká literatura 60. až 80. let 19. st.
+
+
 
 
 ## Generace májovců
@@ -20,6 +24,8 @@ category: Novověká Literatura
     - snaha o prosazení demokratických principů
     - poukazovali na sitauaci 50. let, snaha zdokonalovat čes. literaturu - dostat ji na světovou úroveň
     - zatímco v jiných zemích vzniká kvalitní literatura, česká má zpoždění
+
+
 
 
 ### <span style= "color: #6CAA46">**Jan Neruda**</span>
@@ -86,6 +92,8 @@ category: Novověká Literatura
     - Soubor povídek (60. léta)
 
 
+
+
 ### <span style= "color: #6CAA46">**Karolína Světlá**</span>
 - 1830 - 1899
 - z pražské rodiny
@@ -114,6 +122,8 @@ category: Novověká Literatura
     - poměrně realistické
 
 
+
+
 ### <span style= "color: #6CAA46">**Vítězslav Hálek**</span>
 - 1835 - 1874
 - harmonický, radostný, láskyplný, idealický
@@ -128,6 +138,8 @@ category: Novověká Literatura
 - psal prózu - povídky
 - snaha realisticky vykreslit český venkov
 - menší idealizace
+
+
 
 
 
@@ -148,6 +160,8 @@ category: Novověká Literatura
 
 
 
+
+
 ### Ruchovci
 - Škola národní
 - časopis osvěta
@@ -155,6 +169,8 @@ category: Novověká Literatura
 - Svatopluk Čech
 - Josef Václav Sládek - přešel k lumírovcům
 - *"umění pro národ"*
+
+
 
 
 
@@ -166,6 +182,8 @@ category: Novověká Literatura
 
 
 
+
+
 ### <span style= "color: #6CAA46">**Eliška Krásnohorská (Ruchovci)**</span>
 - literární kritička
 - autorka lyrické poezie
@@ -174,6 +192,8 @@ category: Novověká Literatura
     - tj. literární předloha(příběh) k operám
 - Bedřich Smetana 3 zhudebnil
     - Čertova stěna, Hubička, Tajemství
+
+
 
 
 
@@ -208,6 +228,8 @@ category: Novověká Literatura
 
 
 
+
+
 ### <span style= "color: #6CAA46">**Josef Václav Sládek (Ruchovci-Lumírovci)**</span>
 - začíná u ruchovců, končí u lumírovců
 - 1868 (23 let) odjezd do Ameriky
@@ -231,6 +253,8 @@ category: Novověká Literatura
 - psal i poezii pro děti
     - Lesní studánka
 - překladatel (Shakespeare,Byron)
+
+
 
 
 
@@ -263,6 +287,8 @@ category: Novověká Literatura
         - Duch a Svět (1878)
         - Mít 
             - 2 díly (1879,1880)
+
+
 
 
 

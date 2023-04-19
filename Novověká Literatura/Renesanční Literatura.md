@@ -6,6 +6,8 @@ category: Novověká Literatura
 ---
 
 
+
+
 # Renesanční literatura
 *  <span style="color: #DBA400">14\. \- 17.st.</span>
 * Vznikl v Itálii
@@ -20,7 +22,11 @@ category: Novověká Literatura
 
 
 
+
+
 ## Italská renesance
+
+
 
 
 ### <span style="color: #6CAA46">**Dante Alighieri**</span>
@@ -39,12 +45,16 @@ category: Novověká Literatura
   * Byl v písemném styku s <span style="color: #6CAA46">**Karlem IV.**</span>
 
 
+
+
 ### <span style="color: #6CAA46">**Francesco Petrarcha**</span>
 * <span style="color: #EC7627">**Canzoniere**</span> (zpěvník)
   * Milostná poezie
   * Podstatná část znělky
   * "Laura" není zbožštěná jak "Beatrice"
 * Psal sonety o Lauře - Proslavil ji ve svých znělkách Laura
+
+
 
 
 ### <span style="color: #6CAA46">**Giovanni Boccacio**</span>
@@ -57,13 +67,19 @@ category: Novověká Literatura
   * Převažují milostné příběhy
 
 
+
+
 ### <span style="color: #6CAA46">**Niccolo Machiavelli**</span>
 * Účel světí prostředky = pro dosažení stanoveného cíle je možné všechno - <span style="color: #8422ce">**Machiavelismus**</span>
 * <span style="color: #EC7627">**Vladař**</span>
   * Politický spis o ideálnímu vladaři/panovníkovi
 
 
+
+
 ## Anglická renesance:
+
+
 
 
 ### <span style="color: #6CAA46">**Thomas More**</span>
@@ -79,6 +95,8 @@ Geoffrey Chaucer
   * 24 příběhů
 
 
+
+
 ### <span style="color: #6CAA46">**Christopher Marlowe**</span>
 * <span style="color: #EC7627">**Alžbětínské drama**</span>
   * 16.st.
@@ -89,6 +107,8 @@ Geoffrey Chaucer
   * rovnováha dobra a zla
 
 
+
+
 ### <span style="color: #6CAA46">**Wiliam Shakespeare**</span> (1564-1616)
 * Dramatik (<span style="color: #EC7627">**Alžbětínské drama**</span>)
 * Stratford nad Avonou - místo narození
@@ -97,6 +117,8 @@ Geoffrey Chaucer
 * Světská literatura
 * Divadlo Globe v londýně, částečné vlastnění
 * Ženy nemohly hrát ženské role v divadle, hráli za ně muži
+
+
 
 
 ## <span style="color: #327DC3">**První fáze tvorby Shakespeare:**</span>
@@ -113,6 +135,8 @@ Geoffrey Chaucer
 * <span style="color: #327DC3">**Historické hry**</span>:
   * <span style="color: #EC7627">**Jindřich IV.**</span>
   * <span style="color: #EC7627">**Richard III**</span>
+
+
 
 
 ## <span style="color: #327DC3">**Druhá fáze tvorby shakespeare:**</span>
@@ -150,13 +174,19 @@ Geoffrey Chaucer
   * <span style="color: #EC7627">**Macbeth**</span>
 
 
+
+
 ## <span style="color: #327DC3">**Třetí fáze tvorby shakespeare:**</span>
 * <span style="color: #327DC3">**Sonety**</span>
 * <span style="color: #327DC3">**Pohádkové hry:**</span>
   * <span style="color: #EC7627">**Zimní pohrádka**</span>
 
 
+
+
 ## Španělská Renesance
+
+
 
 
 
@@ -173,6 +203,8 @@ Geoffrey Chaucer
   * Ponaučení: I příběhy můžou utvořit nějakou realitu
 
 
+
+
 ### <span style="color: #6CAA46">**Lope de Vega**</span> (1562-1635)
 * 2000 her
 * Bohatý, četné životní zkušenosti
@@ -182,7 +214,11 @@ Geoffrey Chaucer
 * Nezachovává tradiční zásady dramatu - tragičnost => komedie
 
 
+
+
 ## Francouzská Renesance
+
+
 
 
 ### <span style="color: #6CAA46">**Francois Villon**</span>
@@ -193,6 +229,8 @@ Geoffrey Chaucer
   * <span style="color: #EC7627">**Závěť**</span> - Velký testament
   * <span style="color: #EC7627">**Odkaz**</span> - malý testament
 * Jeho styl - Francouzská (<span style="color: #8422ce">**villonská**</span>) balada
+
+
 
 
 ### <span style="color: #6CAA46">**Francois Robelais**</span> [francoás roblen]

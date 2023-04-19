@@ -6,7 +6,11 @@ category: Novověká Literatura
 ---
 
 
+
+
 # Venkovská próza 2. poloviny 19. st.
+
+
 
 
 ## kritický realismus
@@ -15,11 +19,15 @@ category: Novověká Literatura
     - hlavně v nižších vrstvách
 
 
+
+
 ## Venkovská próza
 - řeší se často spory generační nebo peněžní
 - touha po majetku X dobro a laskavost
 - sociální otázky, postavení
 - objevují se zde dialekty a nářečí
+
+
 
 
 ### <span style= "color: #6CAA46">**Karel Václav Rais**</span>
@@ -45,6 +53,8 @@ category: Novověká Literatura
     - o stařičkém faráři co dožívá život, ztrácí blízké
 
 
+
+
 ### <span style= "color: #6CAA46">**Antola Stašek**</span>
 - advokát co hájil dělníky
 - až v 70. letech začal s pokusy o básně
@@ -52,6 +62,8 @@ category: Novověká Literatura
 - věnoval se sociálním problémům
 - <span style="color: #EC7627">**Blouznivci našich hor**</span>
     - soubor povídek
+
+
 
 
 ### <span style= "color: #6CAA46">**Tereza Nováková**</span>
@@ -67,6 +79,8 @@ category: Novověká Literatura
     - změní náboženství z katolicismu na evengelismus aby byl bez celibátu, na čemž nezáleží protože naplnění nenajde
 
 
+
+
 ### <span style= "color: #6CAA46">**Karel Klostermann**</span>
 - spisovatel Šumavy, popisuje ji
 - je ze sklářské rodiny - téma sklářství
@@ -77,6 +91,8 @@ category: Novověká Literatura
 - <span style="color: #EC7627">**V ráji Šumavském**</span>
 
 
+
+
 ### <span style= "color: #6CAA46">**Josef Holeček**</span>
 - z jižních Čech
 - popisuje typického českého sedláka, idealizace, znázorňuje českou identitu, tradice
@@ -85,13 +101,19 @@ category: Novověká Literatura
     - spatřuje charakter českého národa v českém sedlákovi
 
 
+
+
 ### <span style= "color: #6CAA46">**Jindřich Šimon Baar**</span>
 - <span style="color: #EC7627">**Jan Cimbura**</span>
     - legendární sedlák spjatý s přírodou 
 
 
+
+
 # Venkovské drama 2. poloviny 19. st.
 - řeší podobná témata jako venkovská próza
+
+
 
 
 ### <span style= "color: #6CAA46">**Ladislav Stroupežnický**</span>
@@ -106,6 +128,8 @@ category: Novověká Literatura
     - kritika pýchy, intrik, tvrdohlavosti
 
 
+
+
 ### <span style= "color: #6CAA46">**Gabriela Preissová**</span>
 - v mládi žila na Slovácku (Hodonín)
 - <span style="color: #EC7627">**Gazdina Roba**</span>
@@ -115,6 +139,8 @@ category: Novověká Literatura
     - je vdaná, odchází však za milencem do Rakouska kde pracuje, tam je nešťastná a spáchá sebevraždu
 - <span style="color: #EC7627">**Její pastorkyňa**</span>
     - o mlynářce co utopí dítě její schovankyni protože je nemanželské
+
+
 
 
 ### <span style= "color: #6CAA46">**Bratři Alois a Vilém Mršíkové**</span>
@@ -127,7 +153,11 @@ category: Novověká Literatura
     - nakonec Maryša otráí Vávru
 
 
+
+
 # Měststká próza 2. poloviny 19. st.
+
+
 
 
 ### <span style= "color: #6CAA46">**Ignát Herrmann**</span>
