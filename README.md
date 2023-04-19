@@ -1,7 +1,5 @@
 # Zapisky-CJ-SS
 
-[test](úvod)
-
 Zápisky z Češtiny na střední škole od prváku až do čtvrťáku pomocí GFM (Github Flavored Markdown)
 
 # [Verze na webu](https://tpkowastaken.github.io/Zapisky-CJ-SS/)
