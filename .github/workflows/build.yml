@@ -30,14 +30,14 @@ jobs:
       run: |
         for f in $(find . -type f -name "*.md" ! -name "README.md"); do
           if ! grep -q "^---$" "$f"; then
-            folderName=$(basename $(dirname $f))
+            folderName=$(basename $(dirname "$f"))
             siteTitle=$(awk 'NR==1{print substr($0, 3)}' "$f")
-            sed -i '1s/^/---\n/' $f
-            sed -i '2s/^/toc: true\n/' $f
-            sed -i '3s/^/layout: dark\n/' $f
-            sed -i "4s/^/title: $siteTitle \n/" $f
-            sed -i "5s/^/category: $folderName \n/" $f
-            sed -i '6s/^/---\n/' $f
+            sed -i '1s/^/---\n/' "$f"
+            sed -i '2s/^/toc: true\n/' "$f"
+            sed -i '3s/^/layout: dark\n/' "$f"
+            sed -i "4s/^/title: $siteTitle \n/" "$f"
+            sed -i "5s/^/category: $folderName \n/" "$f"
+            sed -i '6s/^/---\n/' "$f"
           fi
         done
 
