@@ -48,7 +48,7 @@ jobs:
         git config --global user.name "tpkowastaken"
         git add .
         git commit -m "Build Jekyll site" --allow-empty
-        git push https://${{ secrets.TOKEN }}@github.com/tpkowastaken/test-jekyll.github.io.git HEAD:main
+        git push https://${{ secrets.TOKEN }}@github.com/tpkowastaken/Zapisky-CJ-SS.git HEAD:main
   # Build job
   build:
     runs-on: ubuntu-latest
