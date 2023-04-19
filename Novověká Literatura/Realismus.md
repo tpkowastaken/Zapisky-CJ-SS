@@ -4,10 +4,6 @@ layout: dark
 title: Realismus 
 category: Novověká Literatura 
 ---
-
-
-
-
 # Realismus
 * <span style="color: #DBA400">2.pol.19.st</span>
 * Umělecký směr a zároveň metoda zobrazení skutečnosti
@@ -19,11 +15,6 @@ category: Novověká Literatura
 * Důraz na sociální otázky
 * Postavy se vyvíjejí (character development)
   * Typizace - postavy vykreslují typické problémy (např. Alkoholik - alkoholismus)
- 
-
-
-
-
 ### <span style="color: #6CAA46">**Honoré de Balzac**</span>
 * Bývá považován za zakladatele kriticko-realistického románu
 * Začal tvořit od <span style="color: #DBA400">30.let 19.st.</span>
