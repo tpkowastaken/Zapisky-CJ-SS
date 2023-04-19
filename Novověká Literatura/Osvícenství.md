@@ -8,7 +8,8 @@ category: Novověká Literatura
 
 
 
-# Osvícenství
+#
+ Osvícenství
 * 18.st.
 Znaky
 * myšlenkový a filozofický směr

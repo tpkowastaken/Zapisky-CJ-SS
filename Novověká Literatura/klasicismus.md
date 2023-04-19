@@ -8,7 +8,8 @@ category: Novověká Literatura
 
 
 
-# Klasicismus
+#
+ Klasicismus
 * 17-18.st.
 * Umělecký směr
 * Důraz na řád
