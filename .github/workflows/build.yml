@@ -31,7 +31,7 @@ jobs:
         for f in $(find . -type f -name "*.md" ! -name "README.md"); do
           if ! grep -q "^---$" "$f"; then
             folderName=$(basename $(dirname "$f"))
-            siteTitle=$(awk 'NR==1{print substr($0, 3)}' "$f")
+            siteTitle=$(awk 'NR==1{print substr($0, 3)}' "'$f'")
             sed -i '1s/^/---\n/' "$f"
             sed -i '2s/^/toc: true\n/' "$f"
             sed -i '3s/^/layout: dark\n/' "$f"
