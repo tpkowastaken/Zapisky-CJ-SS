@@ -55,7 +55,8 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: action/checkout@v2
+      with:
         path: repo-with-markdown-files
 
     - name: Checkout jekyll theme repo
