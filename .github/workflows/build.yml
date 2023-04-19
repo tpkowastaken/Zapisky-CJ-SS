@@ -62,6 +62,7 @@ jobs:
       with:
         repository: tpkowastaken/jekyll-dark-github-theme
         path: .
+        clean: false
 
     - name: Set Permissions
       run: |
