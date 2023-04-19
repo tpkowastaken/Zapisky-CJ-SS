@@ -32,12 +32,12 @@ jobs:
           if ! grep -q "^---$" "{}"; then
             folderName=$(basename "$(dirname "{}")")
             siteTitle=$(awk "NR==1{print substr(\$0, 3)}" "{}")
-            sed -i "1s/^/---\\\n/" "{}"
-            sed -i "2s/^/toc: true\\\n/" "{}"
-            sed -i "3s/^/layout: dark\\\n/" "{}"
-            sed -i "4s/^/title: $siteTitle \\\n/" "{}"
-            sed -i "5s/^/category: $folderName \\\n/" "{}"
-            sed -i "6s/^/---\\\n/" "{}"
+            sed -i "1s/^/---\\n/" "{}"
+            sed -i "2s/^/toc: true\\n/" "{}"
+            sed -i "3s/^/layout: dark\\n/" "{}"
+            sed -i "4s/^/title: $siteTitle \\n/" "{}"
+            sed -i "5s/^/category: $folderName \\n/" "{}"
+            sed -i "6s/^/---\\n/" "{}"
           fi
         '
 
