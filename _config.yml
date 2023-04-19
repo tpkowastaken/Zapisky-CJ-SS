@@ -1,0 +1,39 @@
+source              : .
+destination         : ./_site
+
+# Handling Reading
+include             : ["*.md","*.markdown"]
+encoding            : "utf-8"
+markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
+
+# Plugins
+defaults:
+  - scope:
+      path: ""
+    values:
+      toc: true
+      layout: dark
+
+plugins:
+  - jekyll-toc
+
+# Conversion
+markdown: kramdown
+
+# TOC Settings
+kramdown:
+  show_warnings: true
+  input: GFM
+  auto_ids: true
+  toc_levels: 1..6
+toc:
+ min_level: 1
+ max_level: 3
+ list_class: toc
+ list_class: toc__list
+ sublist_class: toc__sublist
+
+
+github_repository_url: "https://github.com/tpkowastaken/Zapisky-CJ-SS"
+github_repository_nwo: "main"
+site_url: "https://tpkowastaken.github.io/Zapisky-CJ-SS"
