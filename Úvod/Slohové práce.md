@@ -4,6 +4,8 @@ layout: dark
 title: Slohové práce 
 category: Úvod 
 ---
+
+
 # Slohové práce
 Odstavce
 při přecházení od jedné myšlenky ke druhé nebo se mění část práce (začátek -> obsah -> konec). Nemusíme vynechávat řádek. Odsazuje se <tab> nebo enterem. Rozlišovat malá a velká písmena.
