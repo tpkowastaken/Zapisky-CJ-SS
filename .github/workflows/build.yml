@@ -56,14 +56,20 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+        path: repo-with-markdown-files
 
     - name: Checkout jekyll theme repo
       uses: actions/checkout@v2
       with:
         repository: tpkowastaken/jekyll-dark-github-theme
-        path: .
-        clean: false
-
+        path: repo-with-jekyll-theme
+      
+    - name: Copy new files from first repo to second repo
+      run: |
+        cp -R repo-with-markdown-files/* ./
+        cp -n -R repo-with-jekyll-theme/* ./
+      shell: bash
+  
     - name: Set Permissions
       run: |
         sudo chown -R $USER .
