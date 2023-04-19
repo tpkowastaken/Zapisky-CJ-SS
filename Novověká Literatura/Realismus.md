@@ -1,25 +1,9 @@
----
-toc: true
-layout: dark
-title: -
-category: Novověká Literatura 
----
----
----
----
-# Realismus 
----\n---\n---\n---\n# Realismus
-toc: true\ntoc: true\ntoc: true\ntoc: true\n* <span style="color: #DBA400">2.pol.19.st</span>
-layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* Umělecký směr a zároveň metoda zobrazení skutečnosti
-title: -
-category: Novověká Literatura \n---
----\n---
-# Realismus \ntitle: -
-category: Novověká Literatura \n---
----\n# Realismus \ntitle: -
-category: Novověká Literatura \n# Realismus \ntitle: Realismus \n* Kriticky a objektivně zobrazuje realitu a to bez iluzí a příkras
----\ncategory: Novověká Literatura \n* Prozkoumává se vnitro člověka, včetně jeho pudů a instiktů
----\n* Využití nových vědeckých poznatků (např. Z psychologie a sociologie)
+# Realismus
+* <span style="color: #DBA400">2.pol.19.st</span>
+* Umělecký směr a zároveň metoda zobrazení skutečnosti
+* Kriticky a objektivně zobrazuje realitu a to bez iluzí a příkras
+* Prozkoumává se vnitro člověka, včetně jeho pudů a instiktů
+* Využití nových vědeckých poznatků (např. Z psychologie a sociologie)
 * Často dokumentárnost
 * Zájem o současná témata
 * Důraz na sociální otázky

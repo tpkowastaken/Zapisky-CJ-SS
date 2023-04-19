@@ -1,25 +1,9 @@
----
-toc: true
-layout: dark
-title: -
-category: Novověká Literatura 
----
----
----
----
-# Humanismus 
----\n---\n---\n---\n# Humanismus
-toc: true\ntoc: true\ntoc: true\ntoc: true\n* <span style="color: #DBA400">70\. léta 15. století</span>
-layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n*  Odklon od boha jako jádra tehdejšího uvažování. 
-title: -
-category: Novověká Literatura \n---
----\n---
-# Humanismus \ntitle: -
-category: Novověká Literatura \n---
----\n# Humanismus \ntitle: -
-category: Novověká Literatura \n# Humanismus \ntitle: Humanismus \n*  Zaměření na člověka, na jeho rozum individualitu a obecně na pozemskou stránku života, který samostatně uvažuje je individuální a musí projít život na zemi.
----\ncategory: Novověká Literatura \n*  Životní a vzdělávací program, spjatý s renezancí
----\n*  Myslet humanisticky - prosazovat principy lidství které by měly platit všude
+# Humanismus
+* <span style="color: #DBA400">70\. léta 15. století</span>
+*  Odklon od boha jako jádra tehdejšího uvažování. 
+*  Zaměření na člověka, na jeho rozum individualitu a obecně na pozemskou stránku života, který samostatně uvažuje je individuální a musí projít život na zemi.
+*  Životní a vzdělávací program, spjatý s renezancí
+*  Myslet humanisticky - prosazovat principy lidství které by měly platit všude
 *  Vynález knihtisku - levnější a rozšířenější 1450 <span style="color: #6CAA46">**Johannes Gutenberg**</span>, napomohlo šíření vzdělanosti
 *  navazuje na Antickou vzdělanost
 *  Důraz na světské záležitosti, vzdělání a na člověka

@@ -1,25 +1,9 @@
----
-toc: true
-layout: dark
-title: -
-category: Novověká Literatura 
----
----
----
----
-# Klasicismus 
----\n---\n---\n---\n# Klasicismus
-toc: true\ntoc: true\ntoc: true\ntoc: true\n* 17-18.st.
-layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* Umělecký směr
-title: -
-category: Novověká Literatura \n---
----\n---
-# Klasicismus \ntitle: -
-category: Novověká Literatura \n---
----\n# Klasicismus \ntitle: -
-category: Novověká Literatura \n# Klasicismus \ntitle: Klasicismus \n* Důraz na řád
----\ncategory: Novověká Literatura \n* Popíral baroko v umírněnosti, střídmější láska k bohu
----\n* Kritizuje církev, návrat k osvícenství
+# Klasicismus
+* 17-18.st.
+* Umělecký směr
+* Důraz na řád
+* Popíral baroko v umírněnosti, střídmější láska k bohu
+* Kritizuje církev, návrat k osvícenství
 * Návrat k Antice
 * Důraz na řád a pravidla, etický kodex, společenský kodex, střízlivý (účelný, ne moc zdobný)
 * Původ z Francie

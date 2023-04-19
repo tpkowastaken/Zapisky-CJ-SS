@@ -1,25 +1,9 @@
----
-toc: true
-layout: dark
-title: -
-category: Novověká Literatura 
----
----
----
----
-# Preromantismus 
----\n---\n---\n---\n# Preromantismus
-toc: true\ntoc: true\ntoc: true\ntoc: true\n* 2\. polovina 18.st. - počátek 19.st.
-layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* Reaguje na osvícenství - posiluje se emoční nalazení -> důraz na city, emoce
-title: -
-category: Novověká Literatura \n---
----\n---
-# Preromantismus \ntitle: -
-category: Novověká Literatura \n---
----\n# Preromantismus \ntitle: -
-category: Novověká Literatura \n# Preromantismus \ntitle: Preromantismus \n* Znaky:
----\ncategory: Novověká Literatura \n  * Sentimentalismus -  vyžívat se v emocích (\*\*emotivní\*\*)
----\n  * Melancholie - ztísněné pocity, smutek - něco mezi zasněním a smutkem
+# Preromantismus
+* 2\. polovina 18.st. - počátek 19.st.
+* Reaguje na osvícenství - posiluje se emoční nalazení -> důraz na city, emoce
+* Znaky:
+  * Sentimentalismus -  vyžívat se v emocích (\*\*emotivní\*\*)
+  * Melancholie - ztísněné pocity, smutek - něco mezi zasněním a smutkem
   * Návrat k přírodě
   * Ctěny mravy, vznešenost
   * První projevy vlastenectví

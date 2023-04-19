@@ -1,25 +1,9 @@
----
-toc: true
-layout: dark
-title: -
-category: Novověká Literatura 
----
----
----
----
-# Renesanční literatura 
----\n---\n---\n---\n# Renesanční literatura
-toc: true\ntoc: true\ntoc: true\ntoc: true\n*  <span style="color: #DBA400">14\. \- 17.st.</span>
-layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* Vznikl v Itálii
-title: -
-category: Novověká Literatura \n---
----\n---
-# Renesanční literatura \ntitle: -
-category: Novověká Literatura \n---
----\n# Renesanční literatura \ntitle: -
-category: Novověká Literatura \n# Renesanční literatura \ntitle: Renesanční literatura \n* Návrat k antice - obnova antiky
----\ncategory: Novověká Literatura \n* Estetické ideály antiky
----\n  * Krása antická
+# Renesanční literatura
+*  <span style="color: #DBA400">14\. \- 17.st.</span>
+* Vznikl v Itálii
+* Návrat k antice - obnova antiky
+* Estetické ideály antiky
+  * Krása antická
 * Od počátku 16.st. se renezance šíří I do Za alpských zemí.
 * Kvůli Husitství se u nás zpozdila renezance.
 * <span style="color: #8422ce">**Individualismus**</span>

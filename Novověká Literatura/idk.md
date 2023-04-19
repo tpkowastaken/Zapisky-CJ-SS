@@ -1,25 +1,9 @@
----
-toc: true
-layout: dark
-title: -
-category: Novověká Literatura 
----
----
----
----
-generace Rukovsko-lumírovská 
----\n---\n---\n---\ngenerace Rukovsko-lumírovská
-toc: true\ntoc: true\ntoc: true\ntoc: true\n
-layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\nskupina Ruchovců X skupina lumírovců
-title: -
-category: Novověká Literatura \n---
----\n---
-generace Rukovsko-lumírovská \ntitle: -
-category: Novověká Literatura \n---
----\ngenerace Rukovsko-lumírovská \ntitle: -
-category: Novověká Literatura \ngenerace Rukovsko-lumírovská \ntitle: nerace Rukovsko-lumírovská \n
----\ncategory: Novověká Literatura \ngenerace, která nastupuje v 70., 80. letech
----\n
+generace Rukovsko-lumírovská
+
+skupina Ruchovců X skupina lumírovců
+
+generace, která nastupuje v 70., 80. letech
+
 almanach - soubor literálních příspěvků od různých autorů
 
 1868

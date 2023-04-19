@@ -1,25 +1,9 @@
----
-toc: true
-layout: dark
-title: -
-category: Úvod 
----
----
----
----
-# Členění Literatury 
----\n---\n---\n---\n# Členění Literatury
-toc: true\ntoc: true\ntoc: true\ntoc: true\n1. Umělecká (krásná/beletrie) - povídky a přiběhy
-layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n2. Odborná                          populárně naučná - (encyklopedie)
-title: -
-category: Úvod \n---
----\n---
-# Členění Literatury \ntitle: -
-category: Úvod \n---
----\n# Členění Literatury \ntitle: -
-category: Úvod \n# Členění Literatury \ntitle: Členění Literatury \n
----\ncategory: Úvod \n3. Administrativní - příručky, memorály, zákonník atd.
----\n4. Publicistická - noviny, články, letáky, reklamy
+# Členění Literatury
+1. Umělecká (krásná/beletrie) - povídky a přiběhy
+2. Odborná                          populárně naučná - (encyklopedie)
+
+3. Administrativní - příručky, memorály, zákonník atd.
+4. Publicistická - noviny, články, letáky, reklamy
 5. Náboženská - bible, Korán
 
 • Lyrika - bez deje o pocitech

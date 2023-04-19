@@ -1,25 +1,9 @@
----
-toc: true
-layout: dark
-title: -
-category: Pracovní Listy 
----
----
----
----
-# Frankenstein 
----\n---\n---\n---\n# Frankenstein
-toc: true\ntoc: true\ntoc: true\ntoc: true\n
-layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n## Umělecký text
-title: -
-category: Pracovní Listy \n---
----\n---
-# Frankenstein \ntitle: -
-category: Pracovní Listy \n---
----\n# Frankenstein \ntitle: -
-category: Pracovní Listy \n# Frankenstein \ntitle: Frankenstein \n
----\ncategory: Pracovní Listy \nZmocnil se mě hluboký zármutek, ale vzápětí ustoupil nenávisti a zoufalství. Oni byli mrtví, já žil a žil
----\ntaké jejich vrah. Avšak já jsem musel dále vést tento bezútěšný život, abych ho zničil. Poklekl jsem do trávy,
+# Frankenstein
+
+## Umělecký text
+
+Zmocnil se mě hluboký zármutek, ale vzápětí ustoupil nenávisti a zoufalství. Oni byli mrtví, já žil a žil
+také jejich vrah. Avšak já jsem musel dále vést tento bezútěšný život, abych ho zničil. Poklekl jsem do trávy,
 políbil zem a s chvějícími rty jsem zvolal: „Při posvátné půdě, na níž klečím, při stínech, které kolem mě
 poletují, a při věčném a hlubokém zármutku, který pociťuji, přísahám, že budu tak dlouho pronásledovat
 netvora, který toto utrpení způsobil, dokud já či on nezahyneme v zápase na život a na smrt! (…) A vás, duchové mrtvých, i vás, bloudící vyslanci pomsty, vyzývám, abyste mi pomáhali a vedli mé kroky. (…)

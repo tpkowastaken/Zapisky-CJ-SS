@@ -1,25 +1,9 @@
----
-toc: true
-layout: dark
-title: -
-category: Novověká Literatura 
----
----
----
----
-# Česká literatura 60. až 80. let 19. st. 
----\n---\n---\n---\n# Česká literatura 60. až 80. let 19. st.
-toc: true\ntoc: true\ntoc: true\ntoc: true\n## Generace májovců
-layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n- alamanach = soubor literárních příspěvků
-title: -
-category: Novověká Literatura \n---
----\n---
-# Česká literatura 60. až 80. let 19. st. \ntitle: -
-category: Novověká Literatura \n---
----\n# Česká literatura 60. až 80. let 19. st. \ntitle: -
-category: Novověká Literatura \n# Česká literatura 60. až 80. let 19. st. \ntitle: Česká literatura 60. až 80. let 19. st. \n- do almanachů ze starší generace přispívá Erben a Němcová
----\ncategory: Novověká Literatura \n- 1858 vydání almanachu Máj
----\n    - vystoupení mladé generace
+# Česká literatura 60. až 80. let 19. st.
+## Generace májovců
+- alamanach = soubor literárních příspěvků
+- do almanachů ze starší generace přispívá Erben a Němcová
+- 1858 vydání almanachu Máj
+    - vystoupení mladé generace
     - májovci v čele s Janem Nerudou a Vítězslavem Hálkem
     - Mácha symbolem revolty v básnictví - přínos něčeho nového, osobitého, vyborcoval čes. poezii k novému standardu
     - zájem o současná témata, snaha o realismus

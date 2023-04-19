@@ -1,25 +1,9 @@
----
-toc: true
-layout: dark
-title: -
-category: Novověká Literatura 
----
----
----
----
-# Národní obrození 
----\n---\n---\n---\n# Národní obrození
-toc: true\ntoc: true\ntoc: true\ntoc: true\n* 1.pol. 19.st.
-layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* snaha obrodit český jazyk, kulturu a literaturu.
-title: -
-category: Novověká Literatura \n---
----\n---
-# Národní obrození \ntitle: -
-category: Novověká Literatura \n---
----\n# Národní obrození \ntitle: -
-category: Novověká Literatura \n# Národní obrození \ntitle: Národní obrození \n* Národní hnutí - Politika
----\ncategory: Novověká Literatura \n* Národní obrození - Literatura
----\n* Politický x Literatura
+# Národní obrození
+* 1.pol. 19.st.
+* snaha obrodit český jazyk, kulturu a literaturu.
+* Národní hnutí - Politika
+* Národní obrození - Literatura
+* Politický x Literatura
 * Důvodem obrození je germanizace
   * Zrovnoprávnění Češtiny a Němčiny po bitvě na bílé hoře
   * Vláda Marie Terezie (1740 - 70)

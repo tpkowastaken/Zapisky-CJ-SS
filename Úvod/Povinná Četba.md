@@ -1,25 +1,9 @@
----
-toc: true
-layout: dark
-title: -
-category: Úvod 
----
----
----
----
-# povinná četba 
----\n---\n---\n---\n# povinná četba
-toc: true\ntoc: true\ntoc: true\ntoc: true\n
-layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n26 August 2022
-title: -
-category: Úvod \n---
----\n---
-# povinná četba \ntitle: -
-category: Úvod \n---
----\n# povinná četba \ntitle: -
-category: Úvod \n# povinná četba \ntitle: povinná četba \n21:09
----\ncategory: Úvod \n
----\nR.U.R.
+# povinná četba
+
+26 August 2022
+21:09
+
+R.U.R.
 Bylo nás pět
 spalovač mrtvol
 ostře středované vlaky

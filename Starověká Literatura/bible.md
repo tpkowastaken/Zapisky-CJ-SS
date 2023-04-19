@@ -1,25 +1,9 @@
----
-toc: true
-layout: dark
-title: -
-category: Starověká Literatura 
----
----
----
----
-# Bible 
----\n---\n---\n---\n# Bible
-toc: true\ntoc: true\ntoc: true\ntoc: true\n## <span style="color: #EC7627">**Stvoření světa**</span>
-layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* Jak bůh stvořil svět
-title: -
-category: Starověká Literatura \n---
----\n---
-# Bible \ntitle: -
-category: Starověká Literatura \n---
----\n# Bible \ntitle: -
-category: Starověká Literatura \n# Bible \ntitle: Bible \n  1. Nebe a Zem = svět
----\ncategory: Starověká Literatura \n  2. Obloha a Nebe
----\n  3. Moře
+# Bible
+## <span style="color: #EC7627">**Stvoření světa**</span>
+* Jak bůh stvořil svět
+  1. Nebe a Zem = svět
+  2. Obloha a Nebe
+  3. Moře
   4. Světlo => slunce a měsíc
   5. Zvířata
   6. Adam a Eva

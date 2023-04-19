@@ -1,25 +1,9 @@
----
-toc: true
-layout: dark
-title: -
-category: Středověká Literatura 
----
----
----
----
-* Eposy a romány  
----\n---\n---\n---\n* Eposy a romány 
-toc: true\ntoc: true\ntoc: true\ntoc: true\n* Motiv - Oddaný rytíř, který bojuje za svého pána
-layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* do popředí se staví milostná tématika, princ většinou zamilován do nějaké urozené ženy
-title: -
-category: Středověká Literatura \n---
----\n---
-* Eposy a romány  \ntitle: -
-category: Středověká Literatura \n---
----\n* Eposy a romány  \ntitle: -
-category: Středověká Literatura \n* Eposy a romány  \ntitle: Eposy a romány  \n* Rytířské kroniky byly Základní zdroj informací o středověku
----\ncategory: Středověká Literatura \nRytířská Epika
----\nBretoňský cyklus (konec 15. st.)
+* Eposy a romány 
+* Motiv - Oddaný rytíř, který bojuje za svého pána
+* do popředí se staví milostná tématika, princ většinou zamilován do nějaké urozené ženy
+* Rytířské kroniky byly Základní zdroj informací o středověku
+Rytířská Epika
+Bretoňský cyklus (konec 15. st.)
 * Anglosaský původ
 * O králi Artušovi a o rytířích kulatého stolu
 * Panovník hledá Svatý grál

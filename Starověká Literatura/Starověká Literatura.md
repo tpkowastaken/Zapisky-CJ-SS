@@ -1,25 +1,9 @@
----
-toc: true
-layout: dark
-title: -
-category: Starověká Literatura 
----
----
----
----
-# Středověká Literatura 
----\n---\n---\n---\n# Středověká Literatura
-toc: true\ntoc: true\ntoc: true\ntoc: true\n3. Tisíciletí př.n.l.
-layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n5.  st. našeho letopočtu (476)
-title: -
-category: Starověká Literatura \n---
----\n---
-# Středověká Literatura \ntitle: -
-category: Starověká Literatura \n---
----\n# Středověká Literatura \ntitle: -
-category: Starověká Literatura \n# Středověká Literatura \ntitle: Středověká Literatura \n○ Zánik západořímské říše
----\ncategory: Starověká Literatura \n* Země úrodného půlměsíce
----\n○ Egypt, Čína, Mezopotámie
+# Středověká Literatura
+3. Tisíciletí př.n.l.
+5.  st. našeho letopočtu (476)
+○ Zánik západořímské říše
+* Země úrodného půlměsíce
+○ Egypt, Čína, Mezopotámie
 * Antika
 ○ Řecko a Řím
 * Staroorientální říše

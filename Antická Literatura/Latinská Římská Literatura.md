@@ -1,25 +1,9 @@
----
-toc: true
-layout: dark
-title: -
-category: Antická Literatura 
----
----
----
----
-# Latinská Římská Literatura 
----\n---\n---\n---\n# Latinská Římská Literatura
-toc: true\ntoc: true\ntoc: true\ntoc: true\n• 3.století před kristem
-layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n• Není tak bohatá, jako původní řecká
-title: -
-category: Antická Literatura \n---
----\n---
-# Latinská Římská Literatura \ntitle: -
-category: Antická Literatura \n---
----\n# Latinská Římská Literatura \ntitle: -
-category: Antická Literatura \n# Latinská Římská Literatura \ntitle: Latinská Římská Literatura \n• Přebírá hotové útvary z literatury řecké
----\ncategory: Antická Literatura \n• Díky ní ze zvýšila znalost antické a řecké vzdělanosti
----\n
+# Latinská Římská Literatura
+• 3.století před kristem
+• Není tak bohatá, jako původní řecká
+• Přebírá hotové útvary z literatury řecké
+• Díky ní ze zvýšila znalost antické a řecké vzdělanosti
+
 Komedie
 Plautus
 - Psal řecké komedie

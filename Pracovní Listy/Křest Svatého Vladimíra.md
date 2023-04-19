@@ -1,25 +1,9 @@
----
-toc: true
-layout: dark
-title: -
-category: Pracovní Listy 
----
----
----
----
-„Co vám chybí?“ táže se cár 
----\n---\n---\n---\n„Co vám chybí?“ táže se cár
-toc: true\ntoc: true\ntoc: true\ntoc: true\nPod svým baldachýnem,
-layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\nOni všichni jedním hrdlem:
-title: -
-category: Pracovní Listy \n---
----\n---
-„Co vám chybí?“ táže se cár \ntitle: -
-category: Pracovní Listy \n---
----\n„Co vám chybí?“ táže se cár \ntitle: -
-category: Pracovní Listy \n„Co vám chybí?“ táže se cár \ntitle: o vám chybí?“ táže se cár \n„ Hynem, hynem, hynem!“
----\ncategory: Pracovní Listy \n
----\nCelé popstvo předstoupilo
+„Co vám chybí?“ táže se cár
+Pod svým baldachýnem,
+Oni všichni jedním hrdlem:
+„ Hynem, hynem, hynem!“
+
+Celé popstvo předstoupilo
 K cáru s deputací
 Jeden držel ve jménu všech
 Takovou oraci:
