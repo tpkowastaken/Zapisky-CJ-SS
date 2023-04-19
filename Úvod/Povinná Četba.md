@@ -1,7 +1,9 @@
----\n---\n# povinná četba
-toc: true\ntoc: true\n
-layout: dark\nlayout: dark\n26 August 2022
+---\n---\n---\n# povinná četba
+toc: true\ntoc: true\ntoc: true\n
+layout: dark\nlayout: dark\nlayout: dark\n26 August 2022
 title: -
+category: Úvod \n---
+---\n# povinná četba \ntitle: -
 category: Úvod \n# povinná četba \ntitle: povinná četba \n21:09
 ---\ncategory: Úvod \n
 ---\nR.U.R.

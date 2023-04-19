@@ -1,7 +1,9 @@
----\n---\n# Venkovská próza 2. poloviny 19. st.
-toc: true\ntoc: true\n## kritický realismus
-layout: dark\nlayout: dark\n- zdůrazňuje problémy a kritizuje je
+---\n---\n---\n# Venkovská próza 2. poloviny 19. st.
+toc: true\ntoc: true\ntoc: true\n## kritický realismus
+layout: dark\nlayout: dark\nlayout: dark\n- zdůrazňuje problémy a kritizuje je
 title: -
+category: Novověká Literatura \n---
+---\n# Venkovská próza 2. poloviny 19. st. \ntitle: -
 category: Novověká Literatura \n# Venkovská próza 2. poloviny 19. st. \ntitle: Venkovská próza 2. poloviny 19. st. \n- zaměřuje se na problémy ve společnosti
 ---\ncategory: Novověká Literatura \n    - hlavně v nižších vrstvách
 ---\n## Venkovská próza

@@ -1,7 +1,9 @@
----\n---\n# Humanismus
-toc: true\ntoc: true\n* <span style="color: #DBA400">70\. léta 15. století</span>
-layout: dark\nlayout: dark\n*  Odklon od boha jako jádra tehdejšího uvažování. 
+---\n---\n---\n# Humanismus
+toc: true\ntoc: true\ntoc: true\n* <span style="color: #DBA400">70\. léta 15. století</span>
+layout: dark\nlayout: dark\nlayout: dark\n*  Odklon od boha jako jádra tehdejšího uvažování. 
 title: -
+category: Novověká Literatura \n---
+---\n# Humanismus \ntitle: -
 category: Novověká Literatura \n# Humanismus \ntitle: Humanismus \n*  Zaměření na člověka, na jeho rozum individualitu a obecně na pozemskou stránku života, který samostatně uvažuje je individuální a musí projít život na zemi.
 ---\ncategory: Novověká Literatura \n*  Životní a vzdělávací program, spjatý s renezancí
 ---\n*  Myslet humanisticky - prosazovat principy lidství které by měly platit všude

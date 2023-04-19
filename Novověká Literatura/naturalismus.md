@@ -1,7 +1,9 @@
----\n---\n* Odnož realismu (krajní směr realismu)
-toc: true\ntoc: true\n* Zde se reálně zobrazují i odpudivé, škaredé jevy
-layout: dark\nlayout: dark\n○ Chybějící nohy, nemoci, smrt, krev, tabu témata
+---\n---\n---\n* Odnož realismu (krajní směr realismu)
+toc: true\ntoc: true\ntoc: true\n* Zde se reálně zobrazují i odpudivé, škaredé jevy
+layout: dark\nlayout: dark\nlayout: dark\n○ Chybějící nohy, nemoci, smrt, krev, tabu témata
 title: -
+category: Novověká Literatura \n---
+---\n* Odnož realismu (krajní směr realismu) \ntitle: -
 category: Novověká Literatura \n* Odnož realismu (krajní směr realismu) \ntitle: Odnož realismu (krajní směr realismu) \n* Obvykle líčí nejnižší vrstvy společnosti]postavy jsou velice často psychicky nevyrovnané
 ---\ncategory: Novověká Literatura \n* Až zvrácenost postav
 ---\n○ Studium motivů daných postav

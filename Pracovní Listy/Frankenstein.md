@@ -1,7 +1,9 @@
----\n---\n# Frankenstein
-toc: true\ntoc: true\n
-layout: dark\nlayout: dark\n## Umělecký text
+---\n---\n---\n# Frankenstein
+toc: true\ntoc: true\ntoc: true\n
+layout: dark\nlayout: dark\nlayout: dark\n## Umělecký text
 title: -
+category: Pracovní Listy \n---
+---\n# Frankenstein \ntitle: -
 category: Pracovní Listy \n# Frankenstein \ntitle: Frankenstein \n
 ---\ncategory: Pracovní Listy \nZmocnil se mě hluboký zármutek, ale vzápětí ustoupil nenávisti a zoufalství. Oni byli mrtví, já žil a žil
 ---\ntaké jejich vrah. Avšak já jsem musel dále vést tento bezútěšný život, abych ho zničil. Poklekl jsem do trávy,

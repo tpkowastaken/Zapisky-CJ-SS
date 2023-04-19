@@ -1,7 +1,9 @@
----\n---\n# Osvícenství
-toc: true\ntoc: true\n* 18.st.
-layout: dark\nlayout: dark\nZnaky
+---\n---\n---\n# Osvícenství
+toc: true\ntoc: true\ntoc: true\n* 18.st.
+layout: dark\nlayout: dark\nlayout: dark\nZnaky
 title: -
+category: Novověká Literatura \n---
+---\n# Osvícenství \ntitle: -
 category: Novověká Literatura \n# Osvícenství \ntitle: Osvícenství \n* myšlenkový a filozofický směr
 ---\ncategory: Novověká Literatura \n* rozum, racionalismus, osvěta, střídmost, společnost, Společenská svoboda/práva
 ---\n* důraz na vzdělání, rozum, výchovu, vědu

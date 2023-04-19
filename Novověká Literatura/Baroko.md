@@ -1,7 +1,9 @@
----\n---\n# Baroko
-toc: true\ntoc: true\n* <span style="color: #DBA400">17.st. - 18.st.</span>
-layout: dark\nlayout: dark\n* Velký návrat k bohu - způsoben 30ti letou válkou 1618-1648 (30% obyvatelstva umřelo, zničené státy)
+---\n---\n---\n# Baroko
+toc: true\ntoc: true\ntoc: true\n* <span style="color: #DBA400">17.st. - 18.st.</span>
+layout: dark\nlayout: dark\nlayout: dark\n* Velký návrat k bohu - způsoben 30ti letou válkou 1618-1648 (30% obyvatelstva umřelo, zničené státy)
 title: -
+category: Novověká Literatura \n---
+---\n# Baroko \ntitle: -
 category: Novověká Literatura \n# Baroko \ntitle: Baroko \n* Monumentálnost.
 ---\ncategory: Novověká Literatura \n* <span style="color: #8422ce">**Reformace**</span> - <span style="color: #6CAA46">**Martin Luther**</span> - dokázal reformovat tehdejší evropu svým učením - začaly vznikat protestanské (reformované) církve
 ---\n* <span style="color: #8422ce">**Protireformace**</span> - akce vedené katolickou církví, baroko - <span style="color: #DBA400">1620</span> - bitva na bílé hoře - Protestanti x Katolíci -> násilná Rekatolizce | Husité => Katolíci nebo EXIL (<span style="color: #6CAA46">**Komenský**</span>)
