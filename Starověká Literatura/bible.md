@@ -8,12 +8,14 @@ category: Starověká Literatura
 
 
 
-# Bible
+#
+ Bible
 
 
 
 
-## <span style="color: #EC7627">**Stvoření světa**</span>
+#
+# <span style="color: #EC7627">**Stvoření světa**</span>
 * Jak bůh stvořil svět
   1. Nebe a Zem = svět
   2. Obloha a Nebe
@@ -26,7 +28,8 @@ category: Starověká Literatura
 
 
 
-## <span style="color: #EC7627">**Adam a Eva**</span>
+#
+# <span style="color: #EC7627">**Adam a Eva**</span>
 * První hřích
 * Had nabádal Evu k nakousnutí zakázaného jablka
 * Bůh odstranil hadovy nohy jako trest (had = Satan)
@@ -34,10 +37,13 @@ category: Starověká Literatura
 
 
 
-## <span style="color: #EC7627">**Kein a Abel**</span>
+#
+# <span style="color: #EC7627">**Kein a Abel**</span>
 * Potomci Adama a Evy
-* <span style="color: #6CAA46">**Kein**</span> = Farmář
-* <span style="color: #6CAA46">**Abel**</span> = pastvec ovcí
+* <span style="color: #
+6CAA46">**Kein**</span> = Farmář
+* <span style="color: #
+6CAA46">**Abel**</span> = pastvec ovcí
 * Podávali oběti Bohu
 * Kein zabil Ábela ze závisti protože bůh víc ocenil oběť Ábela
 * Selhal v Bohu ale ten to věděl
@@ -45,8 +51,10 @@ category: Starověká Literatura
 
 
 
-## <span style="color: #EC7627">**Potopa světa**</span>
-* <span style="color: #6CAA46">**Moe**</span> nechal postavit archu
+#
+# <span style="color: #EC7627">**Potopa světa**</span>
+* <span style="color: #
+6CAA46">**Moe**</span> nechal postavit archu
   * 3 patra
   * Stavěl jí celý rok
 * Důvod: moc zlých lidí
@@ -57,7 +65,8 @@ category: Starověká Literatura
 
 
 
-## <span style="color: #EC7627">**Zmatení jazyků (Babylónská věž)**</span>
+#
+# <span style="color: #EC7627">**Zmatení jazyků (Babylónská věž)**</span>
 * Babylónská věž za Hospodinem
 * Bohu se to nelíbilo
 * Zamýchal jazyky
@@ -66,20 +75,28 @@ category: Starověká Literatura
 
 
 
-## <span style="color: #EC7627">**Abrahám**</span>
-* Bůh promluvil k <span style="color: #6CAA46">**Abrahámovi**</span> aby ten našel novou zem
+#
+# <span style="color: #EC7627">**Abrahám**</span>
+* Bůh promluvil k <span style="color: #
+6CAA46">**Abrahámovi**</span> aby ten našel novou zem
 * Vzal rodinu a zbytek
-* Manželka nemohla porodit a řekla manželovi aby to zkusil se služkou <span style="color: #6CAA46">**Hagar**</span>
-* <span style="color: #6CAA46">**Abraham**</span> + <span style="color: #6CAA46">**Hagar**</span> = <span style="color: #6CAA46">**izmael**</span>
-* <span style="color: #6CAA46">**Abraham**</span> + <span style="color: #6CAA46">**Sára**</span> =  <span style="color: #6CAA46">**Izák**</span>
+* Manželka nemohla porodit a řekla manželovi aby to zkusil se služkou <span style="color: #
+6CAA46">**Hagar**</span>
+* <span style="color: #
+6CAA46">**Abraham**</span> + <span style="color: #6CAA46">**Hagar**</span> = <span style="color: #6CAA46">**izmael**</span>
+* <span style="color: #
+6CAA46">**Abraham**</span> + <span style="color: #6CAA46">**Sára**</span> =  <span style="color: #6CAA46">**Izák**</span>
 
 
 
 
-## <span style="color: #EC7627">**Mojžíš**</span>
+#
+# <span style="color: #EC7627">**Mojžíš**</span>
 * Po pádu Babylónu šli židi do Egyptu
-* <span style="color: #FF6363">**Hořící keř**</span> - zjevení Boha před Mojžíšem
-* <span style="color: #EC7627">**10 ran Egyptských**</span>
+* <span style="color: #
+FF6363">**Hořící keř**</span> - zjevení Boha před Mojžíšem
+* <span style="color: #
+EC7627">**10 ran Egyptských**</span>
   1. Krev
   2. žáby
   3. štěnice
@@ -96,7 +113,8 @@ category: Starověká Literatura
 
 
 
-## <span style="color: #EC7627">**Samson + Deliela**</span> = zrada ježíše
+#
+# <span style="color: #EC7627">**Samson + Deliela**</span> = zrada ježíše
 * Pilát Pontský
 * Getsemanská zahrada
 * Barabáš
@@ -109,7 +127,8 @@ category: Starověká Literatura
 
 
 
-## Pronásledování Křesťanů
+#
+# Pronásledování Křesťanů
 * Henryk Soukyš
   * Quo Vadis (19.st.)
 * Odešel Svatý Petr - Kam kráčíš Domine
@@ -131,7 +150,8 @@ category: Starověká Literatura
 
 
 
-## Nový zákon - o Ježíšovi
+#
+# Nový zákon - o Ježíšovi
 * První knihy byly:
   * Čtyři Evangelia
     1. Marek
@@ -148,7 +168,8 @@ category: Starověká Literatura
 
 
 
-### <span style="color: #EC7627">**Zjevení Janovo**</span>
+#
+## <span style="color: #EC7627">**Zjevení Janovo**</span>
 * Poslední kniha nového zákona
 * Apokalypsa
 * Hodně obrázků
