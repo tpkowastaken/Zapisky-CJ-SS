@@ -1,7 +1,10 @@
----\n---\n---\n# Klasicismus
-toc: true\ntoc: true\ntoc: true\n* 17-18.st.
-layout: dark\nlayout: dark\nlayout: dark\n* Umělecký směr
+---\n---\n---\n---\n# Klasicismus
+toc: true\ntoc: true\ntoc: true\ntoc: true\n* 17-18.st.
+layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* Umělecký směr
 title: -
+category: Novověká Literatura \n---
+---\n---
+# Klasicismus \ntitle: -
 category: Novověká Literatura \n---
 ---\n# Klasicismus \ntitle: -
 category: Novověká Literatura \n# Klasicismus \ntitle: Klasicismus \n* Důraz na řád

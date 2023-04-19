@@ -1,7 +1,10 @@
----\n---\n---\n# Osvícenství
-toc: true\ntoc: true\ntoc: true\n* 18.st.
-layout: dark\nlayout: dark\nlayout: dark\nZnaky
+---\n---\n---\n---\n# Osvícenství
+toc: true\ntoc: true\ntoc: true\ntoc: true\n* 18.st.
+layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\nZnaky
 title: -
+category: Novověká Literatura \n---
+---\n---
+# Osvícenství \ntitle: -
 category: Novověká Literatura \n---
 ---\n# Osvícenství \ntitle: -
 category: Novověká Literatura \n# Osvícenství \ntitle: Osvícenství \n* myšlenkový a filozofický směr

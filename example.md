@@ -1,7 +1,10 @@
----\n---\n---\n# Témata
-toc: true\ntoc: true\ntoc: true\n## <span style="color: #327DC3">**Dělení**</span>
-layout: dark\nlayout: dark\nlayout: dark\n### <span style="color: #6CAA46">**Autoři**</span>
+---\n---\n---\n---\n# Témata
+toc: true\ntoc: true\ntoc: true\ntoc: true\n## <span style="color: #327DC3">**Dělení**</span>
+layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n### <span style="color: #6CAA46">**Autoři**</span>
 title: -
+category: . \n---
+---\n---
+# Témata \ntitle: -
 category: . \n---
 ---\n# Témata \ntitle: -
 category: . \n# Témata \ntitle: Témata \n

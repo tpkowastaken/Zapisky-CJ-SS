@@ -1,7 +1,10 @@
----\n---\n---\ngenerace Rukovsko-lumírovská
-toc: true\ntoc: true\ntoc: true\n
-layout: dark\nlayout: dark\nlayout: dark\nskupina Ruchovců X skupina lumírovců
+---\n---\n---\n---\ngenerace Rukovsko-lumírovská
+toc: true\ntoc: true\ntoc: true\ntoc: true\n
+layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\nskupina Ruchovců X skupina lumírovců
 title: -
+category: Novověká Literatura \n---
+---\n---
+generace Rukovsko-lumírovská \ntitle: -
 category: Novověká Literatura \n---
 ---\ngenerace Rukovsko-lumírovská \ntitle: -
 category: Novověká Literatura \ngenerace Rukovsko-lumírovská \ntitle: nerace Rukovsko-lumírovská \n

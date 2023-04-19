@@ -1,7 +1,10 @@
----\n---\n---\nco je to kritický realismus a jak se projevuje v české literatuře
-toc: true\ntoc: true\ntoc: true\n
-layout: dark\nlayout: dark\nlayout: dark\n* Někdy jako synonymum pro realismus 19. a počátku 20. století, jindy jako druhá, vyspělejší fáze realismu, 
+---\n---\n---\n---\nco je to kritický realismus a jak se projevuje v české literatuře
+toc: true\ntoc: true\ntoc: true\ntoc: true\n
+layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* Někdy jako synonymum pro realismus 19. a počátku 20. století, jindy jako druhá, vyspělejší fáze realismu, 
 title: -
+category: testy \n---
+---\n---
+co je to kritický realismus a jak se projevuje v české literatuře \ntitle: -
 category: testy \n---
 ---\nco je to kritický realismus a jak se projevuje v české literatuře \ntitle: -
 category: testy \nco je to kritický realismus a jak se projevuje v české literatuře \ntitle:  je to kritický realismus a jak se projevuje v české literatuře \nPodle Engelse zaznamenávali tito spisovatelé realitu buržoazní společnosti „lépe než historikové, ekonomové a statistici z povolání

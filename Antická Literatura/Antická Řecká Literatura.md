@@ -1,7 +1,10 @@
----\n---\n---\n# Antická Řecká Literatura
-toc: true\ntoc: true\ntoc: true\n* Ztělesnění věčného mládí a krásy
-layout: dark\nlayout: dark\nlayout: dark\n* Koncem Března uznávali slavnost v čest Dionýsovi - Bohu vína a veselí
+---\n---\n---\n---\n# Antická Řecká Literatura
+toc: true\ntoc: true\ntoc: true\ntoc: true\n* Ztělesnění věčného mládí a krásy
+layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* Koncem Března uznávali slavnost v čest Dionýsovi - Bohu vína a veselí
 title: -
+category: Antická Literatura \n---
+---\n---
+# Antická Řecká Literatura \ntitle: -
 category: Antická Literatura \n---
 ---\n# Antická Řecká Literatura \ntitle: -
 category: Antická Literatura \n# Antická Řecká Literatura \ntitle: Antická Řecká Literatura \n- Tanec na píseň kozlů

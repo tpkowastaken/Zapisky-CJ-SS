@@ -1,7 +1,10 @@
----\n---\n---\n# Bible
-toc: true\ntoc: true\ntoc: true\n## <span style="color: #EC7627">**Stvoření světa**</span>
-layout: dark\nlayout: dark\nlayout: dark\n* Jak bůh stvořil svět
+---\n---\n---\n---\n# Bible
+toc: true\ntoc: true\ntoc: true\ntoc: true\n## <span style="color: #EC7627">**Stvoření světa**</span>
+layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* Jak bůh stvořil svět
 title: -
+category: Starověká Literatura \n---
+---\n---
+# Bible \ntitle: -
 category: Starověká Literatura \n---
 ---\n# Bible \ntitle: -
 category: Starověká Literatura \n# Bible \ntitle: Bible \n  1. Nebe a Zem = svět

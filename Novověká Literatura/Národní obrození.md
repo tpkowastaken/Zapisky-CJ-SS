@@ -1,7 +1,10 @@
----\n---\n---\n# Národní obrození
-toc: true\ntoc: true\ntoc: true\n* 1.pol. 19.st.
-layout: dark\nlayout: dark\nlayout: dark\n* snaha obrodit český jazyk, kulturu a literaturu.
+---\n---\n---\n---\n# Národní obrození
+toc: true\ntoc: true\ntoc: true\ntoc: true\n* 1.pol. 19.st.
+layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* snaha obrodit český jazyk, kulturu a literaturu.
 title: -
+category: Novověká Literatura \n---
+---\n---
+# Národní obrození \ntitle: -
 category: Novověká Literatura \n---
 ---\n# Národní obrození \ntitle: -
 category: Novověká Literatura \n# Národní obrození \ntitle: Národní obrození \n* Národní hnutí - Politika

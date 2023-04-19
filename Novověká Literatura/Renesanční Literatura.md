@@ -1,7 +1,10 @@
----\n---\n---\n# Renesanční literatura
-toc: true\ntoc: true\ntoc: true\n*  <span style="color: #DBA400">14\. \- 17.st.</span>
-layout: dark\nlayout: dark\nlayout: dark\n* Vznikl v Itálii
+---\n---\n---\n---\n# Renesanční literatura
+toc: true\ntoc: true\ntoc: true\ntoc: true\n*  <span style="color: #DBA400">14\. \- 17.st.</span>
+layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* Vznikl v Itálii
 title: -
+category: Novověká Literatura \n---
+---\n---
+# Renesanční literatura \ntitle: -
 category: Novověká Literatura \n---
 ---\n# Renesanční literatura \ntitle: -
 category: Novověká Literatura \n# Renesanční literatura \ntitle: Renesanční literatura \n* Návrat k antice - obnova antiky

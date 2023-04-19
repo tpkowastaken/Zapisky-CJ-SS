@@ -1,7 +1,10 @@
----\n---\n---\n# Realismus
-toc: true\ntoc: true\ntoc: true\n* <span style="color: #DBA400">2.pol.19.st</span>
-layout: dark\nlayout: dark\nlayout: dark\n* Umělecký směr a zároveň metoda zobrazení skutečnosti
+---\n---\n---\n---\n# Realismus
+toc: true\ntoc: true\ntoc: true\ntoc: true\n* <span style="color: #DBA400">2.pol.19.st</span>
+layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* Umělecký směr a zároveň metoda zobrazení skutečnosti
 title: -
+category: Novověká Literatura \n---
+---\n---
+# Realismus \ntitle: -
 category: Novověká Literatura \n---
 ---\n# Realismus \ntitle: -
 category: Novověká Literatura \n# Realismus \ntitle: Realismus \n* Kriticky a objektivně zobrazuje realitu a to bez iluzí a příkras

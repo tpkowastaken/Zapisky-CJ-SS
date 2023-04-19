@@ -1,7 +1,10 @@
----\n---\n---\n# Romantismus
-toc: true\ntoc: true\ntoc: true\n* 1.pol. 19. st.
-layout: dark\nlayout: dark\nlayout: dark\n  * Ve světové literatuře: Poč. 19. st.
+---\n---\n---\n---\n# Romantismus
+toc: true\ntoc: true\ntoc: true\ntoc: true\n* 1.pol. 19. st.
+layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n  * Ve světové literatuře: Poč. 19. st.
 title: -
+category: Novověká Literatura \n---
+---\n---
+# Romantismus \ntitle: -
 category: Novověká Literatura \n---
 ---\n# Romantismus \ntitle: -
 category: Novověká Literatura \n# Romantismus \ntitle: Romantismus \n  * V české literatuře: cca 30. léta 19. st.

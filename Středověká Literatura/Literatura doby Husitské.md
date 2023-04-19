@@ -1,7 +1,10 @@
----\n---\n---\n# Literatura doby Husitské
-toc: true\ntoc: true\ntoc: true\nHusitské války
-layout: dark\nlayout: dark\nlayout: dark\n* 1419 - První pražská defenestrace - vedl ji Jan Želivský
+---\n---\n---\n---\n# Literatura doby Husitské
+toc: true\ntoc: true\ntoc: true\ntoc: true\nHusitské války
+layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* 1419 - První pražská defenestrace - vedl ji Jan Želivský
 title: -
+category: Středověká Literatura \n---
+---\n---
+# Literatura doby Husitské \ntitle: -
 category: Středověká Literatura \n---
 ---\n# Literatura doby Husitské \ntitle: -
 category: Středověká Literatura \n# Literatura doby Husitské \ntitle: Literatura doby Husitské \n* 1420 - 1434

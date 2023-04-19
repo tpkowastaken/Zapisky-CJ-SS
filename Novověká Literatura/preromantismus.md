@@ -1,7 +1,10 @@
----\n---\n---\n# Preromantismus
-toc: true\ntoc: true\ntoc: true\n* 2\. polovina 18.st. - počátek 19.st.
-layout: dark\nlayout: dark\nlayout: dark\n* Reaguje na osvícenství - posiluje se emoční nalazení -> důraz na city, emoce
+---\n---\n---\n---\n# Preromantismus
+toc: true\ntoc: true\ntoc: true\ntoc: true\n* 2\. polovina 18.st. - počátek 19.st.
+layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* Reaguje na osvícenství - posiluje se emoční nalazení -> důraz na city, emoce
 title: -
+category: Novověká Literatura \n---
+---\n---
+# Preromantismus \ntitle: -
 category: Novověká Literatura \n---
 ---\n# Preromantismus \ntitle: -
 category: Novověká Literatura \n# Preromantismus \ntitle: Preromantismus \n* Znaky:

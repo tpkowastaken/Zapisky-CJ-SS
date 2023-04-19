@@ -1,7 +1,10 @@
----\n---\n---\n* Eposy a romány 
-toc: true\ntoc: true\ntoc: true\n* Motiv - Oddaný rytíř, který bojuje za svého pána
-layout: dark\nlayout: dark\nlayout: dark\n* do popředí se staví milostná tématika, princ většinou zamilován do nějaké urozené ženy
+---\n---\n---\n---\n* Eposy a romány 
+toc: true\ntoc: true\ntoc: true\ntoc: true\n* Motiv - Oddaný rytíř, který bojuje za svého pána
+layout: dark\nlayout: dark\nlayout: dark\nlayout: dark\n* do popředí se staví milostná tématika, princ většinou zamilován do nějaké urozené ženy
 title: -
+category: Středověká Literatura \n---
+---\n---
+* Eposy a romány  \ntitle: -
 category: Středověká Literatura \n---
 ---\n* Eposy a romány  \ntitle: -
 category: Středověká Literatura \n* Eposy a romány  \ntitle: Eposy a romány  \n* Rytířské kroniky byly Základní zdroj informací o středověku
