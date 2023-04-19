@@ -1,9 +1,9 @@
-# Klasicismus
-* 17-18.st.
-* Umělecký směr
-* Důraz na řád
-* Popíral baroko v umírněnosti, střídmější láska k bohu
-* Kritizuje církev, návrat k osvícenství
+---\n# Klasicismus
+toc: true\n* 17-18.st.
+layout: dark\n* Umělecký směr
+title: Klasicismus \n* Důraz na řád
+category: Novověká Literatura \n* Popíral baroko v umírněnosti, střídmější láska k bohu
+---\n* Kritizuje církev, návrat k osvícenství
 * Návrat k Antice
 * Důraz na řád a pravidla, etický kodex, společenský kodex, střízlivý (účelný, ne moc zdobný)
 * Původ z Francie

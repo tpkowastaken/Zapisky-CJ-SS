@@ -1,9 +1,9 @@
-# povinná četba
-
-26 August 2022
-21:09
-
-R.U.R.
+---\n# povinná četba
+toc: true\n
+layout: dark\n26 August 2022
+title: povinná četba \n21:09
+category: Úvod \n
+---\nR.U.R.
 Bylo nás pět
 spalovač mrtvol
 ostře středované vlaky

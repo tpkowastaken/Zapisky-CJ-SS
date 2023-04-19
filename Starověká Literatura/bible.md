@@ -1,9 +1,9 @@
-# Bible
-## <span style="color: #EC7627">**Stvoření světa**</span>
-* Jak bůh stvořil svět
-  1. Nebe a Zem = svět
-  2. Obloha a Nebe
-  3. Moře
+---\n# Bible
+toc: true\n## <span style="color: #EC7627">**Stvoření světa**</span>
+layout: dark\n* Jak bůh stvořil svět
+title: Bible \n  1. Nebe a Zem = svět
+category: Starověká Literatura \n  2. Obloha a Nebe
+---\n  3. Moře
   4. Světlo => slunce a měsíc
   5. Zvířata
   6. Adam a Eva

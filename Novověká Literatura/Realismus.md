@@ -1,9 +1,9 @@
-# Realismus
-* <span style="color: #DBA400">2.pol.19.st</span>
-* Umělecký směr a zároveň metoda zobrazení skutečnosti
-* Kriticky a objektivně zobrazuje realitu a to bez iluzí a příkras
-* Prozkoumává se vnitro člověka, včetně jeho pudů a instiktů
-* Využití nových vědeckých poznatků (např. Z psychologie a sociologie)
+---\n# Realismus
+toc: true\n* <span style="color: #DBA400">2.pol.19.st</span>
+layout: dark\n* Umělecký směr a zároveň metoda zobrazení skutečnosti
+title: Realismus \n* Kriticky a objektivně zobrazuje realitu a to bez iluzí a příkras
+category: Novověká Literatura \n* Prozkoumává se vnitro člověka, včetně jeho pudů a instiktů
+---\n* Využití nových vědeckých poznatků (např. Z psychologie a sociologie)
 * Často dokumentárnost
 * Zájem o současná témata
 * Důraz na sociální otázky

@@ -1,9 +1,9 @@
-# Latinská Římská Literatura
-• 3.století před kristem
-• Není tak bohatá, jako původní řecká
-• Přebírá hotové útvary z literatury řecké
-• Díky ní ze zvýšila znalost antické a řecké vzdělanosti
-
+---\n# Latinská Římská Literatura
+toc: true\n• 3.století před kristem
+layout: dark\n• Není tak bohatá, jako původní řecká
+title: Latinská Římská Literatura \n• Přebírá hotové útvary z literatury řecké
+category: Antická Literatura \n• Díky ní ze zvýšila znalost antické a řecké vzdělanosti
+---\n
 Komedie
 Plautus
 - Psal řecké komedie

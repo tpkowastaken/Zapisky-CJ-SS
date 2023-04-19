@@ -1,9 +1,9 @@
-„Co vám chybí?“ táže se cár
-Pod svým baldachýnem,
-Oni všichni jedním hrdlem:
-„ Hynem, hynem, hynem!“
-
-Celé popstvo předstoupilo
+---\n„Co vám chybí?“ táže se cár
+toc: true\nPod svým baldachýnem,
+layout: dark\nOni všichni jedním hrdlem:
+title: o vám chybí?“ táže se cár \n„ Hynem, hynem, hynem!“
+category: Pracovní Listy \n
+---\nCelé popstvo předstoupilo
 K cáru s deputací
 Jeden držel ve jménu všech
 Takovou oraci:

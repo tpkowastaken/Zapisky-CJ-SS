@@ -1,9 +1,9 @@
-# Česká literatura 60. až 80. let 19. st.
-## Generace májovců
-- alamanach = soubor literárních příspěvků
-- do almanachů ze starší generace přispívá Erben a Němcová
-- 1858 vydání almanachu Máj
-    - vystoupení mladé generace
+---\n# Česká literatura 60. až 80. let 19. st.
+toc: true\n## Generace májovců
+layout: dark\n- alamanach = soubor literárních příspěvků
+title: Česká literatura 60. až 80. let 19. st. \n- do almanachů ze starší generace přispívá Erben a Němcová
+category: Novověká Literatura \n- 1858 vydání almanachu Máj
+---\n    - vystoupení mladé generace
     - májovci v čele s Janem Nerudou a Vítězslavem Hálkem
     - Mácha symbolem revolty v básnictví - přínos něčeho nového, osobitého, vyborcoval čes. poezii k novému standardu
     - zájem o současná témata, snaha o realismus

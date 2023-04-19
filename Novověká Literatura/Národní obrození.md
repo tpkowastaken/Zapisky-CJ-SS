@@ -1,9 +1,9 @@
-# Národní obrození
-* 1.pol. 19.st.
-* snaha obrodit český jazyk, kulturu a literaturu.
-* Národní hnutí - Politika
-* Národní obrození - Literatura
-* Politický x Literatura
+---\n# Národní obrození
+toc: true\n* 1.pol. 19.st.
+layout: dark\n* snaha obrodit český jazyk, kulturu a literaturu.
+title: Národní obrození \n* Národní hnutí - Politika
+category: Novověká Literatura \n* Národní obrození - Literatura
+---\n* Politický x Literatura
 * Důvodem obrození je germanizace
   * Zrovnoprávnění Češtiny a Němčiny po bitvě na bílé hoře
   * Vláda Marie Terezie (1740 - 70)

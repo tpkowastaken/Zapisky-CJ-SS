@@ -1,9 +1,9 @@
-generace Rukovsko-lumírovská
-
-skupina Ruchovců X skupina lumírovců
-
-generace, která nastupuje v 70., 80. letech
-
+---\ngenerace Rukovsko-lumírovská
+toc: true\n
+layout: dark\nskupina Ruchovců X skupina lumírovců
+title: nerace Rukovsko-lumírovská \n
+category: Novověká Literatura \ngenerace, která nastupuje v 70., 80. letech
+---\n
 almanach - soubor literálních příspěvků od různých autorů
 
 1868

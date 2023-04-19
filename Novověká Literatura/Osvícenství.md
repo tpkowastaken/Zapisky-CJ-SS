@@ -1,9 +1,9 @@
-# Osvícenství
-* 18.st.
-Znaky
-* myšlenkový a filozofický směr
-* rozum, racionalismus, osvěta, střídmost, společnost, Společenská svoboda/práva
-* důraz na vzdělání, rozum, výchovu, vědu
+---\n# Osvícenství
+toc: true\n* 18.st.
+layout: dark\nZnaky
+title: Osvícenství \n* myšlenkový a filozofický směr
+category: Novověká Literatura \n* rozum, racionalismus, osvěta, střídmost, společnost, Společenská svoboda/práva
+---\n* důraz na vzdělání, rozum, výchovu, vědu
 * obrací se proti církvi, kritizuje ji a její tmářství
 * osvícenský absolutismus
   * Marie Terezie, Josef II.

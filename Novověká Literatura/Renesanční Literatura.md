@@ -1,9 +1,9 @@
-# Renesanční literatura
-*  <span style="color: #DBA400">14\. \- 17.st.</span>
-* Vznikl v Itálii
-* Návrat k antice - obnova antiky
-* Estetické ideály antiky
-  * Krása antická
+---\n# Renesanční literatura
+toc: true\n*  <span style="color: #DBA400">14\. \- 17.st.</span>
+layout: dark\n* Vznikl v Itálii
+title: Renesanční literatura \n* Návrat k antice - obnova antiky
+category: Novověká Literatura \n* Estetické ideály antiky
+---\n  * Krása antická
 * Od počátku 16.st. se renezance šíří I do Za alpských zemí.
 * Kvůli Husitství se u nás zpozdila renezance.
 * <span style="color: #8422ce">**Individualismus**</span>

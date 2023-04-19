@@ -1,9 +1,9 @@
-# Literatura doby Husitské
-Husitské války
-* 1419 - První pražská defenestrace - vedl ji Jan Želivský
-* 1420 - 1434
-* Husité x Katolíci (křižáci) posílal je papež a Zikmund Lucemburský
-* Ovlivněny působením mistra Jana Husa
+---\n# Literatura doby Husitské
+toc: true\nHusitské války
+layout: dark\n* 1419 - První pražská defenestrace - vedl ji Jan Želivský
+title: Literatura doby Husitské \n* 1420 - 1434
+category: Středověká Literatura \n* Husité x Katolíci (křižáci) posílal je papež a Zikmund Lucemburský
+---\n* Ovlivněny působením mistra Jana Husa
 * 1434 bitva u lipan - radikální x umínění husité
 Literatura během husitských válek
 * Jistebnický Kancionál

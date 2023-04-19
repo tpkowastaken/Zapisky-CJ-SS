@@ -1,9 +1,9 @@
-# Členění Literatury
-1. Umělecká (krásná/beletrie) - povídky a přiběhy
-2. Odborná                          populárně naučná - (encyklopedie)
-
-3. Administrativní - příručky, memorály, zákonník atd.
-4. Publicistická - noviny, články, letáky, reklamy
+---\n# Členění Literatury
+toc: true\n1. Umělecká (krásná/beletrie) - povídky a přiběhy
+layout: dark\n2. Odborná                          populárně naučná - (encyklopedie)
+title: Členění Literatury \n
+category: Úvod \n3. Administrativní - příručky, memorály, zákonník atd.
+---\n4. Publicistická - noviny, články, letáky, reklamy
 5. Náboženská - bible, Korán
 
 • Lyrika - bez deje o pocitech

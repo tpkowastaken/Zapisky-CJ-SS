@@ -1,9 +1,9 @@
-# Venkovská próza 2. poloviny 19. st.
-## kritický realismus
-- zdůrazňuje problémy a kritizuje je
-- zaměřuje se na problémy ve společnosti
-    - hlavně v nižších vrstvách
-## Venkovská próza
+---\n# Venkovská próza 2. poloviny 19. st.
+toc: true\n## kritický realismus
+layout: dark\n- zdůrazňuje problémy a kritizuje je
+title: Venkovská próza 2. poloviny 19. st. \n- zaměřuje se na problémy ve společnosti
+category: Novověká Literatura \n    - hlavně v nižších vrstvách
+---\n## Venkovská próza
 - řeší se často spory generační nebo peněžní
 - touha po majetku X dobro a laskavost
 - sociální otázky, postavení
