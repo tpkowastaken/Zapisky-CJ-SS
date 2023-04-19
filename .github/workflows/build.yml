@@ -42,12 +42,15 @@ jobs:
         '
     - name: format markdown files headers so Jekyll can read them correctly
       run: |
-        find . -type f -name "*.md" ! -name "README.md" -print0 | xargs -0 -I {} sh -c '
+      find . -type f -name "*.md" ! -name "README.md" -print0 | xargs -0 -I {} sh -c '
+        if grep -q "^#" "{}"; then
+          sed -i -e "/^$/!s/^#/\n&/" -e "/^#.*$/!s/^/\n/" "{}"
+        fi
+      '
 
-          if grep -q "^#" "{}"; then
-            sed -i -e "/^\s*$/!s/\(\r\?\n\)\?\s*#/&\n/" "{}"
-          fi
-        '
+
+
+
 
     - name: Commit changes
       run: |
