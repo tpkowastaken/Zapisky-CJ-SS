@@ -1,8 +1,9 @@
----\n# Slohové práce
-toc: true\nOdstavce
-layout: dark\npři přecházení od jedné myšlenky ke druhé nebo se mění část práce (začátek -> obsah -> konec). Nemusíme vynechávat řádek. Odsazuje se <tab> nebo enterem. Rozlišovat malá a velká písmena.
-title: Slohové práce \nStruktura práce
-category: Úvod \n* Úvod
+---\n---\n# Slohové práce
+toc: true\ntoc: true\nOdstavce
+layout: dark\nlayout: dark\npři přecházení od jedné myšlenky ke druhé nebo se mění část práce (začátek -> obsah -> konec). Nemusíme vynechávat řádek. Odsazuje se <tab> nebo enterem. Rozlišovat malá a velká písmena.
+title: -
+category: Úvod \n# Slohové práce \ntitle: Slohové práce \nStruktura práce
+---\ncategory: Úvod \n* Úvod
 ---\n* Stať - více odstavců
 * Závěr
 Nadpis práce

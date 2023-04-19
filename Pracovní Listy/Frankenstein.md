@@ -1,8 +1,9 @@
----\n# Frankenstein
-toc: true\n
-layout: dark\n## Umělecký text
-title: Frankenstein \n
-category: Pracovní Listy \nZmocnil se mě hluboký zármutek, ale vzápětí ustoupil nenávisti a zoufalství. Oni byli mrtví, já žil a žil
+---\n---\n# Frankenstein
+toc: true\ntoc: true\n
+layout: dark\nlayout: dark\n## Umělecký text
+title: -
+category: Pracovní Listy \n# Frankenstein \ntitle: Frankenstein \n
+---\ncategory: Pracovní Listy \nZmocnil se mě hluboký zármutek, ale vzápětí ustoupil nenávisti a zoufalství. Oni byli mrtví, já žil a žil
 ---\ntaké jejich vrah. Avšak já jsem musel dále vést tento bezútěšný život, abych ho zničil. Poklekl jsem do trávy,
 políbil zem a s chvějícími rty jsem zvolal: „Při posvátné půdě, na níž klečím, při stínech, které kolem mě
 poletují, a při věčném a hlubokém zármutku, který pociťuji, přísahám, že budu tak dlouho pronásledovat

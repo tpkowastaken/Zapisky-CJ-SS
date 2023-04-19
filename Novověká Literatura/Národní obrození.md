@@ -1,8 +1,9 @@
----\n# Národní obrození
-toc: true\n* 1.pol. 19.st.
-layout: dark\n* snaha obrodit český jazyk, kulturu a literaturu.
-title: Národní obrození \n* Národní hnutí - Politika
-category: Novověká Literatura \n* Národní obrození - Literatura
+---\n---\n# Národní obrození
+toc: true\ntoc: true\n* 1.pol. 19.st.
+layout: dark\nlayout: dark\n* snaha obrodit český jazyk, kulturu a literaturu.
+title: -
+category: Novověká Literatura \n# Národní obrození \ntitle: Národní obrození \n* Národní hnutí - Politika
+---\ncategory: Novověká Literatura \n* Národní obrození - Literatura
 ---\n* Politický x Literatura
 * Důvodem obrození je germanizace
   * Zrovnoprávnění Češtiny a Němčiny po bitvě na bílé hoře

@@ -1,8 +1,9 @@
----\n# Středověká Literatura
-toc: true\n* 476 - 1492
-layout: dark\n* objevení ameriky 1492
-title: Středověká Literatura \n* Dobytí konstantinopole 1453
-category: Středověká Literatura \n* vynález knihtisku Johannesem Gutenbergem 1450
+---\n---\n# Středověká Literatura
+toc: true\ntoc: true\n* 476 - 1492
+layout: dark\nlayout: dark\n* objevení ameriky 1492
+title: -
+category: Středověká Literatura \n# Středověká Literatura \ntitle: Středověká Literatura \n* Dobytí konstantinopole 1453
+---\ncategory: Středověká Literatura \n* vynález knihtisku Johannesem Gutenbergem 1450
 ---\nArabská literatura
 * Korán (Kanonický text Irán)
   * odvíjel se od izmaela ze 7. st.

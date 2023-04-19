@@ -1,8 +1,9 @@
----\n# Realismus
-toc: true\n* <span style="color: #DBA400">2.pol.19.st</span>
-layout: dark\n* Umělecký směr a zároveň metoda zobrazení skutečnosti
-title: Realismus \n* Kriticky a objektivně zobrazuje realitu a to bez iluzí a příkras
-category: Novověká Literatura \n* Prozkoumává se vnitro člověka, včetně jeho pudů a instiktů
+---\n---\n# Realismus
+toc: true\ntoc: true\n* <span style="color: #DBA400">2.pol.19.st</span>
+layout: dark\nlayout: dark\n* Umělecký směr a zároveň metoda zobrazení skutečnosti
+title: -
+category: Novověká Literatura \n# Realismus \ntitle: Realismus \n* Kriticky a objektivně zobrazuje realitu a to bez iluzí a příkras
+---\ncategory: Novověká Literatura \n* Prozkoumává se vnitro člověka, včetně jeho pudů a instiktů
 ---\n* Využití nových vědeckých poznatků (např. Z psychologie a sociologie)
 * Často dokumentárnost
 * Zájem o současná témata

@@ -1,8 +1,9 @@
----\n# Romantismus
-toc: true\n* 1.pol. 19. st.
-layout: dark\n  * Ve světové literatuře: Poč. 19. st.
-title: Romantismus \n  * V české literatuře: cca 30. léta 19. st.
-category: Novověká Literatura \n* Důraz na emoce a na city - emoce jsou zesílené
+---\n---\n# Romantismus
+toc: true\ntoc: true\n* 1.pol. 19. st.
+layout: dark\nlayout: dark\n  * Ve světové literatuře: Poč. 19. st.
+title: -
+category: Novověká Literatura \n# Romantismus \ntitle: Romantismus \n  * V české literatuře: cca 30. léta 19. st.
+---\ncategory: Novověká Literatura \n* Důraz na emoce a na city - emoce jsou zesílené
 ---\n* Vášnivost, svoboda, jednotlivec -> Individalismus
 * Svoboda je důsledek Velké Francouzská revoluce 1789 + 30.léta 19.st. jistá série revolucí/povstání v Evropě -> revolučnost romantismu
 * Rozpor snu X skutečnosti

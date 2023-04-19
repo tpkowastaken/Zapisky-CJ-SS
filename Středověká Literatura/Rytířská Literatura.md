@@ -1,8 +1,9 @@
----\n* Eposy a romány 
-toc: true\n* Motiv - Oddaný rytíř, který bojuje za svého pána
-layout: dark\n* do popředí se staví milostná tématika, princ většinou zamilován do nějaké urozené ženy
-title: Eposy a romány  \n* Rytířské kroniky byly Základní zdroj informací o středověku
-category: Středověká Literatura \nRytířská Epika
+---\n---\n* Eposy a romány 
+toc: true\ntoc: true\n* Motiv - Oddaný rytíř, který bojuje za svého pána
+layout: dark\nlayout: dark\n* do popředí se staví milostná tématika, princ většinou zamilován do nějaké urozené ženy
+title: -
+category: Středověká Literatura \n* Eposy a romány  \ntitle: Eposy a romány  \n* Rytířské kroniky byly Základní zdroj informací o středověku
+---\ncategory: Středověká Literatura \nRytířská Epika
 ---\nBretoňský cyklus (konec 15. st.)
 * Anglosaský původ
 * O králi Artušovi a o rytířích kulatého stolu

@@ -1,8 +1,9 @@
----\n7.st. - 14.st.
-toc: true\nSámova Říše
-layout: dark\n* 7.st.
-title: st. - 14.st. \nVelká Morava
-category: Středověká Literatura \n* 9.st.
+---\n---\n7.st. - 14.st.
+toc: true\ntoc: true\nSámova Říše
+layout: dark\nlayout: dark\n* 7.st.
+title: -
+category: Středověká Literatura \n7.st. - 14.st. \ntitle: st. - 14.st. \nVelká Morava
+---\ncategory: Středověká Literatura \n* 9.st.
 ---\n* 863 příchod Věrozvěstů Cyrila a Metoděje ze Sovoně
 * Nechal je povolat kníže Rastislav, aby hlásali Křesťanství, který chtěl zabránit vlivu německa proto poslal právě je z řecka
 * Přinesli Jazyk staroslověnštinu a písmo hlaholice
