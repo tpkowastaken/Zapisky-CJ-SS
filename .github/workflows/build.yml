@@ -40,7 +40,16 @@ jobs:
             sed -i "6s/^/---\\n/" "{}"
           fi
         '
-
+    - name: format markdown files headers so Jekyll can read them correctly
+      run: |
+        echo "$(find "./" -type f -name "*.md" -print0)" | while IFS= read -r -d $'\0' file; do
+          if grep -q "^#" "$file"; then
+            sed -i -e '/^$/!s/^#/\n&/' "$file"
+          fi
+          if grep -q "^#" "$file"; then
+            sed -i -e '/^$/!s/^#/\n&/' "$file"
+          fi
+        done
 
     - name: Commit changes
       run: |
