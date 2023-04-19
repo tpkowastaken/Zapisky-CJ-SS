@@ -1,3 +1,9 @@
+---
+toc: true
+layout: dark
+title: Venkovská próza 2. poloviny 19. st. 
+category: Novověká Literatura 
+---
 # Venkovská próza 2. poloviny 19. st.
 ## kritický realismus
 - zdůrazňuje problémy a kritizuje je

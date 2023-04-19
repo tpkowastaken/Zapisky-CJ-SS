@@ -1,3 +1,9 @@
+---
+toc: true
+layout: dark
+title: Témata 
+category: . 
+---
 # Témata
 ## <span style="color: #327DC3">**Dělení**</span>
 ### <span style="color: #6CAA46">**Autoři**</span>

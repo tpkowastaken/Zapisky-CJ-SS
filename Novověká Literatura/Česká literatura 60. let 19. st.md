@@ -1,3 +1,9 @@
+---
+toc: true
+layout: dark
+title: Česká literatura 60. až 80. let 19. st. 
+category: Novověká Literatura 
+---
 # Česká literatura 60. až 80. let 19. st.
 ## Generace májovců
 - alamanach = soubor literárních příspěvků
