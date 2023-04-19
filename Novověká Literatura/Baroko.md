@@ -9,19 +9,27 @@ category: Novověká Literatura
 
 
 #
+
  Baroko
 * <span style="color: #
+
 DBA400">17.st. - 18.st.</span>
 * Velký návrat k bohu - způsoben 30ti letou válkou 1618-1648 (30% obyvatelstva umřelo, zničené státy)
 * Monumentálnost.
 * <span style="color: #
-8422ce">**Reformace**</span> - <span style="color: #6CAA46">**Martin Luther**</span> - dokázal reformovat tehdejší evropu svým učením - začaly vznikat protestanské (reformované) církve
+
+8422ce">**Reformace**</span> - <span style="color: #
+6CAA46">**Martin Luther**</span> - dokázal reformovat tehdejší evropu svým učením - začaly vznikat protestanské (reformované) církve
 * <span style="color: #
-8422ce">**Protireformace**</span> - akce vedené katolickou církví, baroko - <span style="color: #DBA400">1620</span> - bitva na bílé hoře - Protestanti x Katolíci -> násilná Rekatolizce | Husité => Katolíci nebo EXIL (<span style="color: #6CAA46">**Komenský**</span>)
+
+8422ce">**Protireformace**</span> - akce vedené katolickou církví, baroko - <span style="color: #
+DBA400">1620</span> - bitva na bílé hoře - Protestanti x Katolíci -> násilná Rekatolizce | Husité => Katolíci nebo EXIL (<span style="color: #6CAA46">**Komenský**</span>)
 * <span style="color: #
+
 DBA400">1621</span> poprava 27 pánů
 * Kontrasty v Literaře - Uctíván Mariánský kult - mariánské motivy, žena zobrazena jako pana marie
 * <span style="color: #
+
 8422ce">**Vestfálský mír**</span> - potvrzení rekatolizace, konec 30ti leté války
 Česká Barokní Literatura
 Exilová (protestantská) Tvorba
@@ -30,19 +38,25 @@ Exilová (protestantská) Tvorba
 
 
 #
-## <span style="color: #6CAA46">**Jan Ámos komenský**</span>
+
+#
+# <span style="color: #6CAA46">**Jan Ámos komenský**</span>
 * Příslušníkem <span style="color: #
+
 8422ce">**jednoty bratrské**</span>
 * Gymnáziální studia v Přerově od 16.let
 * Pochází z Uherského Brodu
 * Emigroval (exolant)
 * Podporoval protestanty I po jeho odchodu
 * Byl podporován <span style="color: #
+
 6CAA46">**Karlem Starším ze Žerotína**</span> a díky němu mohl studovat na univerzitách v německu
 * Vrátil se do Přerova a stal se ředitelem gymnázia
 * Stává se Kazatelem a pak Knězem Jednoty Bratrské
 * <span style="color: #
-DBA400">1620</span> utíká z Česka a ukrývá se na panství <span style="color: #FF6363">**Karel ze Žerotína**</span> v okolí Brandýsa nad Orlicí
+
+DBA400">1620</span> utíká z Česka a ukrývá se na panství <span style="color: #
+FF6363">**Karel ze Žerotína**</span> v okolí Brandýsa nad Orlicí
 * Začínají se pálit komenského knihy, spisy
 * V Polském Lešně dále vyučuje a píše další spisy - Rektor Vyššího Gymnázia
 * Leszno - Kratičká zpráva o morním nakažení - Ámos Komenský navíc pomáhá nemocným.

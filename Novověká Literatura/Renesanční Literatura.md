@@ -9,8 +9,10 @@ category: Novověká Literatura
 
 
 #
+
  Renesanční literatura
 *  <span style="color: #
+
 DBA400">14\. \- 17.st.</span>
 * Vznikl v Itálii
 * Návrat k antice - obnova antiky
@@ -19,10 +21,13 @@ DBA400">14\. \- 17.st.</span>
 * Od počátku 16.st. se renezance šíří I do Za alpských zemí.
 * Kvůli Husitství se u nás zpozdila renezance.
 * <span style="color: #
+
 8422ce">**Individualismus**</span>
 * <span style="color: #
+
 8422ce">**Renezance**</span> - světská
 * <span style="color: #
+
 8422ce">**Husitství**</span> - nábožné
 
 
@@ -30,14 +35,19 @@ DBA400">14\. \- 17.st.</span>
 
 
 #
-# Italská renesance
+
+#
+ Italská renesance
 
 
 
 
 #
-## <span style="color: #6CAA46">**Dante Alighieri**</span>
+
+#
+# <span style="color: #6CAA46">**Dante Alighieri**</span>
 * <span style="color: #
+
 EC7627">**Božská komedie**</span>
   * Duchovní epos
   * Počátkem renesanční literatury
@@ -51,14 +61,18 @@ EC7627">**Božská komedie**</span>
   * Byl vypovězen z rodného města
   * Odešel do jihofrancouzského Avigonu
   * Byl v písemném styku s <span style="color: #
+
 6CAA46">**Karlem IV.**</span>
 
 
 
 
 #
-## <span style="color: #6CAA46">**Francesco Petrarcha**</span>
+
+#
+# <span style="color: #6CAA46">**Francesco Petrarcha**</span>
 * <span style="color: #
+
 EC7627">**Canzoniere**</span> (zpěvník)
   * Milostná poezie
   * Podstatná část znělky
@@ -69,8 +83,11 @@ EC7627">**Canzoniere**</span> (zpěvník)
 
 
 #
-## <span style="color: #6CAA46">**Giovanni Boccacio**</span>
+
+#
+# <span style="color: #6CAA46">**Giovanni Boccacio**</span>
 * Soubor novel <span style="color: #
+
 EC7627">**DEKAMERON**</span> (1352)
   * próza
   * Vypráví o morové epidemii, která postihla Florencii
@@ -83,10 +100,14 @@ EC7627">**DEKAMERON**</span> (1352)
 
 
 #
-## <span style="color: #6CAA46">**Niccolo Machiavelli**</span>
+
+#
+# <span style="color: #6CAA46">**Niccolo Machiavelli**</span>
 * Účel světí prostředky = pro dosažení stanoveného cíle je možné všechno - <span style="color: #
+
 8422ce">**Machiavelismus**</span>
 * <span style="color: #
+
 EC7627">**Vladař**</span>
   * Politický spis o ideálnímu vladaři/panovníkovi
 
@@ -94,21 +115,29 @@ EC7627">**Vladař**</span>
 
 
 #
-# Anglická renesance:
+
+#
+ Anglická renesance:
 
 
 
 
 #
-## <span style="color: #6CAA46">**Thomas More**</span>
+
+#
+# <span style="color: #6CAA46">**Thomas More**</span>
 * Napsal <span style="color: #
-EC7627">**Utopii**</span> - alternativa <span style="color: #EC7627">**vladaře**</span>
+
+EC7627">**Utopii**</span> - alternativa <span style="color: #
+EC7627">**vladaře**</span>
   * Je to idea o ideální budoucnosti společnosti, jak by to mělo správně fungovat
 * <span style="color: #
+
 EC7627">**Antiutopie**</span>
   * Idea popisuje společnost která se odebrala špatným směrem - varovný příklad budoucnosti, čemu se vyvarovat
 Geoffrey Chaucer
 * <span style="color: #
+
 EC7627">**Canterburské povídky**</span>
   * próza
   * Rámcová kompozice
@@ -119,13 +148,18 @@ EC7627">**Canterburské povídky**</span>
 
 
 #
-## <span style="color: #6CAA46">**Christopher Marlowe**</span>
+
+#
+# <span style="color: #6CAA46">**Christopher Marlowe**</span>
 * <span style="color: #
+
 EC7627">**Alžbětínské drama**</span>
   * 16.st.
   * Doktor faustus
   * <span style="color: #
-8422ce">**Faustiády**</span> - Námět <span style="color: #8422ce">**faust**</span>
+
+8422ce">**Faustiády**</span> - Námět <span style="color: #
+8422ce">**faust**</span>
   * veršovaná tragédie, částečně filozofická
   * Dr. Faust se zaprodá ďáblovi Mefistovi, kvůli touze po poznání
   * rovnováha dobra a zla
@@ -134,12 +168,16 @@ EC7627">**Alžbětínské drama**</span>
 
 
 #
-## <span style="color: #6CAA46">**Wiliam Shakespeare**</span> (1564-1616)
+
+#
+# <span style="color: #6CAA46">**Wiliam Shakespeare**</span> (1564-1616)
 * Dramatik (<span style="color: #
+
 EC7627">**Alžbětínské drama**</span>)
 * Stratford nad Avonou - místo narození
 * 154 sonetů (sonet - milostná tématika, vyznává většinou lásku určitému člověku, specifický útvar)
 * Tragédie které on psal mohou být psány částečně verši a prózou - tento specifický styl se jmenuje <span style="color: #
+
 8422ce">**Blankvers**</span>
 * Světská literatura
 * Divadlo Globe v londýně, částečné vlastnění
@@ -149,10 +187,14 @@ EC7627">**Alžbětínské drama**</span>)
 
 
 #
-# <span style="color: #327DC3">**První fáze tvorby Shakespeare:**</span>
+
+#
+ <span style="color: #327DC3">**První fáze tvorby Shakespeare:**</span>
 * <span style="color: #
+
 327DC3">**Komedie**</span>:
   * <span style="color: #
+
 EC7627">**Zkrocení zlé ženy** </span>
     * o dvou sestrách (komedie)
     * kateřina - potvora, protivná
@@ -161,24 +203,33 @@ EC7627">**Zkrocení zlé ženy** </span>
     * Petrucio + Kateřina
     * Vincenzio + Blanka
   * <span style="color: #
+
 EC7627">**Sen noci svatojánské**</span>
   * <span style="color: #
+
 EC7627">**Kupec benátský**</span>
 * <span style="color: #
+
 327DC3">**Historické hry**</span>:
   * <span style="color: #
+
 EC7627">**Jindřich IV.**</span>
   * <span style="color: #
+
 EC7627">**Richard III**</span>
 
 
 
 
 #
-# <span style="color: #327DC3">**Druhá fáze tvorby shakespeare:**</span>
+
+#
+ <span style="color: #327DC3">**Druhá fáze tvorby shakespeare:**</span>
 * <span style="color: #
+
 327DC3">**Tragédie**</span>:
   * <span style="color: #
+
 EC7627">**Romeo a Jůlie**</span>
     * Nenáviděly se dva rody: Kapoletovi a  Mondekové
     * Julie Kapoletová ♥ Romeo Mondek 
@@ -193,6 +244,7 @@ EC7627">**Romeo a Jůlie**</span>
     * Nápadník Paris - chystá se dohodnutý snatek s jůlií
     * Fight Mercucio vs. Tybalt, Tybalt zabije Mercucia => Romeo zabije Tybalta => Romeo vyhnán z Verony => chystá se sňatek mezi Jůlií a Paridem => Julie vypije lektvar, který jí zpomalí základní funkce => všichni si myslí že je mrtvá => Romeo se potká s Paridem => Romeo zabije Parida => Romeo uvidí "mrtvou" Jůlii => otráví se a umře => Jůlie se probudí a uvidí mrtvého Romea => probodne se jeho dýkou => Montekové a Kapuleti se usmíří
   * <span style="color: #
+
 EC7627">**Hamlet**</span>
     * Dánský princ jménem Hamlet, jeho strýc Claudius, Gertrunda matka, Ofélie láska <3
     * Umřel mu jeho otec (král)
@@ -202,6 +254,7 @@ EC7627">**Hamlet**</span>
     * Nakonec všichni umírají kvůli otravám z pomsty
     * Snaha vyřešit a odčinit činy z minulosti - kvůli honbě po pomstě
   * <span style="color: #
+
 EC7627">**Othello**</span>
     * typ chorobného žárlivce
     * Nedokáže rozpoznat zlo (lži)
@@ -210,40 +263,52 @@ EC7627">**Othello**</span>
     * Jago lže ohledně Desdemony, že ho podvádí
     * Nakonec ze žárlivosti Othello zavraždí Desdemonu
   * <span style="color: #
+
 EC7627">**Král Lear**</span>
     * Musí se potýkat Nevděčností a ziskuchtivostí vlastních potomků
   * <span style="color: #
+
 EC7627">**Macbeth**</span>
 
 
 
 
 #
-# <span style="color: #327DC3">**Třetí fáze tvorby shakespeare:**</span>
+
+#
+ <span style="color: #327DC3">**Třetí fáze tvorby shakespeare:**</span>
 * <span style="color: #
+
 327DC3">**Sonety**</span>
 * <span style="color: #
+
 327DC3">**Pohádkové hry:**</span>
   * <span style="color: #
+
 EC7627">**Zimní pohrádka**</span>
 
 
 
 
 #
-# Španělská Renesance
+
+#
+ Španělská Renesance
 
 
 
 
 
 #
-## <span style="color: #6CAA46">Cervantes</span> (1547-1616)
+
+#
+# <span style="color: #6CAA46">Cervantes</span> (1547-1616)
 * Otrok v Alžírsku - zajat piráty
 * námořní bitva s osmanskou říší
 * Bitva u Lepanta - přišel zde o ruku
 * Žil v chudobě
 * <span style="color: #
+
 EC7627">**Důmyslný Rytíř Don Quijote**</span> [chichot]
   * Próza
   * První novověký román
@@ -255,13 +320,17 @@ EC7627">**Důmyslný Rytíř Don Quijote**</span> [chichot]
 
 
 #
-## <span style="color: #6CAA46">**Lope de Vega**</span> (1562-1635)
+
+#
+# <span style="color: #6CAA46">**Lope de Vega**</span> (1562-1635)
 * 2000 her
 * Bohatý, četné životní zkušenosti
 * Drama <span style="color: #
+
 EC7627">**Pláště a kodru**</span>
 * Histrorický
 * <span style="color: #
+
 EC7627">**Fuente Ovejona**</span> - Ovčí pramen - vzbouření lidu proti vysokému církevnímu hodnostáři Tyranu Gomezovi otázka - je v pořádku zabít tyrana?
 * Nezachovává tradiční zásady dramatu - tragičnost => komedie
 
@@ -269,30 +338,40 @@ EC7627">**Fuente Ovejona**</span> - Ovčí pramen - vzbouření lidu proti vysok
 
 
 #
-# Francouzská Renesance
+
+#
+ Francouzská Renesance
 
 
 
 
 #
-## <span style="color: #6CAA46">**Francois Villon**</span>
+
+#
+# <span style="color: #6CAA46">**Francois Villon**</span>
 * Považován za prvního moderního básníka
 * Záškodník
 * Vyhnán z Paříže
 * Napsal básnické sbírky:
   * <span style="color: #
+
 EC7627">**Závěť**</span> - Velký testament
   * <span style="color: #
+
 EC7627">**Odkaz**</span> - malý testament
 * Jeho styl - Francouzská (<span style="color: #
+
 8422ce">**villonská**</span>) balada
 
 
 
 
 #
-## <span style="color: #6CAA46">**Francois Robelais**</span> [francoás roblen]
+
+#
+# <span style="color: #6CAA46">**Francois Robelais**</span> [francoás roblen]
 * <span style="color: #
+
 EC7627">**Gargantoeia a Pantagrue**</span>
   * Román
   * Rodina obrů se vydává za dobrodružnou cestu za poznáním
