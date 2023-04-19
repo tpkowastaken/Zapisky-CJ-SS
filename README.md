@@ -75,17 +75,3 @@ code --install-extension ./insert-color-span-1.0.0.vsix
 při čtení textu v .md souborech můžete zmáčknout ctrl+shift+p a markdown: open preview to side - to vám ukáže jak soubor bude vypadat
 
 insert-color-span přidá do menu pravého tlačítka stilizační nabídky pro text (barvičky a odsazení - Trebesin Čj -- Formátování )
-
-## Export do html
-
-*tato část je WIP a měla by časem být zautomatizována...*
-
-Pro lepší čtení je také potřeba pro každý soubor vytvořit .html soubor pro každý .md soubor. Contributoři nemusí tento soubor vytvářet, ale je dobré ho tam mít, aby byl přístupný na webu
-
-Soubor z .md vygenerujete pomocí extension **markdown all in one**. Po nainstalování této extension můžete použít ctrl+shift+p a pak příkaz `print document to html`.
-
-dále přidejte tyto dva řádky kódu do ```body``` v ```style``` elementu pro dark mode
-```
-background-color: #1e1e1e;
-color: #c4c4c4;
-```
