@@ -8,7 +8,8 @@ category: Novověká Literatura
 
 
 
-# Romantismus
+#
+ Romantismus
 * 1.pol. 19. st.
   * Ve světové literatuře: Poč. 19. st.
   * V české literatuře: cca 30. léta 19. st.
