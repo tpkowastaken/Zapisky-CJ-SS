@@ -88,6 +88,8 @@ jobs:
     needs: prepare
     if: ${{ always() }}
     steps:
+    - name: Wait for Push to be completed
+      run: sleep 5
     - name: Checkout repository
       uses: actions/checkout@v3
       with:
