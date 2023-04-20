@@ -44,7 +44,8 @@ jobs:
       run: |
         find . -type f -name "*.md" ! -name "README.md" -print0 | xargs -0 -I {} sh -c '
           if grep -q "^#" "{}"; then
-            sed -i -e "/^$/!s/^#/\n&/" -e "/^#.*$/!s/^/\n/" "{}"
+            sed -i -e "/^$/!s/^#/\n&/" "{}"
+            sed -i 's/\n\n\n#/\\n\\n#/g' $f
           fi
         '
 

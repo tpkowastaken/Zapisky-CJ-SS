@@ -1,9 +1,3 @@
----
-toc: true
-layout: dark
-title: nerace Rukovsko-lumírovská 
-category: Novověká Literatura 
----
 generace Rukovsko-lumírovská
 
 skupina Ruchovců X skupina lumírovců
