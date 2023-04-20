@@ -36,7 +36,8 @@ jobs:
           for file in "${dir}"*; do
             FILENAME=$(printf "%s" "${file##*/}")
             FILENAME=$(printf "%s" "${FILENAME%.*}")
-            if [[ -f "${file}" && "${FILENAME}" != "README" && "${FILENAME}" != "index" ]]; then
+            extension="${filename##*.}"
+            if [[ -f "${file}" && "${FILENAME}" != "README" && "${FILENAME}" != "index" && "$extension" == "md"]]; then
               printf "* [%s](%s) \n" "${FILENAME}" "${FILENAME}" >> "${dir}index.md"
             fi
           done
