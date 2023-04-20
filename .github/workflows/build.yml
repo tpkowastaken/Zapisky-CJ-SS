@@ -30,9 +30,9 @@ jobs:
       run: |
         #!/bin/bash
         for dir in */; do
-          #if [[ -e "${dir}index.md" ]]; then
-          #  continue
-          #fi
+          if [[ -e "${dir}index.md" ]]; then
+            rm -f "${dir}index.md"
+          fi
           printf "# File list\n\n" > "${dir}index.md"
           for file in "${dir}"*; do
             if [[ -f "${file}" ]]; then
@@ -51,7 +51,6 @@ jobs:
             folderName=$(basename "$(dirname "{}")")
             file="{}"
             FILENAME=$(printf "%s" "${file##*/}")
-            echo "wtf: $FILENAME"
             siteTitle=$(awk "NR==1{print substr(\$0, 3)}" "{}")
             sed -i "1s/^/---\\n/" "{}"
             if [ "$FILENAME" = "index.md" ]; then
