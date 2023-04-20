@@ -9,4 +9,3 @@ category: Pracovní Listy
 
 * [Frankenstein](Frankenstein) 
 * [Křest Svatého Vladimíra](Křest Svatého Vladimíra) 
-* [index](index) 

@@ -8,4 +8,3 @@ category: testy
 # File list
 
 * [dj](dj) 
-* [index](index) 

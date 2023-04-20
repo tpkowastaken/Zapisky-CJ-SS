@@ -9,5 +9,4 @@ category: Úvod
 
 * [Povinná Četba](Povinná Četba) 
 * [Slohové práce](Slohové práce) 
-* [index](index) 
 * [Členění Literatury](Členění Literatury) 

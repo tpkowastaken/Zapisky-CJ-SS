@@ -9,4 +9,3 @@ category: Starověká Literatura
 
 * [Starověká Literatura](Starověká Literatura) 
 * [bible](bible) 
-* [index](index) 

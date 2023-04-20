@@ -9,4 +9,3 @@ category: Antická Literatura
 
 * [Antická Řecká Literatura](Antická Řecká Literatura) 
 * [Latinská Římská Literatura](Latinská Římská Literatura) 
-* [index](index) 

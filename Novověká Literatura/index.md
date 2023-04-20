@@ -16,7 +16,6 @@ category: Novověká Literatura
 * [Romantismus](Romantismus) 
 * [Venkovská próza a drama, Městská próza](Venkovská próza a drama, Městská próza) 
 * [idk](idk) 
-* [index](index) 
 * [klasicismus](klasicismus) 
 * [naturalismus](naturalismus) 
 * [preromantismus](preromantismus) 
