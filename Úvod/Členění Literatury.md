@@ -5,7 +5,6 @@ title: Členění Literatury
 category: Úvod 
 ---
 
-
 # Členění Literatury
 1. Umělecká (krásná/beletrie) - povídky a přiběhy
 2. Odborná                          populárně naučná - (encyklopedie)
@@ -16,7 +15,6 @@ category: Úvod
 
 • Lyrika - bez deje o pocitech
 • Epika - pribeh s dejem
-
 
 Literální pojmy (příklady z děl):
 Úryvek: Harpagon
@@ -35,8 +33,6 @@ Zvolací/ tázací věty
 * Chyťte vraha! Stráž! Panebože na nebi!
 Hyperbola
 * Umírám, jsem nebožtík
-
-
 
 Úryvek: Kytice
 Rozbor básně
@@ -78,7 +74,4 @@ Rozbor básně
 ○ viděti
 * Archaismy
 ○ Světice
-
-
-
 

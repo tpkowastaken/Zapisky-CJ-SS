@@ -5,7 +5,6 @@ title: Národní obrození
 category: Novověká Literatura 
 ---
 
-
 # Národní obrození
 * 1.pol. 19.st.
 * snaha obrodit český jazyk, kulturu a literaturu.
@@ -191,6 +190,4 @@ Václav Kliment Klicpera
 * Pokus o velké historické drama - Soběslav
 * Návaznost na rytířské hry
 * Hadrián z Římsů
-
-
 
