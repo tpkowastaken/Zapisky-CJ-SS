@@ -30,12 +30,12 @@ jobs:
       run: |
         #!/bin/bash
         for dir in */; do
-          if [[ -e "${dir}index.md" ]]; then
+          if [[ -f "${dir}index.md" ]]; then
             rm -f "${dir}index.md"
           fi
           printf "# File list\n\n" > "${dir}index.md"
           for file in "${dir}"*; do
-            if [[ -f "${file}" ]]; then
+            if [[ -f "${file}" && "${file}" != "README.md" && "${file}" != "index.md" ]]; then
               FILENAME=$(printf "%s" "${file##*/}")
               FILENAME=$(printf "%s" "${FILENAME%.*}")
               printf "* [%s](%s) \n" "${FILENAME}" "${FILENAME}" >> "${dir}index.md"
