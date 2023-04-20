@@ -36,7 +36,9 @@ jobs:
           printf "# File list\n\n" > "${dir}index.md"
           for file in "${dir}"*; do
             if [[ -f "${file}" ]]; then
-              printf "* [%s](%s) \n" "${file##*/}" "${file##*/}" >> "${dir}index.md"
+              FILENAME=$(printf "%s" "${file##*/}")
+              FILENAME=$(printf "%s" "${FILENAME%.*}")
+              printf "* [%s](%s) \n" "${FILENAME}" "${FILENAME}" >> "${dir}index.md"
             fi
           done
         done
