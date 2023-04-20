@@ -1,7 +1,7 @@
 ---
 toc: false
 layout: dark
-title: Obsahuje témata:  
+title: Obsahuje témata  
 category: Antická Literatura 
 ---
 
