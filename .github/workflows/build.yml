@@ -49,9 +49,14 @@ jobs:
         find . -type f -name "*.md" ! -name "README.md" -print0 | xargs -0 -I {} sh -c '
           if ! grep -q "^---$" "{}"; then
             folderName=$(basename "$(dirname "{}")")
+            FILENAME=$(printf "%s" "${file##*/}")
             siteTitle=$(awk "NR==1{print substr(\$0, 3)}" "{}")
             sed -i "1s/^/---\\n/" "{}"
-            sed -i "2s/^/toc: true\\n/" "{}"
+            if [ "$FILENAME" = "index.md" ]; then
+              sed -i "2s/^/toc: false\\n/" "{}"
+            else
+              sed -i "2s/^/toc: true\\n/" "{}"
+            fi
             sed -i "3s/^/layout: dark\\n/" "{}"
             sed -i "4s/^/title: $siteTitle \\n/" "{}"
             sed -i "5s/^/category: $folderName \\n/" "{}"
