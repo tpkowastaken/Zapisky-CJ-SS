@@ -26,6 +26,22 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    - name: Add index.md files for each directory
+      run: |
+      #!/bin/bash
+      for dir in */; do
+        #if [[ -e "${dir}index.md" ]]; then
+        #  continue
+        #fi
+        printf "# File list\n\n" > "${dir}index.md"
+        for file in "${dir}"*; do
+          if [[ -f "${file}" ]]; then
+            printf "* [%s](%s) \n" "${file##*/}" "${file##*/}" >> "${dir}index.md"
+          fi
+        done
+      done
+
+
     - name: Add front matter to markdown files (for Jekyll to notice)
       run: |
         find . -type f -name "*.md" ! -name "README.md" -print0 | xargs -0 -I {} sh -c '
