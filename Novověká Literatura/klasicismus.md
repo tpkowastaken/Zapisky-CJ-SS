@@ -5,7 +5,6 @@ title: Klasicismus
 category: Novověká Literatura 
 ---
 
-
 # Klasicismus
 * 17-18.st.
 * Umělecký směr

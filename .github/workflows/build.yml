@@ -45,7 +45,9 @@ jobs:
         find . -type f -name "*.md" ! -name "README.md" -print0 | xargs -0 -I {} sh -c '
           if grep -q "^#" "{}"; then
             sed -i -e "/^$/!s/^#/\n&/" "{}"
-            sed -i 's/\n\n\n#/\\n\\n#/g' "{}"
+            awk '/./ { e=0 } /^$/ { e += 1 } e <= 1' < "{}" > "temp" && mv temp "{}"
+            awk '/./ { e=0 } /^$/ { e += 1 } e <= 1' < "{}" > "temp" && mv temp "{}"
+            awk '/./ { e=0 } /^$/ { e += 1 } e <= 1' < "{}" > "temp" && mv temp "{}"
           fi
         '
 

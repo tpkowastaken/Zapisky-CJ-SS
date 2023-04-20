@@ -293,3 +293,5 @@ category: Novověká Literatura
     - 1894
     - prvky moderního směru - dekadence
         - dekadence - hledá krásu v úpadcích
+
+## <span style="color: #6CAA46">**Alois Jirásek**</span>
