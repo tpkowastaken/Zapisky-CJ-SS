@@ -7,7 +7,7 @@ category: Úvod
 
 # File list
 
-* [Povinná Četba.md](Povinná Četba.md) 
-* [Slohové práce.md](Slohové práce.md) 
-* [index.md](index.md) 
-* [Členění Literatury.md](Členění Literatury.md) 
+* [Povinná Četba](Povinná Četba) 
+* [Slohové práce](Slohové práce) 
+* [index](index) 
+* [Členění Literatury](Členění Literatury) 

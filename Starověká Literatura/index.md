@@ -7,6 +7,6 @@ category: Starověká Literatura
 
 # File list
 
-* [Starověká Literatura.md](Starověká Literatura.md) 
-* [bible.md](bible.md) 
-* [index.md](index.md) 
+* [Starověká Literatura](Starověká Literatura) 
+* [bible](bible) 
+* [index](index) 

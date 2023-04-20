@@ -7,5 +7,5 @@ category: testy
 
 # File list
 
-* [dj.md](dj.md) 
-* [index.md](index.md) 
+* [dj](dj) 
+* [index](index) 

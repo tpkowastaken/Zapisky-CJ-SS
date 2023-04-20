@@ -7,6 +7,6 @@ category: Antická Literatura
 
 # File list
 
-* [Antická Řecká Literatura.md](Antická Řecká Literatura.md) 
-* [Latinská Římská Literatura.md](Latinská Římská Literatura.md) 
-* [index.md](index.md) 
+* [Antická Řecká Literatura](Antická Řecká Literatura) 
+* [Latinská Římská Literatura](Latinská Římská Literatura) 
+* [index](index) 

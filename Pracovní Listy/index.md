@@ -7,6 +7,6 @@ category: Pracovní Listy
 
 # File list
 
-* [Frankenstein.md](Frankenstein.md) 
-* [Křest Svatého Vladimíra.md](Křest Svatého Vladimíra.md) 
-* [index.md](index.md) 
+* [Frankenstein](Frankenstein) 
+* [Křest Svatého Vladimíra](Křest Svatého Vladimíra) 
+* [index](index) 
