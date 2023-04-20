@@ -50,6 +50,7 @@ jobs:
           if ! grep -q "^---$" "{}"; then
             folderName=$(basename "$(dirname "{}")")
             FILENAME=$(printf "%s" "${file##*/}")
+            echo "$FILENAME"
             siteTitle=$(awk "NR==1{print substr(\$0, 3)}" "{}")
             sed -i "1s/^/---\\n/" "{}"
             if [ "$FILENAME" = "index.md" ]; then
