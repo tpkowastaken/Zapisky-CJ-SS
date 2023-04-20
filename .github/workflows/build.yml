@@ -35,9 +35,9 @@ jobs:
           printf "# Obsahuje témata: \n\n" > "${dir}index.md"
           for file in "${dir}"*; do
             FILENAME=$(printf "%s" "${file##*/}")
-            extension="${FILENAME##*.}"
+            EXTENSION=$(printf "%s" "${FILENAME##*.}")
             FILENAME=$(printf "%s" "${FILENAME%.*}")
-            if [[ -f "${file}" && "${FILENAME}" != "README" && "${FILENAME}" != "index" && "$extension" == "md"]]; then
+            if [[ -f "${file}" && "${FILENAME}" != "README" && "${FILENAME}" != "index" && "$EXTENSION" == "md"]]; then
               printf "* [%s](%s) \n" "${FILENAME}" "${FILENAME}" >> "${dir}index.md"
             fi
           done
