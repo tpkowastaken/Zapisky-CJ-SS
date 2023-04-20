@@ -67,7 +67,7 @@ jobs:
               sed -i "4s/^/title: $siteTitle \\n/" "{}"
             fi
 
-            sed -i "4s/^/title: $siteTitle \\n/" "{}"
+     
             sed -i "5s/^/category: $folderName \\n/" "{}"
             sed -i "6s/^/---\\n/" "{}"
           fi
