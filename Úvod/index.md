@@ -1,11 +1,11 @@
 ---
 toc: false
 layout: dark
-title: File list 
+title: Obsahuje témata:  
 category: Úvod 
 ---
 
-# File list
+# Obsahuje témata: 
 
 * [Povinná Četba](Povinná Četba) 
 * [Slohové práce](Slohové práce) 

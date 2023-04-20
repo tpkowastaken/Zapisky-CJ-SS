@@ -1,11 +1,11 @@
 ---
 toc: false
 layout: dark
-title: File list 
+title: Obsahuje témata:  
 category: Novověká Literatura 
 ---
 
-# File list
+# Obsahuje témata: 
 
 * [Baroko](Baroko) 
 * [Humanismus](Humanismus) 
