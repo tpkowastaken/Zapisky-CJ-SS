@@ -1,3 +1,10 @@
+---
+toc: true
+layout: dark
+title: Renesanční literatura 
+category: Novověká Literatura 
+---
+
 # Renesanční literatura
 *  <span style="color: #DBA400">14\. \- 17.st.</span>
 * Vznikl v Itálii
@@ -10,7 +17,9 @@
 * <span style="color: #8422ce">**Renezance**</span> - světská
 * <span style="color: #8422ce">**Husitství**</span> - nábožné
 
+
 ## Italská renesance
+
 ### <span style="color: #6CAA46">**Dante Alighieri**</span>
 * <span style="color: #EC7627">**Božská komedie**</span>
   * Duchovní epos
@@ -25,12 +34,14 @@
   * Byl vypovězen z rodného města
   * Odešel do jihofrancouzského Avigonu
   * Byl v písemném styku s <span style="color: #6CAA46">**Karlem IV.**</span>
+
 ### <span style="color: #6CAA46">**Francesco Petrarcha**</span>
 * <span style="color: #EC7627">**Canzoniere**</span> (zpěvník)
   * Milostná poezie
   * Podstatná část znělky
   * "Laura" není zbožštěná jak "Beatrice"
 * Psal sonety o Lauře - Proslavil ji ve svých znělkách Laura
+
 ### <span style="color: #6CAA46">**Giovanni Boccacio**</span>
 * Soubor novel <span style="color: #EC7627">**DEKAMERON**</span> (1352)
   * próza
@@ -39,11 +50,14 @@
   * Společnost 7 urozených žen a 3 šlechticů opouští město a ve venkovském Zátiší v plné pohodě Klidného života si krátí dlouhou chvíli vyprávěním příběhů
   * Samostatné novely
   * Převažují milostné příběhy
+
 ### <span style="color: #6CAA46">**Niccolo Machiavelli**</span>
 * Účel světí prostředky = pro dosažení stanoveného cíle je možné všechno - <span style="color: #8422ce">**Machiavelismus**</span>
 * <span style="color: #EC7627">**Vladař**</span>
   * Politický spis o ideálnímu vladaři/panovníkovi
+
 ## Anglická renesance:
+
 ### <span style="color: #6CAA46">**Thomas More**</span>
 * Napsal <span style="color: #EC7627">**Utopii**</span> - alternativa <span style="color: #EC7627">**vladaře**</span>
   * Je to idea o ideální budoucnosti společnosti, jak by to mělo správně fungovat
@@ -55,6 +69,7 @@ Geoffrey Chaucer
   * Rámcová kompozice
   * Poutníci kteří putovali k hrobu vypráví příběhy T. Beckett
   * 24 příběhů
+
 ### <span style="color: #6CAA46">**Christopher Marlowe**</span>
 * <span style="color: #EC7627">**Alžbětínské drama**</span>
   * 16.st.
@@ -63,6 +78,7 @@ Geoffrey Chaucer
   * veršovaná tragédie, částečně filozofická
   * Dr. Faust se zaprodá ďáblovi Mefistovi, kvůli touze po poznání
   * rovnováha dobra a zla
+
 ### <span style="color: #6CAA46">**Wiliam Shakespeare**</span> (1564-1616)
 * Dramatik (<span style="color: #EC7627">**Alžbětínské drama**</span>)
 * Stratford nad Avonou - místo narození
@@ -71,6 +87,7 @@ Geoffrey Chaucer
 * Světská literatura
 * Divadlo Globe v londýně, částečné vlastnění
 * Ženy nemohly hrát ženské role v divadle, hráli za ně muži
+
 ## <span style="color: #327DC3">**První fáze tvorby Shakespeare:**</span>
 * <span style="color: #327DC3">**Komedie**</span>:
   * <span style="color: #EC7627">**Zkrocení zlé ženy** </span>
@@ -85,6 +102,7 @@ Geoffrey Chaucer
 * <span style="color: #327DC3">**Historické hry**</span>:
   * <span style="color: #EC7627">**Jindřich IV.**</span>
   * <span style="color: #EC7627">**Richard III**</span>
+
 ## <span style="color: #327DC3">**Druhá fáze tvorby shakespeare:**</span>
 * <span style="color: #327DC3">**Tragédie**</span>:
   * <span style="color: #EC7627">**Romeo a Jůlie**</span>
@@ -118,11 +136,14 @@ Geoffrey Chaucer
   * <span style="color: #EC7627">**Král Lear**</span>
     * Musí se potýkat Nevděčností a ziskuchtivostí vlastních potomků
   * <span style="color: #EC7627">**Macbeth**</span>
+
 ## <span style="color: #327DC3">**Třetí fáze tvorby shakespeare:**</span>
 * <span style="color: #327DC3">**Sonety**</span>
 * <span style="color: #327DC3">**Pohádkové hry:**</span>
   * <span style="color: #EC7627">**Zimní pohrádka**</span>
+
 ## Španělská Renesance
+
 
 ### <span style="color: #6CAA46">Cervantes</span> (1547-1616)
 * Otrok v Alžírsku - zajat piráty
@@ -135,6 +156,7 @@ Geoffrey Chaucer
   * **Quijote** - stárnoucí šlechtic který čtením rytířských románů si přetváří realitu, myslí si, že on je rytířem a vydává se na dobrodružnou výpravu s dívkou Dulcinelou z Tobosa - Boj s větrnými mlíny, boj se stádem ovcí. Doprovází ho jeho sluha Sancho Panza - myslí si že se jeho pán zbláznil. Sancho Panza při pohledu jak umírá Don Quijote se dostává do rytířského světa.
   * Má svůj vlastní typ - původ tohoto typu heroikomický paradox - dvoustranný pohled na věc - zesměšňování rytířských románů a obětavost pro jeho ideály
   * Ponaučení: I příběhy můžou utvořit nějakou realitu
+
 ### <span style="color: #6CAA46">**Lope de Vega**</span> (1562-1635)
 * 2000 her
 * Bohatý, četné životní zkušenosti
@@ -142,7 +164,9 @@ Geoffrey Chaucer
 * Histrorický
 * <span style="color: #EC7627">**Fuente Ovejona**</span> - Ovčí pramen - vzbouření lidu proti vysokému církevnímu hodnostáři Tyranu Gomezovi otázka - je v pořádku zabít tyrana?
 * Nezachovává tradiční zásady dramatu - tragičnost => komedie
+
 ## Francouzská Renesance
+
 ### <span style="color: #6CAA46">**Francois Villon**</span>
 * Považován za prvního moderního básníka
 * Záškodník
@@ -151,6 +175,7 @@ Geoffrey Chaucer
   * <span style="color: #EC7627">**Závěť**</span> - Velký testament
   * <span style="color: #EC7627">**Odkaz**</span> - malý testament
 * Jeho styl - Francouzská (<span style="color: #8422ce">**villonská**</span>) balada
+
 ### <span style="color: #6CAA46">**Francois Robelais**</span> [francoás roblen]
 * <span style="color: #EC7627">**Gargantoeia a Pantagrue**</span>
   * Román

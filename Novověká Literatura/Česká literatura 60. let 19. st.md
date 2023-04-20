@@ -1,4 +1,12 @@
+---
+toc: true
+layout: dark
+title: Česká literatura 60. až 80. let 19. st. 
+category: Novověká Literatura 
+---
+
 # Česká literatura 60. až 80. let 19. st.
+
 ## Generace májovců
 - alamanach = soubor literárních příspěvků
 - do almanachů ze starší generace přispívá Erben a Němcová
@@ -10,6 +18,7 @@
     - snaha o prosazení demokratických principů
     - poukazovali na sitauaci 50. let, snaha zdokonalovat čes. literaturu - dostat ji na světovou úroveň
     - zatímco v jiných zemích vzniká kvalitní literatura, česká má zpoždění
+
 ### <span style= "color: #6CAA46">**Jan Neruda**</span>
 - 1834 - 1891
 - žil na Malé straně
@@ -72,6 +81,7 @@
         - Figurky
 - <span style="color: #EC7627">**Arabesky**</span>
     - Soubor povídek (60. léta)
+
 ### <span style= "color: #6CAA46">**Karolína Světlá**</span>
 - 1830 - 1899
 - z pražské rodiny
@@ -98,6 +108,7 @@
     - mravní síla ženy
     - částečná idealizace postav
     - poměrně realistické
+
 ### <span style= "color: #6CAA46">**Vítězslav Hálek**</span>
 - 1835 - 1874
 - harmonický, radostný, láskyplný, idealický
@@ -112,6 +123,7 @@
 - psal prózu - povídky
 - snaha realisticky vykreslit český venkov
 - menší idealizace
+
 
 ## Generace ruchovsko-lumírovská
 - ruchovci X lumírovci
@@ -128,6 +140,7 @@
     - novorenesanční
     - Vojtěch Hynais - opona
 
+
 ### Ruchovci
 - Škola národní
 - časopis osvěta
@@ -136,11 +149,13 @@
 - Josef Václav Sládek - přešel k lumírovcům
 - *"umění pro národ"*
 
+
 ### Lumírovci
 - Škola kosmopolitní
 - časopis Lumír
 - Jaroslav Vrchlický, Julius Zeger, Josef Václav Sládek
 - *"umění pro umění"*
+
 
 ### <span style= "color: #6CAA46">**Eliška Krásnohorská (Ruchovci)**</span>
 - literární kritička
@@ -150,6 +165,7 @@
     - tj. literární předloha(příběh) k operám
 - Bedřich Smetana 3 zhudebnil
     - Čertova stěna, Hubička, Tajemství
+
 
 ### <span style= "color: #6CAA46">**Svatopluk Čech (Ruchovci)**</span>
 - věnuje se politickým a společenským tématům
@@ -180,6 +196,7 @@
     - kritika přelétavosti
         - nestálost politického přesvědčení
 
+
 ### <span style= "color: #6CAA46">**Josef Václav Sládek (Ruchovci-Lumírovci)**</span>
 - začíná u ruchovců, končí u lumírovců
 - 1868 (23 let) odjezd do Ameriky
@@ -203,6 +220,7 @@
 - psal i poezii pro děti
     - Lesní studánka
 - překladatel (Shakespeare,Byron)
+
 
 ### <span style= "color: #6CAA46">**Jaroslav Vrchlický (Lumírovci)**</span>
 - rodným jménem Emil Frýda
@@ -233,6 +251,7 @@
         - Duch a Svět (1878)
         - Mít 
             - 2 díly (1879,1880)
+
 
 ### <span style= "color: #6CAA46">**Julius Zeyer (Lumírovci)**</span>
 - 1841 - 1901

@@ -1,3 +1,10 @@
+---
+toc: true
+layout: dark
+title: Baroko 
+category: Novověká Literatura 
+---
+
 # Baroko
 * <span style="color: #DBA400">17.st. - 18.st.</span>
 * Velký návrat k bohu - způsoben 30ti letou válkou 1618-1648 (30% obyvatelstva umřelo, zničené státy)
@@ -9,6 +16,7 @@
 * <span style="color: #8422ce">**Vestfálský mír**</span> - potvrzení rekatolizace, konec 30ti leté války
 Česká Barokní Literatura
 Exilová (protestantská) Tvorba
+
 ### <span style="color: #6CAA46">**Jan Ámos komenský**</span>
 * Příslušníkem <span style="color: #8422ce">**jednoty bratrské**</span>
 * Gymnáziální studia v Přerově od 16.let

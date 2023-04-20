@@ -1,3 +1,10 @@
+---
+toc: true
+layout: dark
+title: Realismus 
+category: Novověká Literatura 
+---
+
 # Realismus
 * <span style="color: #DBA400">2.pol.19.st</span>
 * Umělecký směr a zároveň metoda zobrazení skutečnosti
@@ -10,6 +17,7 @@
 * Postavy se vyvíjejí (character development)
   * Typizace - postavy vykreslují typické problémy (např. Alkoholik - alkoholismus)
  
+
 ### <span style="color: #6CAA46">**Honoré de Balzac**</span>
 * Bývá považován za zakladatele kriticko-realistického románu
 * Začal tvořit od <span style="color: #DBA400">30.let 19.st.</span>
@@ -22,10 +30,12 @@
     * Dá se to brát i jako taková slabost
     * Podvodníci, zločinci, zloději
 
+
 ## Počátky realismu v české literatuře
 * Přechod od vyjadřování romantických ideí k popisnému a nezkreselenému zobrazení skutečnosti.
 * Bachovský absolutismus 1851-59
   * cenzura, represe, pronásledování, důsledek potlační revoluce 1848
+
 
 ### <span style="color: #6CAA46">**Božena Němcová**</span>
 * žila 1820-1862
@@ -79,6 +89,7 @@
 
 
 
+
 ### <span style= "color: #6CAA46">**Karel Havlíček Borovský**</span>
 * žil 1821-1856
 * novinář, spisovatel, básník, neradikální, kritik
@@ -109,6 +120,7 @@
 * <span style="color: #EC7627">**Nesforův letopis**</span>
   * Perun
 
+
 ### Bachův Absolutismus
 * Útisk českého kulturního života
 * 1858 - <span style="color: #EC7627">**Almanach Máj**</span> - vystoupení mladé básnické generace
@@ -126,20 +138,25 @@
 * Neruda hodně cestoval
 * Jan Neruda - se podepisoval jako trojúhelník
 
+
 ### <span style="color: #8422ce">**Ruchovci**</span> x <span style="color: #8422ce">**Lumírovci**</span>
  Vlastenci x Světová Literatura
+
 ### <span style="color: #8422ce">**Ruchovci**</span>
 * škola národa
 * S. Čech
 * <span style="color: #6CAA46">**Eliška Krásnohorská**</span>
+
 ### <span style="color: #8422ce">**Lumírovci**</span>
 * škola kosmopolitní
 * <span style="color: #6CAA46">**Jaroslav Vrchlický**</span>
 * <span style="color: #6CAA46">**J.V.Sládek**</span> - původně u Ruchovců a později přešel k Lumírovcům
 * <span style="color: #6CAA46">**J. Zeyer**</span>
+
 ### <span style="color: #6CAA46">**J. Zeyer**</span>
 * pohádka
   * láska zvítězí
+
 ### <span style="color: #6CAA46">**Jaroslav Vrchlický**</span>
 * postavil se za nenásilnou výchovu u dětských básniček
 * [<span style="color: #EC7627">**Balada o hovně**</span>](https://www.cesky-jazyk.cz/citanka/jaroslav-vrchlicky/balada-o-hovne.html)
@@ -149,7 +166,9 @@
 * <span style="color: #EC7627">**Okna v bouři**</span>
   * témata: zrada, zklamání, soucit 
   * "zlí lidé největší jsou nešťastníci"
+
 ### Národní divadlo
 * <span style="color: #DBA400">1868</span> - položen základní kámen
+
 ### <span style="color: #6CAA46">**Jan Neruda**</span>
 * <span style="color: #8422ce">**Májovec**</span>
