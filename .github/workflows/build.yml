@@ -28,18 +28,18 @@ jobs:
 
     - name: Add index.md files for each directory
       run: |
-      #!/bin/bash
-      for dir in */; do
-        #if [[ -e "${dir}index.md" ]]; then
-        #  continue
-        #fi
-        printf "# File list\n\n" > "${dir}index.md"
-        for file in "${dir}"*; do
-          if [[ -f "${file}" ]]; then
-            printf "* [%s](%s) \n" "${file##*/}" "${file##*/}" >> "${dir}index.md"
-          fi
+        #!/bin/bash
+        for dir in */; do
+          #if [[ -e "${dir}index.md" ]]; then
+          #  continue
+          #fi
+          printf "# File list\n\n" > "${dir}index.md"
+          for file in "${dir}"*; do
+            if [[ -f "${file}" ]]; then
+              printf "* [%s](%s) \n" "${file##*/}" "${file##*/}" >> "${dir}index.md"
+            fi
+          done
         done
-      done
 
 
     - name: Add front matter to markdown files (for Jekyll to notice)
