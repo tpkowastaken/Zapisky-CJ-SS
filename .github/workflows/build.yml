@@ -49,6 +49,7 @@ jobs:
         find . -type f -name "*.md" ! -name "README.md" -print0 | xargs -0 -I {} sh -c '
           if ! grep -q "^---$" "{}"; then
             folderName=$(basename "$(dirname "{}")")
+            file="{}"
             FILENAME=$(printf "%s" "${file##*/}")
             echo "wtf: $FILENAME"
             siteTitle=$(awk "NR==1{print substr(\$0, 3)}" "{}")
