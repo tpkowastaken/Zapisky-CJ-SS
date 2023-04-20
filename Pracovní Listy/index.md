@@ -1,10 +1,9 @@
 ---
 toc: false
 layout: dark
-title: Obsahuje témata  
+title: Pracovní Listy 
 category: Pracovní Listy 
 ---
-title: Pracovní Listy 
 
 # Obsahuje témata: 
 

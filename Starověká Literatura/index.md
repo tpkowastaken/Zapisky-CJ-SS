@@ -1,10 +1,9 @@
 ---
 toc: false
 layout: dark
-title: Obsahuje témata  
+title: Starověká Literatura 
 category: Starověká Literatura 
 ---
-title: Starověká Literatura 
 
 # Obsahuje témata: 
 

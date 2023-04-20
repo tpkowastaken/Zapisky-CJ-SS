@@ -1,10 +1,9 @@
 ---
 toc: false
 layout: dark
-title: Obsahuje témata  
+title: Novověká Literatura 
 category: Novověká Literatura 
 ---
-title: Novověká Literatura 
 
 # Obsahuje témata: 
 

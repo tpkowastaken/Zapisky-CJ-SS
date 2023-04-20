@@ -1,10 +1,9 @@
 ---
 toc: false
 layout: dark
-title: Obsahuje témata  
+title: Úvod 
 category: Úvod 
 ---
-title: Úvod 
 
 # Obsahuje témata: 
 

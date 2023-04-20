@@ -1,10 +1,9 @@
 ---
 toc: false
 layout: dark
-title: Obsahuje témata  
+title: testy 
 category: testy 
 ---
-title: testy 
 
 # Obsahuje témata: 
 

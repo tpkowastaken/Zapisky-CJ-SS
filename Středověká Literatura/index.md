@@ -1,10 +1,9 @@
 ---
 toc: false
 layout: dark
-title: Obsahuje témata  
+title: Středověká Literatura 
 category: Středověká Literatura 
 ---
-title: Středověká Literatura 
 
 # Obsahuje témata: 
 

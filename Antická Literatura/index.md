@@ -1,10 +1,9 @@
 ---
 toc: false
 layout: dark
-title: Obsahuje témata  
+title: Antická Literatura 
 category: Antická Literatura 
 ---
-title: Antická Literatura 
 
 # Obsahuje témata: 
 
