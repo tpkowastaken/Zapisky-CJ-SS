@@ -24,7 +24,7 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Add index.md files for each directory
       run: |
@@ -88,12 +88,12 @@ jobs:
     if: ${{ always() }}
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         path: repo-with-markdown-files
 
     - name: Checkout jekyll theme repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         repository: tpkowastaken/jekyll-dark-github-theme
         path: repo-with-jekyll-theme
