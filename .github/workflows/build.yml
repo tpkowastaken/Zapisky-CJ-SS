@@ -35,6 +35,7 @@ jobs:
           fi
           printf "# File list\n\n" > "${dir}index.md"
           for file in "${dir}"*; do
+            echo "Processing ${file}"
             if [[ -f "${file}" && "${file}" != "README.md" && "${file}" != "index.md" ]]; then
               FILENAME=$(printf "%s" "${file##*/}")
               FILENAME=$(printf "%s" "${FILENAME%.*}")
