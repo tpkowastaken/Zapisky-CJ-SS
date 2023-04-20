@@ -4,6 +4,7 @@ layout: dark
 title: Obsahuje témata  
 category: Úvod 
 ---
+title: Úvod 
 
 # Obsahuje témata: 
 
