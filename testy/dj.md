@@ -1,3 +1,10 @@
+---
+toc: true
+layout: dark
+title:  
+parent_url:  
+category: testy 
+---
 
 co je to kritický realismus a jak se projevuje v české literatuře
 

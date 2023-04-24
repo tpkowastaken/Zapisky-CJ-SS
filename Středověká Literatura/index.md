@@ -1,3 +1,11 @@
+---
+toc: false
+layout: dark
+title: Středověká Literatura 
+parent_url:  
+category: Středověká Literatura 
+---
+
 # Obsahuje témata: 
 
 * [Literatura doby Husitské](Literatura doby Husitské) 

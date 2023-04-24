@@ -1,3 +1,10 @@
+---
+toc: true
+layout: dark
+title:  
+parent_url:  
+category: Novověká Literatura 
+---
 
 * Odnož realismu (krajní směr realismu)
 * Zde se reálně zobrazují i odpudivé, škaredé jevy
