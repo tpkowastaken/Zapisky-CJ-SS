@@ -1,3 +1,11 @@
+---
+toc: true
+layout: dark
+title: Romantismus 
+parent_url: ./Novověká Literatura 
+category: Novověká Literatura 
+---
+
 # Romantismus
 * 1.pol. 19. st.
   * Ve světové literatuře: Poč. 19. st.

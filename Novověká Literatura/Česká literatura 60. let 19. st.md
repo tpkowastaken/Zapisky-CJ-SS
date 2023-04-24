@@ -1,3 +1,11 @@
+---
+toc: true
+layout: dark
+title: Česká literatura 60. až 80. let 19. st. 
+parent_url: ./Novověká Literatura 
+category: Novověká Literatura 
+---
+
 # Česká literatura 60. až 80. let 19. st.
 
 ## Generace májovců

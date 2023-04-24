@@ -1,3 +1,11 @@
+---
+toc: true
+layout: dark
+title: Baroko 
+parent_url: ./Novověká Literatura 
+category: Novověká Literatura 
+---
+
 # Baroko
 * <span style="color: #DBA400">17.st. - 18.st.</span>
 * Velký návrat k bohu - způsoben 30ti letou válkou 1618-1648 (30% obyvatelstva umřelo, zničené státy)

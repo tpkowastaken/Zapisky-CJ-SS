@@ -1,3 +1,11 @@
+---
+toc: true
+layout: dark
+title: Realismus 
+parent_url: ./Novověká Literatura 
+category: Novověká Literatura 
+---
+
 # Realismus
 * <span style="color: #DBA400">2.pol.19.st</span>
 * Umělecký směr a zároveň metoda zobrazení skutečnosti

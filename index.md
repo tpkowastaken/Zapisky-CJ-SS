@@ -1,3 +1,11 @@
+---
+toc: false
+layout: dark
+title: . 
+parent_url: . 
+category: . 
+---
+
 # Vítejte na stránkách zápisek pro češtinu.
 
 ## pokud hledáte odkaz na poslední test je tady:

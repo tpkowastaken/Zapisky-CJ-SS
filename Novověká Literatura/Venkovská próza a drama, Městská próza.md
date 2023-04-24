@@ -1,3 +1,11 @@
+---
+toc: true
+layout: dark
+title: Venkovská próza 2. poloviny 19. st. 
+parent_url: ./Novověká Literatura 
+category: Novověká Literatura 
+---
+
 # Venkovská próza 2. poloviny 19. st.
 
 ## kritický realismus

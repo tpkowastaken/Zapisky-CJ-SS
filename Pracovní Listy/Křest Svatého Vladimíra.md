@@ -1,3 +1,10 @@
+---
+toc: true
+layout: dark
+title: o vám chybí?“ táže se cár 
+parent_url: ./Pracovní Listy 
+category: Pracovní Listy 
+---
 „Co vám chybí?“ táže se cár
 Pod svým baldachýnem,
 Oni všichni jedním hrdlem:

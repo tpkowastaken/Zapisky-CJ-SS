@@ -1,3 +1,11 @@
+---
+toc: true
+layout: dark
+title: Středověká Literatura 
+parent_url: ./Středověká Literatura 
+category: Středověká Literatura 
+---
+
 # Středověká Literatura
 * 476 - 1492
 * objevení ameriky 1492
