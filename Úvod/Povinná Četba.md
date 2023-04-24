@@ -1,11 +1,3 @@
----
-toc: true
-layout: dark
-title:  
-parent_url:  
-category: Úvod 
----
-
 # povinná četba
 
 26 August 2022

@@ -1,11 +1,3 @@
----
-toc: true
-layout: dark
-title:  
-parent_url:  
-category: Novověká Literatura 
----
-
 generace Rukovsko-lumírovská
 
 skupina Ruchovců X skupina lumírovců

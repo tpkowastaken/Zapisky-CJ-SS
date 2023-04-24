@@ -1,10 +1,3 @@
----
-toc: false
-layout: dark
-title: Zápisky z češtiny SPŠ na Třebešíně
-category: Zápisky z češtiny SPŠ na Třebešíně
----
-
 # Vítejte na stránkách zápisek pro češtinu.
 
 ## pokud hledáte odkaz na poslední test je tady:

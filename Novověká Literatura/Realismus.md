@@ -1,11 +1,3 @@
----
-toc: true
-layout: dark
-title:  
-parent_url:  
-category: Novověká Literatura 
----
-
 # Realismus
 * <span style="color: #DBA400">2.pol.19.st</span>
 * Umělecký směr a zároveň metoda zobrazení skutečnosti
