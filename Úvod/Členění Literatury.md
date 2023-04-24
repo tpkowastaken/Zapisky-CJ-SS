@@ -1,11 +1,4 @@
----
-toc: true
-layout: dark
-title: Členění Literatury 
-
 # Členění Literatury
-category: Úvod 
----
 1. Umělecká (krásná/beletrie) - povídky a přiběhy
 2. Odborná                          populárně naučná - (encyklopedie)
 

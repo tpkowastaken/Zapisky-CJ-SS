@@ -1,11 +1,4 @@
----
-toc: true
-layout: dark
-title: Romantismus 
-
 # Romantismus
-category: Novověká Literatura 
----
 * 1.pol. 19. st.
   * Ve světové literatuře: Poč. 19. st.
   * V české literatuře: cca 30. léta 19. st.

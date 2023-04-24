@@ -1,11 +1,4 @@
----
-toc: true
-layout: dark
-title: Antická Řecká Literatura 
-
 # Antická Řecká Literatura
-category: Antická Literatura 
----
 * Ztělesnění věčného mládí a krásy
 * Koncem Března uznávali slavnost v čest Dionýsovi - Bohu vína a veselí
 - Tanec na píseň kozlů

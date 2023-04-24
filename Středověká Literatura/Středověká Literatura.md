@@ -1,11 +1,4 @@
----
-toc: true
-layout: dark
-title: Středověká Literatura 
-
 # Středověká Literatura
-category: Středověká Literatura 
----
 * 476 - 1492
 * objevení ameriky 1492
 * Dobytí konstantinopole 1453
