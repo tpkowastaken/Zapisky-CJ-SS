@@ -1,4 +1,11 @@
+---
+toc: true
+layout: dark
+title: Osvícenství 
+
 # Osvícenství
+category: Novověká Literatura 
+---
 * 18.st.
 Znaky
 * myšlenkový a filozofický směr

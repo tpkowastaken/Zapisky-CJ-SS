@@ -1,4 +1,10 @@
+---
+toc: true
+layout: dark
+title:  
 
+category: Novověká Literatura 
+---
 * Odnož realismu (krajní směr realismu)
 * Zde se reálně zobrazují i odpudivé, škaredé jevy
 ○ Chybějící nohy, nemoci, smrt, krev, tabu témata

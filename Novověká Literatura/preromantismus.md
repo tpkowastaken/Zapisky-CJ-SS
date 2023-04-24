@@ -1,4 +1,11 @@
+---
+toc: true
+layout: dark
+title: Preromantismus 
+
 # Preromantismus
+category: Novověká Literatura 
+---
 * 2\. polovina 18.st. - počátek 19.st.
 * Reaguje na osvícenství - posiluje se emoční nalazení -> důraz na city, emoce
 * Znaky:

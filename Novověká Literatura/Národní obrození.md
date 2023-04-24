@@ -1,4 +1,11 @@
+---
+toc: true
+layout: dark
+title: Národní obrození 
+
 # Národní obrození
+category: Novověká Literatura 
+---
 * 1.pol. 19.st.
 * snaha obrodit český jazyk, kulturu a literaturu.
 * Národní hnutí - Politika

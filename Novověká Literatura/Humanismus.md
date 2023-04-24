@@ -1,4 +1,11 @@
+---
+toc: true
+layout: dark
+title: Humanismus 
+
 # Humanismus
+category: Novověká Literatura 
+---
 * <span style="color: #DBA400">70\. léta 15. století</span>
 *  Odklon od boha jako jádra tehdejšího uvažování. 
 *  Zaměření na člověka, na jeho rozum individualitu a obecně na pozemskou stránku života, který samostatně uvažuje je individuální a musí projít život na zemi.
