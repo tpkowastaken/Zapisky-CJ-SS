@@ -1,9 +1,4 @@
----
-toc: true
-layout: dark
-title: Eposy a romány  
-category: Středověká Literatura 
----
+
 * Eposy a romány 
 * Motiv - Oddaný rytíř, který bojuje za svého pána
 * do popředí se staví milostná tématika, princ většinou zamilován do nějaké urozené ženy

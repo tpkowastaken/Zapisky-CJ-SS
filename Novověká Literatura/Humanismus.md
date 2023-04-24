@@ -1,10 +1,3 @@
----
-toc: true
-layout: dark
-title: Humanismus 
-category: Novověká Literatura 
----
-
 # Humanismus
 * <span style="color: #DBA400">70\. léta 15. století</span>
 *  Odklon od boha jako jádra tehdejšího uvažování. 

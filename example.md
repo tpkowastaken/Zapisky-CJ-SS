@@ -1,47 +1,18 @@
+# Témata
 
----
+## <span style="color: #327DC3">**Dělení**</span>
 
-toc: true
+### <span style="color: #6CAA46">**Autoři**</span>
 
-layout: dark
+<span style="color: #EC7627">**Díla**</span>
 
-title: Témata 
+<span style="color: #8422ce">**Pojmy**</span>
 
-category: . 
+<span style="color: #FF6363">**Hodně zmiňované**</span>
 
----
+<span style="color: #FF0505">**Maturitní četba (doporučená)**</span>
 
-#
-
- Témata
-
-#
-
-# <span style="color: #327DC3">**Dělení**</span>
-
-#
-
-## <span style="color: #6CAA46">**Autoři**</span>
-
-<span style="color: #
-
-EC7627">**Díla**</span>
-
-<span style="color: #
-
-8422ce">**Pojmy**</span>
-
-<span style="color: #
-
-FF6363">**Hodně zmiňované**</span>
-
-<span style="color: #
-
-FF0505">**Maturitní četba (doporučená)**</span>
-
-<span style="color: #
-
-DBA400">Data</span>
+<span style="color: #DBA400">Data</span>
 
 * První bullet
 
@@ -51,8 +22,6 @@ DBA400">Data</span>
 
 Nadpisy jsou vždy bez bulletů, odsazení posle předchozího obsahu
 
-odsazení u Nadpisů:
+odsazení u Nadpisů (využívá se vyjímečně):
 
-#
-
-# <span style="margin-left: 40px;"> odsazeno o jeden tab</span>
+## <span style="margin-left: 40px;"> odsazeno o jeden tab</span>

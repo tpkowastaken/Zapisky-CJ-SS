@@ -1,10 +1,3 @@
----
-toc: true
-layout: dark
-title: Středověká Literatura 
-category: Starověká Literatura 
----
-
 # Středověká Literatura
 3. Tisíciletí př.n.l.
 5.  st. našeho letopočtu (476)

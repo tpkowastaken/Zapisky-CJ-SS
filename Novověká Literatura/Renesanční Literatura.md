@@ -1,10 +1,3 @@
----
-toc: true
-layout: dark
-title: Renesanční literatura 
-category: Novověká Literatura 
----
-
 # Renesanční literatura
 *  <span style="color: #DBA400">14\. \- 17.st.</span>
 * Vznikl v Itálii

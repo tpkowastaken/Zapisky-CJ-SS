@@ -1,9 +1,4 @@
----
-toc: true
-layout: dark
-title: povinná četba 
-category: Úvod 
----
+
 
 # povinná četba
 

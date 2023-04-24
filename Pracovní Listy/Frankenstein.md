@@ -1,10 +1,3 @@
----
-toc: true
-layout: dark
-title: Frankenstein 
-category: Pracovní Listy 
----
-
 # Frankenstein
 
 ## Umělecký text
