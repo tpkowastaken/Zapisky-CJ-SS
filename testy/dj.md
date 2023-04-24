@@ -1,4 +1,10 @@
+---
+toc: true
+layout: dark
+title:  
 
+category: testy 
+---
 co je to kritický realismus a jak se projevuje v české literatuře
 
 * Někdy jako synonymum pro realismus 19. a počátku 20. století, jindy jako druhá, vyspělejší fáze realismu, 

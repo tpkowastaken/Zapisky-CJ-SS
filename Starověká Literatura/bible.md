@@ -1,4 +1,11 @@
+---
+toc: true
+layout: dark
+title: Bible 
+
 # Bible
+category: Starověká Literatura 
+---
 
 ## <span style="color: #EC7627">**Stvoření světa**</span>
 * Jak bůh stvořil svět

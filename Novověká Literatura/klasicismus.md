@@ -1,4 +1,11 @@
+---
+toc: true
+layout: dark
+title: Klasicismus 
+
 # Klasicismus
+category: Novověká Literatura 
+---
 * 17-18.st.
 * Umělecký směr
 * Důraz na řád

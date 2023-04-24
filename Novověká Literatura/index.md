@@ -1,3 +1,11 @@
+---
+toc: false
+layout: dark
+title: Novověká Literatura 
+parent_url: . 
+category: Novověká Literatura 
+---
+
 # Obsahuje témata: 
 
 * [Baroko](Baroko) 
