@@ -50,6 +50,8 @@ jobs:
           if ! grep -q "^---$" "{}"; then
             parentpath=$(dirname "{}")
             parentparentpath=$(dirname "$parentpath")
+            echo $parentpath
+            echo $parentparentpath
             folderName=$(basename "$(dirname "{}")")
             file="{}"
             FILENAME=$(printf "%s" "${file##*/}")

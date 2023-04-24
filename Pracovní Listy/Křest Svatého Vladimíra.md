@@ -1,10 +1,4 @@
----
-toc: true
-layout: dark
-title:  
 
-category: Pracovní Listy 
----
 „Co vám chybí?“ táže se cár
 Pod svým baldachýnem,
 Oni všichni jedním hrdlem:

@@ -1,11 +1,4 @@
----
-toc: true
-layout: dark
-title: Literatura doby Husitské 
-
 # Literatura doby Husitské
-category: Středověká Literatura 
----
 Husitské války
 * 1419 - První pražská defenestrace - vedl ji Jan Želivský
 * 1420 - 1434
