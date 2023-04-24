@@ -48,6 +48,8 @@ jobs:
       run: |
         find . -type f -name "*.md" ! -name "README.md" -print0 | xargs -0 -I {} sh -c '
           if ! grep -q "^---$" "{}"; then
+            parentpath=$(dirname "{}")
+            parentparentpath=$(dirname "$parentpath")
             folderName=$(basename "$(dirname "{}")")
             file="{}"
             FILENAME=$(printf "%s" "${file##*/}")
@@ -62,15 +64,19 @@ jobs:
 
             sed -i "3s/^/layout: dark\\n/" "{}"
 
-             if [ "$FILENAME" = "index.md" ]; then
+            if [ "$FILENAME" = "index.md" ]; then
               sed -i "4s/^/title: $folderName \\n/" "{}"
             else
               sed -i "4s/^/title: $siteTitle \\n/" "{}"
             fi
-
+            if [ "$FILENAME" = "index.md" ]; then
+              sed -i "5s/^/parent_url: $parentparentpath \\n/" "{}"
+            else
+              sed -i "5s/^/parent_url: $parentpath \\n/" "{}"
+            fi
      
-            sed -i "5s/^/category: $folderName \\n/" "{}"
-            sed -i "6s/^/---\\n/" "{}"
+            sed -i "6s/^/category: $folderName \\n/" "{}"
+            sed -i "7s/^/---\\n/" "{}"
           fi
         '
     - name: format markdown files headers so Jekyll can read them correctly
