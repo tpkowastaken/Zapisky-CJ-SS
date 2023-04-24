@@ -2,7 +2,7 @@
 toc: false
 layout: dark
 title: Starověká Literatura 
-parent_url:  
+parent_url: . 
 category: Starověká Literatura 
 ---
 

@@ -2,7 +2,7 @@
 toc: false
 layout: dark
 title: testy 
-parent_url:  
+parent_url: . 
 category: testy 
 ---
 

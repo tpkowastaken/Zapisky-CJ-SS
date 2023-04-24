@@ -2,7 +2,7 @@
 toc: false
 layout: dark
 title: Úvod 
-parent_url:  
+parent_url: . 
 category: Úvod 
 ---
 
