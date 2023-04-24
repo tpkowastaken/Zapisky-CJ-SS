@@ -1,9 +1,9 @@
 ---
+goback: false
 toc: false
 layout: dark
-title: . 
-parent_url: . 
-category: . 
+title: Zápisky z češtiny SPŠ na Třebešíně
+category: Zápisky z češtiny SPŠ na Třebešíně
 ---
 
 # Vítejte na stránkách zápisek pro češtinu.
