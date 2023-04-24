@@ -1,3 +1,11 @@
+---
+toc: true
+layout: dark
+title: Klasicismus 
+parent_url: ./Novověká Literatura 
+category: Novověká Literatura 
+---
+
 # Klasicismus
 * 17-18.st.
 * Umělecký směr

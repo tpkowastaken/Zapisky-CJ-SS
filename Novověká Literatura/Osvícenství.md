@@ -1,3 +1,11 @@
+---
+toc: true
+layout: dark
+title: Osvícenství 
+parent_url: ./Novověká Literatura 
+category: Novověká Literatura 
+---
+
 # Osvícenství
 * 18.st.
 Znaky

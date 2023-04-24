@@ -1,3 +1,11 @@
+---
+toc: true
+layout: dark
+title: povinná četba 
+parent_url: ./Úvod 
+category: Úvod 
+---
+
 # povinná četba
 
 26 August 2022

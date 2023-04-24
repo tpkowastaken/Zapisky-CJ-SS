@@ -1,3 +1,11 @@
+---
+toc: true
+layout: dark
+title: Frankenstein 
+parent_url: ./Pracovní Listy 
+category: Pracovní Listy 
+---
+
 # Frankenstein
 
 ## Umělecký text
