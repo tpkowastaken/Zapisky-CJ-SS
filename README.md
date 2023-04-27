@@ -42,7 +42,7 @@ jak to vypadá můžete vidět v example.md (barvičky jsou vidět až při konv
 4. Nyní máte staženy zápisky. Teď je pro editaci potřeba vytvořit "branch"
     * vlevo source control (3 kolečka spojená klikatou čárou) 
     * tam tři tečky u source control -> branch -> create branch from 
-    * potom zadáte váš jakýkoliv název - např. tpkowastaken-hell 
+    * potom zadáte váš jakýkoliv název
     * vyberete "main"
 
 5. publish branch a přihlásíte se do githubu - v prohlížeči kliknete na open
@@ -74,4 +74,4 @@ code --install-extension ./insert-color-span-1.0.0.vsix
 
 při čtení textu v .md souborech můžete zmáčknout ctrl+shift+p a markdown: open preview to side - to vám ukáže jak soubor bude vypadat
 
-insert-color-span přidá do menu pravého tlačítka stilizační nabídky pro text (barvičky a odsazení - Trebesin Čj -- Formátování )
+insert-color-span přidá do menu pravého tlačítka stylizační nabídky pro text (barvičky a odsazení - Trebesin Čj -- Formátování )
