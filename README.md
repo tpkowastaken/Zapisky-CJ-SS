@@ -1,6 +1,6 @@
 # Zapisky-CJ-SS
 
-Zápisky z Češtiny na střední škole od prváku až do čtvrťáku pomocí GFM (Github Flavored Markdown)
+Zápisky z Češtiny na střední škole od prváku až do čtvrťáku pomocí markdown/html. Stránka je hostovaná pomocí Jekyll a github pages. Source code a theme pro jekyll je v [jekyll-dark-github-theme](https://github.com/tpkowastaken/jekyll-dark-github-theme)
 
 # [Verze na webu](https://tpkowastaken.github.io/Zapisky-CJ-SS/)
 
