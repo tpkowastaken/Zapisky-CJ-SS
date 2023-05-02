@@ -38,7 +38,7 @@ jobs:
             EXTENSION=$(printf "%s" "${FILENAME##*.}")
             FILENAME=$(printf "%s" "${FILENAME%.*}")
             if [[ -f "${file}" && "${FILENAME}" != "README" && "${FILENAME}" != "index" && "$EXTENSION" == "md" ]]; then
-              printf "### <span style=\"color: rgb(184, 134, 11)\">[%s](%s)</span> \n" "${FILENAME}" "${FILENAME}" >> "${dir}index.md"
+              printf "### <span class=\"goldA\">[%s](%s)</span> \n" "${FILENAME}" "${FILENAME}" >> "${dir}index.md"
             fi
           done
         done
@@ -67,7 +67,7 @@ jobs:
             if [ "$FILENAME" = "index.md" ]; then
               sed -i "4s/^/title: $folderName \\n/" "{}"
             else
-              sed -i "4s|^|title: $siteTitle \\n|" "{}"
+              sed -i "4s|^|title: $FILENAME \\n|" "{}"
             fi
             if [ "$FILENAME" = "index.md" ]; then
               sed -i "5s|^|parent_url: $parentparentpath \\n|" "{}"

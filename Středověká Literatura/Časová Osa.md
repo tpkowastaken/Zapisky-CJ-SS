@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: dark
-title: ](20230213092235.png)  ![](20230213092302.png)   
+title: Časová Osa
 parent_url: ./Středověká Literatura 
 category: Středověká Literatura 
 ---
