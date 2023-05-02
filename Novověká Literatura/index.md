@@ -8,30 +8,30 @@ category: Novověká Literatura
 
 # Obsahuje témata: 
 
-### <span style="color: rgb(184, 134, 11)">[Baroko](Baroko)</span> 
+### <span class="goldA">[Baroko](Baroko)</span> 
 
-### <span style="color: rgb(184, 134, 11)">[Humanismus](Humanismus)</span> 
+### <span class="goldA">[Humanismus](Humanismus)</span> 
 
-### <span style="color: rgb(184, 134, 11)">[Národní obrození](Národní obrození)</span> 
+### <span class="goldA">[Národní obrození](Národní obrození)</span> 
 
-### <span style="color: rgb(184, 134, 11)">[Osvícenství](Osvícenství)</span> 
+### <span class="goldA">[Osvícenství](Osvícenství)</span> 
 
-### <span style="color: rgb(184, 134, 11)">[Realismus](Realismus)</span> 
+### <span class="goldA">[Realismus](Realismus)</span> 
 
-### <span style="color: rgb(184, 134, 11)">[Renesanční Literatura](Renesanční Literatura)</span> 
+### <span class="goldA">[Renesanční Literatura](Renesanční Literatura)</span> 
 
-### <span style="color: rgb(184, 134, 11)">[Romantismus](Romantismus)</span> 
+### <span class="goldA">[Romantismus](Romantismus)</span> 
 
-### <span style="color: rgb(184, 134, 11)">[Venkovská próza a drama, Městská próza](Venkovská próza a drama, Městská próza)</span> 
+### <span class="goldA">[Venkovská próza a drama, Městská próza](Venkovská próza a drama, Městská próza)</span> 
 
-### <span style="color: rgb(184, 134, 11)">[idk](idk)</span> 
+### <span class="goldA">[idk](idk)</span> 
 
-### <span style="color: rgb(184, 134, 11)">[klasicismus](klasicismus)</span> 
+### <span class="goldA">[klasicismus](klasicismus)</span> 
 
-### <span style="color: rgb(184, 134, 11)">[naturalismus](naturalismus)</span> 
+### <span class="goldA">[naturalismus](naturalismus)</span> 
 
-### <span style="color: rgb(184, 134, 11)">[preromantismus](preromantismus)</span> 
+### <span class="goldA">[preromantismus](preromantismus)</span> 
 
-### <span style="color: rgb(184, 134, 11)">[test](test)</span> 
+### <span class="goldA">[test](test)</span> 
 
-### <span style="color: rgb(184, 134, 11)">[Česká literatura 60. let 19. st](Česká literatura 60. let 19. st)</span> 
+### <span class="goldA">[Česká literatura 60. let 19. st](Česká literatura 60. let 19. st)</span> 

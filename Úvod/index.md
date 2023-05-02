@@ -8,8 +8,8 @@ category: Úvod
 
 # Obsahuje témata: 
 
-### <span style="color: rgb(184, 134, 11)">[Povinná Četba](Povinná Četba)</span> 
+### <span class="goldA">[Povinná Četba](Povinná Četba)</span> 
 
-### <span style="color: rgb(184, 134, 11)">[Slohové práce](Slohové práce)</span> 
+### <span class="goldA">[Slohové práce](Slohové práce)</span> 
 
-### <span style="color: rgb(184, 134, 11)">[Členění Literatury](Členění Literatury)</span> 
+### <span class="goldA">[Členění Literatury](Členění Literatury)</span> 

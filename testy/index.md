@@ -8,4 +8,4 @@ category: testy
 
 # Obsahuje témata: 
 
-### <span style="color: rgb(184, 134, 11)">[dj](dj)</span> 
+### <span class="goldA">[dj](dj)</span> 
