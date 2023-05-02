@@ -38,7 +38,7 @@ jobs:
             EXTENSION=$(printf "%s" "${FILENAME##*.}")
             FILENAME=$(printf "%s" "${FILENAME%.*}")
             if [[ -f "${file}" && "${FILENAME}" != "README" && "${FILENAME}" != "index" && "$EXTENSION" == "md" ]]; then
-              printf "### [%s](%s) \n" "${FILENAME}" "${FILENAME}" >> "${dir}index.md"
+              printf "### <span style="color: rgb(184, 134, 11)">[%s](%s)</span> \n" "${FILENAME}" "${FILENAME}" >> "${dir}index.md"
             fi
           done
         done
