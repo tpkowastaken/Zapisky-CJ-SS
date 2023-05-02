@@ -65,7 +65,7 @@ pro lepší práci jsem si připravil extensiony:
 code --install-extension ./insert-color-span-1.0.0.vsix
 ```
 ## Nahrání do hlavní verze zápisků
- - Po nahrání do vaší verze zápisků si můžete otevřít github extension (vlevo ve vs code logo github, poprvé je potřeba se přihlásit)
+ - Po nahrání do hlavní verze zápisků si můžete otevřít github extension (vlevo ve vs code logo github, poprvé je potřeba se přihlásit)
  - kliknete na první tlačítko v pravo od pull Requests (create a pull request) - vyberete vaší verzi zápisků nahoře a dole vyberete tento repozitář (v základu předvyplněné)
  - Pak pojmenujete titulek, co jste změnili, popisek a kliknete na create.
 -  Nyní se změny nahrají do hlavních zápisků - **Děkujeme!**
