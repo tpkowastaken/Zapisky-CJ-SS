@@ -8,30 +8,30 @@ category: Novověká Literatura
 
 # Obsahuje témata: 
 
-### [Baroko](Baroko) 
+### <span style="color: rgb(184, 134, 11)">[Baroko](Baroko)</span> 
 
-### [Humanismus](Humanismus) 
+### <span style="color: rgb(184, 134, 11)">[Humanismus](Humanismus)</span> 
 
-### [Národní obrození](Národní obrození) 
+### <span style="color: rgb(184, 134, 11)">[Národní obrození](Národní obrození)</span> 
 
-### [Osvícenství](Osvícenství) 
+### <span style="color: rgb(184, 134, 11)">[Osvícenství](Osvícenství)</span> 
 
-### [Realismus](Realismus) 
+### <span style="color: rgb(184, 134, 11)">[Realismus](Realismus)</span> 
 
-### [Renesanční Literatura](Renesanční Literatura) 
+### <span style="color: rgb(184, 134, 11)">[Renesanční Literatura](Renesanční Literatura)</span> 
 
-### [Romantismus](Romantismus) 
+### <span style="color: rgb(184, 134, 11)">[Romantismus](Romantismus)</span> 
 
-### [Venkovská próza a drama, Městská próza](Venkovská próza a drama, Městská próza) 
+### <span style="color: rgb(184, 134, 11)">[Venkovská próza a drama, Městská próza](Venkovská próza a drama, Městská próza)</span> 
 
-### [idk](idk) 
+### <span style="color: rgb(184, 134, 11)">[idk](idk)</span> 
 
-### [klasicismus](klasicismus) 
+### <span style="color: rgb(184, 134, 11)">[klasicismus](klasicismus)</span> 
 
-### [naturalismus](naturalismus) 
+### <span style="color: rgb(184, 134, 11)">[naturalismus](naturalismus)</span> 
 
-### [preromantismus](preromantismus) 
+### <span style="color: rgb(184, 134, 11)">[preromantismus](preromantismus)</span> 
 
-### [test](test) 
+### <span style="color: rgb(184, 134, 11)">[test](test)</span> 
 
-### [Česká literatura 60. let 19. st](Česká literatura 60. let 19. st) 
+### <span style="color: rgb(184, 134, 11)">[Česká literatura 60. let 19. st](Česká literatura 60. let 19. st)</span> 

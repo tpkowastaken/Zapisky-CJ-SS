@@ -8,6 +8,6 @@ category: Starověká Literatura
 
 # Obsahuje témata: 
 
-### [Starověká Literatura](Starověká Literatura) 
+### <span style="color: rgb(184, 134, 11)">[Starověká Literatura](Starověká Literatura)</span> 
 
-### [bible](bible) 
+### <span style="color: rgb(184, 134, 11)">[bible](bible)</span> 
