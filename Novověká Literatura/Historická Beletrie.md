@@ -102,9 +102,9 @@ category: Novověká Literatura
 #### Drama:
 - <span style="color: #EC7627">**trilogie tří Janů**</span>
     - Jan Hus, Jan Žižka, Jan Roháč (3 díla o těchto postavách)
-- <span style="color: #EC7627">**trilogie tří Janů**</span>
+- <span style="color: #EC7627">**Lucerna**</span>
     - pohádková hra
-- <span style="color: #EC7627">**trilogie tří Janů**</span>
+- <span style="color: #EC7627">**Vojnarka**</span>
     - realistické drama
 
 ### <span style= "color: #6CAA46">**Zikmund Winter**</span>
@@ -116,7 +116,7 @@ category: Novověká Literatura
 - soustředí se hlavně na 16. a 17. st.
 - profesor na SŠ - dějepis
 - také archivář a autor odborných publikací (i his. děl)
-- <span style="color: #EC7627">**Misr Kampanus**</span>
+- <span style="color: #EC7627">**Mistr Kampanus**</span>
     - hl. postava Jan Kampanus Vodňanský
         - nekatolík a rektor na karlově univerzity kolem roku 1620
     - jezuité obsadí KU
