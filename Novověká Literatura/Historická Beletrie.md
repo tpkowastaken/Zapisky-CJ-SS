@@ -50,10 +50,12 @@ category: Novověká Literatura
         - mnoho lidí především z nižších vrstev se s ním mohou stotožnit
         - jeho činy jdou do pozadí, síla dějin je v kolektivu - jednotlivec dějinami nehýbe
 - jeho tvorba byla použita v 50. letech ke komunistické propagandě
+
 #### Díla z doby mýtů a pověstí:
 - <span style="color: #EC7627">**Staré pověsti české**</span>
     - předhistorická i historická doba
     - čerpal z kronik, spisů a lidové slovesnosti
+
 #### Díla z doby husitské:
 - <span style="color: #EC7627">**trilogie Mezi Proudy**</span>
     - Jan Hus, 1410
@@ -61,6 +63,7 @@ category: Novověká Literatura
     - bitva na Vítkově, 1420
 - <span style="color: #EC7627">**trilogie Bratrstvo**</span>
     - konec husitské doby
+
 #### Díla z doby pobělohorské:
 - historický kontext:
     - v této době bylo mnoho útlaku na české země:
@@ -80,6 +83,7 @@ category: Novověká Literatura
 - <span style="color: #EC7627">**Temno**</span>
     - román vydaný v roce 1915
     - zobrazuje pálení nekatolických knih a pronásledování
+
 #### Díla z doby národního obrození:
 - <span style="color: #EC7627">**F.L.Věk**</span>
     - rozsáhlý román, pentalogie
@@ -94,6 +98,7 @@ category: Novověká Literatura
     - studenší vlastenci X poněmčení měšťané
 - <span style="color: #EC7627">**U nás**</span>
     - obraz NO na českém venkově (románová kronika)
+
 #### Drama:
 - <span style="color: #EC7627">**trilogie tří Janů**</span>
     - Jan Hus, Jan Žižka, Jan Roháč (3 díla o těchto postavách)
@@ -118,7 +123,6 @@ category: Novověká Literatura
         - Kampanus se snaží bojovat proti jejich vlivu
         - na oko Kampanus přejde ke katolikům aby mohl dále učit na KU
         - zjistí že jeho boj je marný a spáchá sebevraždu
-
 
 ### <span style= "color: #6CAA46">**Josef Svátek**</span>
 

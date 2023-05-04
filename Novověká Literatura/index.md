@@ -10,6 +10,8 @@ category: Novověká Literatura
 
 ### <span class="goldA">[Baroko](Baroko)</span> 
 
+### <span class="goldA">[Historická Beletrie](Historická Beletrie)</span> 
+
 ### <span class="goldA">[Humanismus](Humanismus)</span> 
 
 ### <span class="goldA">[Národní obrození](Národní obrození)</span> 
