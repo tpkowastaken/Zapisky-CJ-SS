@@ -97,9 +97,9 @@ category: Novověká Literatura
 #### Drama:
 - <span style="color: #EC7627">**trilogie tří Janů**</span>
     - Jan Hus, Jan Žižka, Jan Roháč (3 díla o těchto postavách)
-- <span style="color: #EC7627">**trilogie tří Janů**</span>
+- <span style="color: #EC7627">**Lucerna**</span>
     - pohádková hra
-- <span style="color: #EC7627">**trilogie tří Janů**</span>
+- <span style="color: #EC7627">**Vojnarka**</span>
     - realistické drama
 
 ### <span style= "color: #6CAA46">**Zikmund Winter**</span>
