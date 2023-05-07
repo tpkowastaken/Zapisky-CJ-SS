@@ -31,6 +31,8 @@ odsazení u Nadpisů:
 ```
 jak to vypadá můžete vidět v example.md (barvičky jsou vidět až při konverzi do html)
 
+## ZÁPISKY JSOU UŽITEČNÉ I BEZ STYLIZACE. STYLIZACI KLIDNĚ DODĚLÁME MY, POKUD CHCETE PŘISPĚT NENECHTE SE TÍM ODRADIT. EDITOVAT MŮŽETE PŘÍMO I TADY V PROHLÍŽEČI NA GITHUBU
+
 # Jak přispět?
 
 1. Nainstalujte si [Visual Studio Code](https://code.visualstudio.com/Download)
@@ -50,6 +52,8 @@ jak to vypadá můžete vidět v example.md (barvičky jsou vidět až při konv
 6. teď kliknete na "create fork" a všechno povolíte
 
 7. teď můžete editovat jak se vám zlíbí. změny provedete tím, že v source control zadáte jméno změny a pak commit, push changes. Tyto změny jsou pouze ve vaší verzi zápisků.
+
+8. Pull request do tohoto repozitáře můžete udělat buďto přímo na githubu nebo přímo ve vscode (popis toho je o kousek níže). Děkujeme!
 
 ## Extensiony 
 pro lepší práci jsem si připravil extensiony:
