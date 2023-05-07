@@ -60,7 +60,7 @@ pro lepší práci jsem si připravil extensiony:
 
 * (Markdown Paste)
 
-* **insert-color-span** od PavelDobCZ23 - instalace není přes marketplace, ale manuální - stáhnete si [vsix soubor](https://mega.nz/file/ms5SgBbS#evWf4CNwX8oW5fwYs2-RPlyZPtHE7wmPWJQGZ3Ccgf4), otevřete si složku stažené (nebo kam jste si dali soubor) a nahoru do navigačního řádku napíšete "cmd". Poté do příkazového řádku vložíte: 
+* **insert-color-span** od PavelDobCZ23 - instalace není přes marketplace, ale manuální - stáhnete si [vsix soubor](https://github.com/tpkowastaken/Zapisky-CJ-SS/releases/download/v1.0.0/insert-color-span-1.0.0.vsix), otevřete si složku stažené (nebo kam jste si dali soubor) a nahoru do navigačního řádku napíšete "cmd". Poté do příkazového řádku vložíte: 
 ```
 code --install-extension ./insert-color-span-1.0.0.vsix
 ```
@@ -74,4 +74,4 @@ code --install-extension ./insert-color-span-1.0.0.vsix
 
 při čtení textu v .md souborech můžete zmáčknout ctrl+shift+p a markdown: open preview to side - to vám ukáže jak soubor bude vypadat
 
-insert-color-span přidá do menu pravého tlačítka stylizační nabídky pro text (barvičky a odsazení - Trebesin Čj -- Formátování )
+insert-color-span přidá do menu pravého tlačítka stylizační nabídky pro text (barvičky a odsazení - Trebesin Čj -- Formátování ). To použijete tak, že označíte text a poté vyberete stylizaci (například pro autora). Extension vám následně aplikuje stylizaci v podobě <span> elementu.
