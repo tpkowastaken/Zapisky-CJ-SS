@@ -58,13 +58,13 @@ jak to vypadá můžete vidět v example.md (barvičky jsou vidět až při konv
 ## Extensiony 
 pro lepší práci jsem si připravil extensiony:
 
-* Github pull request and issues
+* [Github pull request and issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - obecně se hodí pro práci s githubem a povolí nám vytvořit pull request rovnou z vscode později v textu
 
-* Markdown All in One
+* [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - přidá vám open preview to the side možnost v ctrl+shift+p - tato nabídka vám dovoluje sledovat jak soubor bude vypadat v reálném čase
 
-* (Markdown Paste)
+* [Markdown Paste](https://marketplace.visualstudio.com/items?itemName=telesoho.vscode-markdown-paste-image) - pomocí ctrl+alt+v můžete vkládat obrázky nebo text s formátováním rovnou třeba z onenotu
 
-* **insert-color-span** od PavelDobCZ23 - instalace není přes marketplace, ale manuální - stáhnete si [vsix soubor](https://github.com/tpkowastaken/Zapisky-CJ-SS/releases/download/v1.0.0/insert-color-span-1.0.0.vsix), otevřete si složku stažené (nebo kam jste si dali soubor) a nahoru do navigačního řádku napíšete "cmd". Poté do příkazového řádku vložíte: 
+* [**insert-color-span**](https://github.com/tpkowastaken/Zapisky-CJ-SS/releases/download/v1.0.0/insert-color-span-1.0.0.vsix) od PavelDobCZ23 - instalace není přes marketplace, ale manuální - stáhnete si [vsix soubor](https://github.com/tpkowastaken/Zapisky-CJ-SS/releases/download/v1.0.0/insert-color-span-1.0.0.vsix), otevřete si složku stažené (nebo kam jste si dali soubor) a nahoru do navigačního řádku napíšete "cmd". Poté do příkazového řádku vložíte: 
 ```
 code --install-extension ./insert-color-span-1.0.0.vsix
 ```
