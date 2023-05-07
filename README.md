@@ -31,7 +31,7 @@ odsazení u Nadpisů:
 ```
 jak to vypadá můžete vidět v example.md (barvičky jsou vidět až při konverzi do html)
 
-## ZÁPISKY JSOU UŽITEČNÉ I BEZ STYLIZACE. STYLIZACI KLIDNĚ DODĚLÁME MY, POKUD CHCETE PŘISPĚT NENECHTE SE TÍM ODRADIT. EDITOVAT MŮŽETE PŘÍMO I TADY V PROHLÍŽEČI NA GITHUBU
+## zápisky jsou užitečné i bez stylizace. stylizaci klidně doděláme my, pokud chcete přispět nenechte se tím odradit. editovat můžete přímo i tady v prohlížeči na githubu
 
 # Jak přispět?
 
