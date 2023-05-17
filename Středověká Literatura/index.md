@@ -8,12 +8,12 @@ category: Středověká Literatura
 
 ## Obsahuje témata: 
 
-### <span class="goldA">[Literatura doby Husitské](Literatura doby Husitské)</span> 
+### [Literatura doby Husitské](Literatura doby Husitské) 
 
-### <span class="goldA">[Rytířská Literatura](Rytířská Literatura)</span> 
+### [Rytířská Literatura](Rytířská Literatura) 
 
-### <span class="goldA">[Středověká Literatura](Středověká Literatura)</span> 
+### [Středověká Literatura](Středověká Literatura) 
 
-### <span class="goldA">[Časová Osa](Časová Osa)</span> 
+### [Časová Osa](Časová Osa) 
 
-### <span class="goldA">[Česká Literatura Středověku](Česká Literatura Středověku)</span> 
+### [Česká Literatura Středověku](Česká Literatura Středověku) 

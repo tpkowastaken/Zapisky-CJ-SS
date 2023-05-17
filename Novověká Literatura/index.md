@@ -8,32 +8,32 @@ category: Novověká Literatura
 
 ## Obsahuje témata: 
 
-### <span class="goldA">[Baroko](Baroko)</span> 
+### [Baroko](Baroko) 
 
-### <span class="goldA">[Historická Beletrie](Historická Beletrie)</span> 
+### [Historická Beletrie](Historická Beletrie) 
 
-### <span class="goldA">[Humanismus](Humanismus)</span> 
+### [Humanismus](Humanismus) 
 
-### <span class="goldA">[Národní obrození](Národní obrození)</span> 
+### [Národní obrození](Národní obrození) 
 
-### <span class="goldA">[Osvícenství](Osvícenství)</span> 
+### [Osvícenství](Osvícenství) 
 
-### <span class="goldA">[Realismus](Realismus)</span> 
+### [Realismus](Realismus) 
 
-### <span class="goldA">[Renesanční Literatura](Renesanční Literatura)</span> 
+### [Renesanční Literatura](Renesanční Literatura) 
 
-### <span class="goldA">[Romantismus](Romantismus)</span> 
+### [Romantismus](Romantismus) 
 
-### <span class="goldA">[Venkovská próza a drama, Městská próza](Venkovská próza a drama, Městská próza)</span> 
+### [Venkovská próza a drama, Městská próza](Venkovská próza a drama, Městská próza) 
 
-### <span class="goldA">[idk](idk)</span> 
+### [idk](idk) 
 
-### <span class="goldA">[klasicismus](klasicismus)</span> 
+### [klasicismus](klasicismus) 
 
-### <span class="goldA">[naturalismus](naturalismus)</span> 
+### [naturalismus](naturalismus) 
 
-### <span class="goldA">[preromantismus](preromantismus)</span> 
+### [preromantismus](preromantismus) 
 
-### <span class="goldA">[test](test)</span> 
+### [test](test) 
 
-### <span class="goldA">[Česká literatura 60. let 19. st](Česká literatura 60. let 19. st)</span> 
+### [Česká literatura 60. let 19. st](Česká literatura 60. let 19. st) 

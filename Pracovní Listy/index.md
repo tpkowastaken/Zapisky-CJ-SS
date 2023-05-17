@@ -8,6 +8,6 @@ category: Pracovní Listy
 
 ## Obsahuje témata: 
 
-### <span class="goldA">[Frankenstein](Frankenstein)</span> 
+### [Frankenstein](Frankenstein) 
 
-### <span class="goldA">[Křest Svatého Vladimíra](Křest Svatého Vladimíra)</span> 
+### [Křest Svatého Vladimíra](Křest Svatého Vladimíra) 
