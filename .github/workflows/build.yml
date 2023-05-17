@@ -32,7 +32,7 @@ jobs:
           if [[ -f "${dir}index.md" ]]; then
             rm -f "${dir}index.md"
           fi
-          printf "# Obsahuje témata: \n\n" > "${dir}index.md"
+          printf "## Obsahuje témata: \n\n" > "${dir}index.md"
           for file in "${dir}"*; do
             FILENAME=$(printf "%s" "${file##*/}")
             EXTENSION=$(printf "%s" "${FILENAME##*.}")
