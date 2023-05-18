@@ -8,7 +8,6 @@ category: Novověká Literatura
 
 # Historická Beletrie
 
-## Historická Beletrie
 - umělecké zpracování historických epoch, událostí atd.
 - beletrie - krásná literatura - poezie, próza, drama
 - historická beletrie VS historická díla:
