@@ -16,7 +16,7 @@ category: Zápisky z češtiny SPŠ na Třebešíně
   <a href="./Novov%C4%9Bk%C3%A1%20Literatura/Historick%C3%A1%20Beletrie">
     <button class="testbutton">Poslední test</button>
   </a>
-<div class="emptydiv"></div>
+<div class="textdiv"></div>
 </div>
 
 ## Ostatní témata:
