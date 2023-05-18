@@ -7,7 +7,6 @@ category: Zápisky z češtiny SPŠ na Třebešíně
 ---
 
 # Vítejte na stránkách zápisek pro češtinu.
-<link rel="stylesheet" href="{{ site.site_url }}/assets/css/main.css">
 <div class="mainButtonContainer">
 <div class="textdiv">
 
