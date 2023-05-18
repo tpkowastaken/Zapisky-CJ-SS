@@ -27,9 +27,10 @@ Zápisky z Češtiny na střední škole od prváku až do čtvrťáku pomocí m
 Nadpisy jsou vždy bez bulletů, odsazení posle předchozího obsahu
 
 odsazení u Nadpisů:
-## <span style="margin-left: 40px;"> odsazeno o jeden tab</span>
+## <span style="margin-left: 2em"> odsazeno o jeden tab</span>
 ```
-jak to vypadá můžete vidět v example.md (barvičky jsou vidět až při konverzi do html)
+v .md souborech můžete využívat i syntaxu html pro pokročilejší stylizaci
+jak to vypadá můžete vidět v [example](https://cj.trebesin.fun/example) - barvičky nejsou vidět na githubu, jsou vidět pouze na stránce
 
 ## zápisky jsou užitečné i bez stylizace. stylizaci klidně doděláme my, pokud chcete přispět nenechte se tím odradit. editovat můžete přímo i tady v prohlížeči na githubu
 

@@ -1,9 +1,9 @@
 ---
-toc: true
+toc: false
 layout: dark
-title: Témata 
-parent_url: . 
-category: . 
+title: příklad 
+parent_url: 
+category: 
 ---
 
 # Témata
@@ -32,4 +32,4 @@ Nadpisy jsou vždy bez bulletů, odsazení posle předchozího obsahu
 
 odsazení u Nadpisů (využívá se vyjímečně):
 
-## <span style="margin-left: 40px;"> odsazeno o jeden tab</span>
+## <span style="margin-left: 2em;"> odsazeno o jeden tab</span>
