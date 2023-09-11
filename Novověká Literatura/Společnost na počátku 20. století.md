@@ -1,3 +1,11 @@
+---
+toc: true
+layout: dark
+title: Společnost na počátku 20. století.md 
+parent_url: ./Novověká Literatura 
+category: Novověká Literatura 
+---
+
 # Společnost na počátku 20. Století
 * "<span style="color: #8422ce">**Belle Epoque**</span>"
   * "Krásná doba"

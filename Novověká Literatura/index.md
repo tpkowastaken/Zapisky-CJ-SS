@@ -24,6 +24,8 @@ category: Novověká Literatura
 
 ### [Romantismus](Romantismus) 
 
+### [Společnost na počátku 20. století](Společnost na počátku 20. století) 
+
 ### [Venkovská próza a drama, Městská próza](Venkovská próza a drama, Městská próza) 
 
 ### [idk](idk) 

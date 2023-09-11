@@ -36,6 +36,7 @@ category: Starověká Literatura
   * Klínové písmo
   * Oko za oko, zub za zub
   * Najdeme v důvru ve Francii
+
 ## <span style="color: #327DC3">**Egypt**</span>
 * Všechny textové památky
 * Stěny a papyrus
@@ -51,6 +52,7 @@ category: Starověká Literatura
   * Chvalo zpěv (óda)
 * Polytheismus
   * Výra v několik bohů
+
 ##  <span style="color: #327DC3">**Indie**</span>
 * <span style="color: #8422ce">**Sanskrt**</span>
   * Indické písmo
