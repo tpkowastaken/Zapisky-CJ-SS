@@ -7,65 +7,69 @@ category: Starověká Literatura
 ---
 
 # Středověká Literatura
-3. Tisíciletí př.n.l.
-5.  st. našeho letopočtu (476)
-○ Zánik západořímské říše
+- <span style="color: #DBA400">3. Tisíciletí př.n.l.</span>
+- <span style="color: #DBA400">5. st. našeho letopočtu (476)</span>
+*  Zánik západořímské říše
 * Země úrodného půlměsíce
-○ Egypt, Čína, Mezopotámie
+  * Egypt, Čína, Mezopotámie
 * Antika
-○ Řecko a Řím
+  * Řecko a Řím
 * Staroorientální říše
-○ Vznikaly v povodích velkých řek
+  * Vznikaly v povodích velkých řek
 * Indie
-○ Ganga a Indu
+  * Ganga a Indu
 * Panovník
-○ Byl brán jako potomek Bohů
-Mezopotámie
-- Epos o geogešovi
-○ Hradby okolo Uraku
-○ Snaží se získat nesmrtelnost
-○ Bohyně Ychstar
-○ Zanechá trvalý odkaz
-(hradby a poznání nesmrtelnosti)
-○ Eukidu nepřítel -> přítel
-- Ašsurbanipalova Knihovna
-○ Nipive (území mezopotámie)
-- Zákonník
-○ (Chammurapiho zákoník)
-○ 17. st. př. k.
-○ Klínové písmo
-○ Oko za oko, zub za zub
-○ Najdeme v důvru ve Francii
-Egypt
-- Všechny textové památky
-- Stěny a papyrus
-- Champollion Jean
-○ Rosetská deska
-- Knihy mrtvých
-○ Cesta do záhrobí
-- Knihy moudrých rad do života
-- Životopisy
-○ Vlastní životopisy Simulneta
-○ Mika Naltari
-- Achnatův hymmus na slunce
-○ Chvalo zpěv (óda)
-- Polytheismus
-○ Výra v několik bohů
-Indie
-- Sanskrt
-○ Indické písmo
-- Hinduismus
-- Budhismus
-- Karma
-- Bralymaismus
-- Sidharta Gautama
-○ Princ odříznutý od reality
-○ Dostal osvícení
-○ Nepolíbený realitou
-○ Vegetarián
-- Také víra ve více bohů
-- 2 st. př.n.l. (Védy)
-○ Ódy o Induismu
-- Rámajána - epos - Příběh života Rámova
-- Pančatantra - sbírka bajek a vyprávění
+  * Byl brán jako potomek Bohů
+
+## <span style="color: #327DC3">**Mezopotámie**</span>
+
+* <span style="color: #EC7627">**Epos o geogešovi**</span>
+  * Hradby okolo Uraku
+  * Snaží se získat nesmrtelnost
+  * Bohyně Ychstar
+  * Zanechá trvalý odkaz (hradby a poznání nesmrtelnosti)
+  * Eukidu nepřítel -> přítel
+    * Ašsurbanipalova Knihovna
+  * Nipive (území mezopotámie)
+* <span style="color: #EC7627">**Zákonník**</span> (<span style="color: #EC7627">**Chammurapiho zákoník**</span>)
+  * <span style="color: #DBA400">17. st. př. k.</span>
+  * Klínové písmo
+  * Oko za oko, zub za zub
+  * Najdeme v důvru ve Francii
+## <span style="color: #327DC3">**Egypt**</span>
+* Všechny textové památky
+* Stěny a papyrus
+* <span style="color: #EC7627">**Champollion Jean**</span>
+  * Rosetská deska
+* <span style="color: #EC7627">**Knihy mrtvých**</span>
+  * Cesta do záhrobí
+* <span style="color: #EC7627">**Knihy moudrých rad do života**</span>
+*  <span style="color: #327DC3">**Životopisy**</span>
+    * Vlastní životopisy <span style="color: #EC7627">**Simulneta**</span>
+      * <span style="color: #6CAA46">**Mika Naltari**</span>
+* <span style="color: #EC7627">**Achnatův hymmus na slunce**</span>
+  * Chvalo zpěv (óda)
+* Polytheismus
+  * Výra v několik bohů
+##  <span style="color: #327DC3">**Indie**</span>
+* <span style="color: #8422ce">**Sanskrt**</span>
+  * Indické písmo
+* <span style="color: #8422ce">**Hinduismus**</span>
+* <span style="color: #8422ce">**Budhismus**</span>
+* <span style="color: #8422ce">**Karma**</span>
+* <span style="color: #8422ce">**Bralymaismus**</span>
+* <span style="color: #EC7627">**Sidharta Gautama**</span>
+  * Princ odříznutý od reality
+  * Dostal osvícení
+  * Nepolíbený realitou
+  * Vegetarián
+* Také víra ve více bohů
+* <span style="color: #EC7627">**Ódy o Induismu**</span>
+  * <span style="color: #DBA400">2 st. př.n.l.</span>
+  * <span style="color: #6CAA46">**Védy**</span>
+* <span style="color: #EC7627">**Rámajána**</span>
+  * epos
+  * Příběh života Rámova
+* <span style="color: #8422ce">**Pančatantra**</span>
+  * sbírka bajek a vyprávění
 

@@ -71,7 +71,7 @@ category: Starověká Literatura
 * Vznik Desatera
 
 ## <span style="color: #EC7627">**Samson + Deliela**</span> = zrada ježíše
-* Pilát Pontský
+* <span style="color: #6CAA46">**Pilát Pontský**</span>
 * Getsemanská zahrada
 * Barabáš
 * Golgota
@@ -80,38 +80,38 @@ category: Starověká Literatura
 * Marie Magdalena - doprovázela Ježíše z Nazareta
 * Pilát Pontský nechal poslat do Getsemanské zahrady kde našel Ježíše Vojsko, které ho zajalo. Poté Pilát nechal vybrat Jeruzalémský dav či propustit Barabáše nebo Ježíše. K jeho překvapení si vybrali Barabáše a vojsko tedy nechalo Ježíše ukřižovat v Golgotě. Poslední zabotnutí provedlo Longinovo kopí.
 
-## Pronásledování Křesťanů
-* Henryk Soukyš
-  * Quo Vadis (19.st.)
-* Odešel Svatý Petr - Kam kráčíš Domine
-* 313 n. l. - Edikt Milánský povolil křesťanství jako náboženství v Římě
-* 6.st. Př.n.l. - sepsání star-ho zákonu
-* Kolonizace 4.st.
+## <span style="color: #EC7627">**Pronásledování Křesťanů**</span>
+* <span style="color: #6CAA46">**Henryk Soukyš**</span>
+  * <span style="color: #EC7627">**Quo Vadis**</span> (19.st.)
+* Odešel <span style="color: #6CAA46">**Svatý Petr**</span> - Kam kráčíš Domine
+* <span style="color: #DBA400">313 n. l.</span> - Edikt Milánský povolil křesťanství jako náboženství v Římě
+* <span style="color: #DBA400">6.st. Př.n.l.</span> - sepsání star-ho zákonu
+* Kolonizace <span style="color: #DBA400">4.st.</span>
   * Vybrání jednotlivých spisů do canonu bible
 * Hebrejština x Aramejština
   * Byla v nich napsaná Bible
-* Pět knih mojžíšových - Pentateuch
-  1. Genesis
-  2. Exodus
-  3. Leviticus
-  4. Numeri
-  5. Deteunoronomium
+* <span style="color: #EC7627">**Pět knih mojžíšových - Pentateuch**</span>
+  1. <span style="color: #EC7627">**Genesis**</span>
+  2. <span style="color: #EC7627">**Exodus**</span>
+  3. <span style="color: #EC7627">**Leviticus**</span>
+  4. <span style="color: #EC7627">**Numeri**</span>
+  5. <span style="color: #EC7627">**Deteunoronomium**</span>
 * Prorocké knihy
   * Výroky a činy proroků
 
-## Nový zákon - o Ježíšovi
+## <span style="color: #EC7627">**Nový zákon - o Ježíšovi**</span>
 * První knihy byly:
   * Čtyři Evangelia
-    1. Marek
-    2. Matouš
-    3. Lukáš
-    4. Jan
+    1. <span style="color: #EC7627">**Marek**</span>
+    2. <span style="color: #EC7627">**Matouš**</span>
+    3. <span style="color: #EC7627">**Lukáš**</span>
+    4. <span style="color: #EC7627">**Jan**</span>
 * První řecký překlad Bible
-  * Setuaginta
+  * <span style="color: #EC7627">**Setuaginta**</span>
 * První latinský překlad Bible
-  * Vulgata
-* Apokryfy
-  * Knihy které se nedostaly do canonu bible (které se nevešly do bible)
+  * <span style="color: #EC7627">**Vulgata**</span>
+* <span style="color: #8422ce">**Apokryfy**</span>
+  * Knihy které se nedostaly do kanonu bible (které se nevešly do bible)
 
 ### <span style="color: #EC7627">**Zjevení Janovo**</span>
 * Poslední kniha nového zákona

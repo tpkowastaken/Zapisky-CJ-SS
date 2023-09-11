@@ -10,11 +10,18 @@ category: Antická Literatura
 * Ztělesnění věčného mládí a krásy
 * Koncem Března uznávali slavnost v čest Dionýsovi - Bohu vína a veselí
 - Tanec na píseň kozlů
-- Začátek - 8. až 5. století př. n. l. konec 476 n. l.
-Řecké tragédie: 
-* Aischylos - Oresteia - syn agameona, který se snaží pomstít otcovu vraždu a jeho otec je agamemnon z trojské války.
-* Sofokles - Antigona - král oidipus zabije svého otce a pak se ožení se svou matkou - oidipovský komplex
-* Euripidés - Médeia -  zamilovaná do Jásona nosila roumo, on ji zradí ožení se s jinou a ona se pak mstí a zabije rodinu.
+* Začátek 8. až 5. století př. n. l. 
+* konec 476 n. l.
+
+## <span style="color: #327DC3">**Řecké tragédie:**</span>
+* <span style="color: #6CAA46">**Aischylos**</span>
+  * <span style="color: #EC7627">**Oresteia**</span>
+    * syn agameona, který se snaží pomstít otcovu vraždu a jeho otec je agamemnon z trojské války.
+* <span style="color: #6CAA46">**Sofokles**</span>
+  * <span style="color: #EC7627">**Antigona**</span>
+    * král <span style="color: #6CAA46">**oidipus**</span> zabije svého otce a pak se ožení se svou matkou - <span style="color: #FF6363">**oidipovský komplex**</span>
+* <span style="color: #6CAA46">**Euripidés**</span>
+  * Médeia -  zamilovaná do Jásona nosila roumo, on ji zradí ožení se s jinou a ona se pak mstí a zabije rodinu.
 Řecká komedie:
 * Aristofánes - Dysistraté - ženy odpírají mužům manželské povinnosti a požadují, aby muži přestali válčit.
 Básně:
