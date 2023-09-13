@@ -39,9 +39,7 @@ category: Středověká Literatura
 * Milostná tématika
 * Trubadůři - Rytířští zpěváci Lyriky
 
-##  <span style="color: #327DC3">**Rytířská zábavná literatura**</span>
-
-###  <span style="color: #327DC3">**Cestopoisy**</span>
+##  <span style="color: #327DC3">**Rytířská zábavná literatura - Cestopisy**</span>
 
 ### <span style="color: #6CAA46">**Marco polo**</span>
   * <span style="color: #EC7627">**Milion**</span>

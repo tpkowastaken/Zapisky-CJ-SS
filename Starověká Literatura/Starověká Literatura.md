@@ -72,6 +72,6 @@ category: Starověká Literatura
 * <span style="color: #EC7627">**Rámajána**</span>
   * epos
   * Příběh života <span style="color: #6CAA46">**Rámova**</span>
-* <span style="color: #8422ce">**Pančatantra**</span>
+* <span style="color: #EC7627">**Pančatantra**</span>
   * sbírka bajek a vyprávění
 

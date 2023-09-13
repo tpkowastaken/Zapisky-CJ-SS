@@ -21,7 +21,7 @@ category: Středověká Literatura
 * <span style="color: #EC7627">**Žižkův vojenský řád**</span>
   * <span style="color: #DBA400">1423</span>
 
-###  <span style="color: #327DC3">**Husitská poezie**</span>
+##  <span style="color: #327DC3">**Husitská poezie**</span>
 * <span style="color: #EC7627">**Budyšínský rukopis**</span>
 * <span style="color: #EC7627">**Žaloba koruny české**</span>
   * Obviněni <span style="color: #6CAA46">**Zikmund**</span> a Kostnický koncil, že jsou příčinou nařčení Čechů z kacířství.
@@ -34,7 +34,7 @@ category: Středověká Literatura
   * Vavřinec z Březové
   * latinsky
 
-###  <span style="color: #327DC3">**Katolická Polemika**</span>
+##  <span style="color: #327DC3">**Katolická Polemika**</span>
 * <span style="color: #EC7627">**Václav, Havel a Tábor**</span>
   * Katolíci vítězí v této knize
 * Zcela chybí literatura světská a zábavného charakteru
@@ -54,9 +54,9 @@ category: Středověká Literatura
 * Odjel na <span style="color: #8422ce">**Koncil**</span> - shromáždění církve, které má vyřešit církevní otázky. Kostnice, kvůli Trojpapežství.
 * <span style="color: #6CAA46">**Jan Hus**</span> Dostal <span style="color: #8422ce">**Gleit**</span> (záruku, že Jan Hus se vrátí živý), ale <span style="color: #8422ce">**Gleit**</span> se nevztahoval na rozhodnutí církve.
 
-### <span style="color: #327DC3">**Díla Jana Husa**</span>
+## <span style="color: #327DC3">**Díla Jana Husa**</span>
 
-### <span style="color: #327DC3">**Latinské spisy:**</span>
+## <span style="color: #327DC3">**Latinské spisy:**</span>
 * <span style="color: #EC7627">**O Církvi**</span>
   * shrnutí kritiky církve, zpochybnění postavení papeže a jeho role
   * Přijímání od obojí - Víno a Chleba - <span style="color: #8422ce">**Kališníci**</span> - Pili Víno z kalichu
@@ -67,7 +67,7 @@ category: Středověká Literatura
   * Odstranil I Archaismy
   * Počeštil německé slova
 
-### <span style="color: #327DC3">**České Spisy:**</span>
+## <span style="color: #327DC3">**České Spisy:**</span>
 * <span style="color: #EC7627">**Knížky o svatokupectví**</span>
   * Kupčení církevní mocnosti
   * Částečně odpustky
@@ -95,11 +95,11 @@ category: Středověká Literatura
 * Předcházel <span style="color: #6CAA46">**Janu Husovi**</span>
 * Kazatelské výklady - <span style="color: #8422ce">**Řeči Besední**</span>
 
-### <span style="color: #327DC3">**Mravoučná literatura**</span>
+## <span style="color: #327DC3">**Mravoučná literatura**</span>
   * spisy jak by se správný člověk měl chovat
   * <span style="color: #EC7627">**Knížky šestery o obeckých věcech křesťanských**</span>
 
-### <span style="color: #EC7627">**Pohusitské období**</span>
+## <span style="color: #327DC3">**Pohusitské období**</span>
 * Bitva u Lipan - <span style="color: #DBA400">1434</span>, Konec Husitských válek
 * Jihlavská Kompaktáta - <span style="color: #DBA400">1436</span>
   * dvouměří
@@ -115,7 +115,7 @@ category: Středověká Literatura
 * <span style="color: #EC7627">**O trojím lidu**</span> 
   * odsuzuje rozdíly mezi společenskými vrstvami lidu
 
-### <span style="color: #327DC3">**Knihy**</span>
+## <span style="color: #327DC3">**Knihy**</span>
 * <span style="color: #EC7627">**Sieť viery pravé**</span>
   * Odkaz na síť svatého Petra (apoštol)
   * Síť má zachytit pravé křesťany
