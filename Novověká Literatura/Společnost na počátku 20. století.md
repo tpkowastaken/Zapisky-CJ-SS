@@ -15,9 +15,9 @@ category: Novověká Literatura
 * průmysl ⬆
 * vědy ⬆
 * optimismus v budoucnost
-* sociální neronováha
+* sociální nerovnováha
   * Dělníci měli delší hodiny nežli dříve a jsou nespokojení
 * Moderní umění
-  * dekadence, secese, impresinismus, symbolismus, surrealismus, dadalysmus
+* dekadence, secese, impresinismus, symbolismus, surrealismus, dadalysmus, nacionalismus
 * Marxismus
   * všichni si jsou rovni a kapitál se má rozdávat všem rovnoměrně
