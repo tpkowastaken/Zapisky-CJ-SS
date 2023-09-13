@@ -21,24 +21,31 @@ category: Středověká Literatura
 * Panovník hledá Svatý grál
 * Kouzelník Merlin
 * <span style="color: #6CAA46">**Lancelot**</span> - oddatný rytíř, zamilovaný do královny <span style="color: #6CAA46">**Ginebry**</span>
+
 ### <span style="color: #EC7627">**Tristan a Izolda**</span>
 * Rytířský román
 * Rozhodnutí mezi loyalitou pánovi a láskou vůči <span style="color: #6CAA46">**Izoldě**</span>
 * Tragický příběh o tragické lásce rytíře <span style="color: #6CAA46">**Tristana**</span> a <span style="color: #6CAA46">**Izoldy**</span>
 * <span style="color: #6CAA46">**Izolda**</span> se provdá za <span style="color: #6CAA46">**marka**</span>, ale <span style="color: #6CAA46">**Izolda**</span> stále miluje <span style="color: #6CAA46">**Tristana**</span>
+
 ### <span style="color: #EC7627">**Alexandreida**</span>
 * <span style="color: #DBA400">12. st.</span>
 * Vyprávění, které vypravuje o <span style="color: #6CAA46">**Alexandru Makedonském**</span>
 * Oslavuje činy a vítězství <span style="color: #6CAA46">**Alexandra Makedosnkého**</span> z <span style="color: #DBA400">4. st. před kristem</span>
 * Vzniklo jich několik (v jiných zemích)
+
 ### <span style="color: #EC7627">**Rytířská Lyrika**</span>
 * <span style="color: #DBA400">12.st. </span>
 * Milostná tématika
 * Trubadůři - Rytířští zpěváci Lyriky
+
 ##  <span style="color: #327DC3">**Rytířská zábavná literatura**</span>
+
 ###  <span style="color: #327DC3">**Cestopoisy**</span>
+
 ### <span style="color: #6CAA46">**Marco polo**</span>
   * <span style="color: #EC7627">**Milion**</span>
   * <span style="color: #DBA400">13. st.</span>
+
 ### <span style="color: #6CAA46">**Čingischán**</span>
 * <span style="color: #EC7627">**Kublajehán**</span>

@@ -13,12 +13,14 @@ category: Středověká Literatura
   * Husité x Katolíci = křižáky posílal papež a Zikmund Lucemburský
   * Ovlivněny působením mistra <span style="color: #6CAA46">**Jana Husa**</span>
   * <span style="color: #DBA400">1434</span> bitva u lipan - radikální x umínění husité
+
 ##  <span style="color: #327DC3">**Literatura během husitských válek**</span>
 * <span style="color: #EC7627">**Jistebnický Kancionál**</span>
   * <span style="color: #EC7627">**Ktož sú boží bojovníci**</span> - válečná a duchovní píseň
   * Husitský náboženský zpěvník
 * <span style="color: #EC7627">**Žižkův vojenský řád**</span>
   * <span style="color: #DBA400">1423</span>
+
 ###  <span style="color: #327DC3">**Husitská poezie**</span>
 * <span style="color: #EC7627">**Budyšínský rukopis**</span>
 * <span style="color: #EC7627">**Žaloba koruny české**</span>
@@ -31,6 +33,7 @@ category: Středověká Literatura
 * <span style="color: #EC7627">**Husitská kronika**</span>
   * Vavřinec z Březové
   * latinsky
+
 ###  <span style="color: #327DC3">**Katolická Polemika**</span>
 * <span style="color: #EC7627">**Václav, Havel a Tábor**</span>
   * Katolíci vítězí v této knize
@@ -52,6 +55,7 @@ category: Středověká Literatura
 * <span style="color: #6CAA46">**Jan Hus**</span> Dostal <span style="color: #8422ce">**Gleit**</span> (záruku, že Jan Hus se vrátí živý), ale <span style="color: #8422ce">**Gleit**</span> se nevztahoval na rozhodnutí církve.
 
 ### <span style="color: #327DC3">**Díla Jana Husa**</span>
+
 ### <span style="color: #327DC3">**Latinské spisy:**</span>
 * <span style="color: #EC7627">**O Církvi**</span>
   * shrnutí kritiky církve, zpochybnění postavení papeže a jeho role
@@ -62,6 +66,7 @@ category: Středověká Literatura
   * Odstranil Spřežky - SZ, CZ -> š, č
   * Odstranil I Archaismy
   * Počeštil německé slova
+
 ### <span style="color: #327DC3">**České Spisy:**</span>
 * <span style="color: #EC7627">**Knížky o svatokupectví**</span>
   * Kupčení církevní mocnosti
@@ -72,16 +77,19 @@ category: Středověká Literatura
   * Výtažky z bible (kázání)
 * <span style="color: #EC7627">**Listy z Kostnice**</span>
   * Dopisy, korespondence z kostnice
+
 ### <span style="color: #6CAA46">**Jan Milíč z Kroměříže**</span>
 * Předchůdce <span style="color: #6CAA46">**Jana Husa**</span>
 * Kázal v malém měřítku
 
 ### <span style="color: #6CAA46">**Jeroným Pražský**</span>
 * také upálen v Kostnici, protože podporoval Husovy myšlenky
+
 ### <span style="color: #6CAA46">**John Wycliffe**</span>
 * Předchůdce husova myšlení
 * První člověk co kritizoval tyto církevní problémy
 * Napsal knihu, kterou <span style="color: #6CAA46">**Jan Hus**</span> s nadšením četl
+
 ### <span style="color: #6CAA46">**Tomáš Štítný ze Štítného**</span>
 * Dění v Církvi komentovali I šlechtici
 * Předcházel <span style="color: #6CAA46">**Janu Husovi**</span>
@@ -99,12 +107,14 @@ category: Středověká Literatura
   * Přijímání pod obojí
     * Krev hospodinova (svatý chleba a víno)
 * Jednota Bratrská - <span style="color: #DBA400">1457</span>
+
 ### <span style="color: #6CAA46">**Petr Chelčický**</span>
 <span style="color: #EC7627">**Řeči**</span>
 * <span style="color: #EC7627">**O boji duchovním**</span>
   * Petr odpůrce násilí
 * <span style="color: #EC7627">**O trojím lidu**</span> 
   * odsuzuje rozdíly mezi společenskými vrstvami lidu
+
 ### <span style="color: #327DC3">**Knihy**</span>
 * <span style="color: #EC7627">**Sieť viery pravé**</span>
   * Odkaz na síť svatého Petra (apoštol)
