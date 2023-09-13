@@ -5,10 +5,13 @@ title: Česká Literatura Středověku
 parent_url: ./Středověká Literatura 
 category: Středověká Literatura 
 ---
+
 # Česká Literatura Středověku
 * <span style="color: #DBA400">7.st. - 14.st.</span>
+
 ## Sámova Říše
 * <span style="color: #DBA400">7.st.</span>
+
 ## Velká Morava
 * <span style="color: #DBA400">9.st.</span>
 * <span style="color: #DBA400">863</span> příchod Věrozvěstů Cyrila a Metoděje ze Sovoně
@@ -17,6 +20,7 @@ category: Středověká Literatura
 * <span style="color: #8422ce">**Cyrilice**</span> - zjednodušená hlaholice, později základ azbuky
 * Zformován první kulturský jazyk
   * jazyk k bohoslužbám, mším, svatbám, na pohřbech atd. - předtím probíhaly pouze v Latině, Prostý lid nerozuměl Latině. Latina byla určena pouze pro nejurozenější a nejchytřejší.
+
 ## <span style="color: #327DC3">**Staroslovenské texty**</span>
   * <span style="color: #EC7627">**Kyjevské listy**</span>
     * zlomek mešní knihy (mše)
@@ -59,6 +63,7 @@ category: Středověká Literatura
   * Svatováclavský chorál
   * Ze <span style="color: #DBA400">12.st.</span>
   * druhá česká píseň - první čistě česká
+
 ## <span style="color: #327DC3">**Rozvoj Česky psané Literatury**</span>
 * <span style="color: #DBA400">Přelom 12. - 15. st.</span>
 * <span style="color: #EC7627">**Konhutina modlitba**</span>
@@ -71,6 +76,7 @@ category: Středověká Literatura
 * <span style="color: #EC7627">**Dalimilova broučka**</span>
   * Veršovaná
   * Shrnuje české dějiny do roku <span style="color: #DBA400">1314</span>
+
 ###  <span style="color: #327DC3">**Doba Karlova**</span>
 * Vládl (spravoval) Italské státy už v mládí
 * 4 manželky
