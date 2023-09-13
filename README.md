@@ -26,15 +26,23 @@ Zápisky z Češtiny na střední škole od prváku až do čtvrťáku pomocí m
 
 Nadpisy jsou vždy bez bulletů, odsazení posle předchozího obsahu
 
+Postavy jsou zelenou barvou stejně jako Autoři avšak bez nadpisu: <span style="color: #6CAA46">**Kain**</span> a <span style="color: #6CAA46">**Ábel**</span>
+
+
+
 odsazení u Nadpisů:
 ## <span style="margin-left: 2em"> odsazeno o jeden tab</span>
 ```
 v .md souborech můžete využívat i syntaxu html pro pokročilejší stylizaci
 jak to vypadá můžete vidět v [example](https://cj.trebesin.fun/example.html) - barvičky nejsou vidět na githubu, jsou vidět pouze na stránce
 
-## zápisky jsou užitečné i bez stylizace. stylizaci klidně doděláme my, pokud chcete přispět nenechte se tím odradit. editovat můžete přímo i tady v prohlížeči na githubu
+## Zápisky jsou užitečné i bez stylizace. stylizaci klidně doděláme my, pokud chcete přispět nenechte se tím odradit. editovat můžete přímo i tady v prohlížeči na githubu
 
 # Jak přispět?
+
+Buďto upravujte přimo v prohlížeči a poté postupujte podle instrukcí a vytvořte pull request do 'main'
+
+Nebo
 
 1. Nainstalujte si [Visual Studio Code](https://code.visualstudio.com/Download)
 

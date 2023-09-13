@@ -25,8 +25,8 @@ category: Starověká Literatura
 
 * <span style="color: #EC7627">**Epos o geogešovi**</span>
   * Hradby okolo Uraku
-  * Snaží se získat nesmrtelnost
-  * Bohyně Ychstar
+  * <span style="color: #6CAA46">**Geogeš**</span> se snaží získat nesmrtelnost
+  * Bohyně <span style="color: #6CAA46">**Ychstar**</span>
   * Zanechá trvalý odkaz (hradby a poznání nesmrtelnosti)
   * Eukidu nepřítel -> přítel
     * Ašsurbanipalova Knihovna
@@ -71,7 +71,7 @@ category: Starověká Literatura
   * <span style="color: #6CAA46">**Védy**</span>
 * <span style="color: #EC7627">**Rámajána**</span>
   * epos
-  * Příběh života Rámova
+  * Příběh života <span style="color: #6CAA46">**Rámova**</span>
 * <span style="color: #8422ce">**Pančatantra**</span>
   * sbírka bajek a vyprávění
 

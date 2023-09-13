@@ -36,7 +36,7 @@ category: Novověká Literatura
 
 ### <span style= "color: #6CAA46">**Alois Jirásek**</span>
 - narozen v Hornově roku 1851
-- studoval historii na filosofické fakultě KU
+- studoval historii na filozofické fakultě KU
 - učil na gymnáziu v Litomyšli a později v Praze
 - byl demokrat, po celou dobu aktivně podporoval národní hnutí
 - jeho beletrie vychovávala vlastence
@@ -90,7 +90,7 @@ category: Novověká Literatura
     - je zde Václav Thán a divadlo Bouda
     - taky je zde Václav Matěj Kromerius
     - F.L. Věk - fiktivní postava dělaná podle F. Heka
-- <span style="color: #EC7627">**Filosofská historie**</span>
+- <span style="color: #EC7627">**Filozofská historie**</span>
     - děj se odehrává kolem událostí roku 1848
     - především studenstské prostředí v Litomyšli 
     - radikální studenti při revoluci 1848 proti monarchii

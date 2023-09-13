@@ -43,7 +43,7 @@ category: Antická Literatura
 ##  <span style="color: #327DC3">**Římská próza**</span>
 
 ### <span style="color: #6CAA46">**Petronius**</span>
-* filosof
+* filozof
 * <span style="color: #EC7627">**Satiricon**</span>
   * útočí na římskou společnost erotického rázu
 * <span style="color: #EC7627">**Seneca**</span>

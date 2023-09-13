@@ -19,7 +19,7 @@ category: Novověká Literatura
 * Probouzí se zájem o ústní lidovou slovesnost (ústní tradování, příběhy písničky)
 Francie
 Jean Jacques Rousseau [Žán Žak rusó]
-* Filosof
+* Filozof
 * Prosazoval návrat k přírodě
 * Kritika nerovnosti lidí
 O Smlouvě Společenské
