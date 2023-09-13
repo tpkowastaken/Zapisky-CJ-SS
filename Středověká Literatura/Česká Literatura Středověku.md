@@ -34,6 +34,7 @@ category: Středověká Literatura
   * Stát českých přemyslovců
 * <span style="color: #EC7627">**Kristiánova Legenda**</span>
   * První přemyslovský rod:
+  
 ![](20230213091942.png)  
     * Vražda drahomíry od sv. Ludmily
     * Poslání vraha na sv. Václava. Vrah, který ho zavraždil před kostelem, byl seslán Boleslavem
