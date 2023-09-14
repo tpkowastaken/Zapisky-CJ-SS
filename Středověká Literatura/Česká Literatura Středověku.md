@@ -21,7 +21,7 @@ category: Středověká Literatura
 * Zformován první kulturský jazyk
   * jazyk k bohoslužbám, mším, svatbám, na pohřbech atd. - předtím probíhaly pouze v Latině, Prostý lid nerozuměl Latině. Latina byla určena pouze pro nejurozenější a nejchytřejší.
 
-## <span style="color: #327DC3">**Staroslovenské texty**</span>
+## Staroslovenské texty
   * <span style="color: #EC7627">**Kyjevské listy**</span>
     * zlomek mešní knihy (mše)
   * <span style="color: #EC7627">**Životopisy svatých**</span>
@@ -65,7 +65,7 @@ category: Středověká Literatura
   * Ze <span style="color: #DBA400">12.st.</span>
   * druhá česká píseň - první čistě česká
 
-## <span style="color: #327DC3">**Rozvoj Česky psané Literatury**</span>
+## Rozvoj Česky psané Literatury
 * <span style="color: #DBA400">Přelom 12. - 15. st.</span>
 * <span style="color: #EC7627">**Konhutina modlitba**</span>
   * Duchovní lyrika
@@ -78,7 +78,7 @@ category: Středověká Literatura
   * Veršovaná
   * Shrnuje české dějiny do roku <span style="color: #DBA400">1314</span>
 
-###  <span style="color: #327DC3">**Doba Karlova**</span>
+### Doba Karlova
 * Vládl (spravoval) Italské státy už v mládí
 * 4 manželky
   * Alžběta Pomořanská (4.)
@@ -96,15 +96,15 @@ category: Středověká Literatura
   * Základ terminologie
   * Vysvětlení latinských termínů v češtině
 
-*  <span style="color: #327DC3">**Tvorba zlidovělá**</span>
-    * Zezvětšení literatury
-    * Duchovní/církevní (světská)
-    * <span style="color: #EC7627">**Podkonní a žák**</span>
-      * Satira
-      * Spor/dialog mezi dvouma ze sociálních tříd
-      * Žák bude časem asi postaven výš ale i přesto má autoritu podkonního 🙄
-    * <span style="color: #EC7627">**Mastičkář**</span>
-      * Drama
-      * Kritizuje různé způsoby podvodů a šarlatánských taktik prodavačů mastí
-    * <span style="color: #EC7627">**O lišce a džbánu**</span>
-      * Naše první bajka
+<span style="color: #327DC3">**Tvorba zlidovělá**</span>
+* Zezvětšení literatury
+* Duchovní/církevní (světská)
+* <span style="color: #EC7627">**Podkonní a žák**</span>
+  * Satira
+  * Spor/dialog mezi dvouma ze sociálních tříd
+  * Žák bude časem asi postaven výš ale i přesto má autoritu podkonního 🙄
+* <span style="color: #EC7627">**Mastičkář**</span>
+  * Drama
+  * Kritizuje různé způsoby podvodů a šarlatánských taktik prodavačů mastí
+* <span style="color: #EC7627">**O lišce a džbánu**</span>
+  * Naše první bajka

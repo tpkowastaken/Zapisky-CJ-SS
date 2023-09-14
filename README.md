@@ -7,7 +7,7 @@ Zápisky z Češtiny na střední škole od prváku až do čtvrťáku pomocí m
 # Format
 ```
 # Témata
-## <span style="color: #327DC3">**Dělení**</span>
+## Dělení
 ### <span style="color: #6CAA46">**Autoři**</span>
 
 <span style="color: #EC7627">**Díla**</span>
@@ -26,7 +26,17 @@ Zápisky z Češtiny na střední škole od prváku až do čtvrťáku pomocí m
 
 Nadpisy jsou vždy bez bulletů, odsazení posle předchozího obsahu
 
-Postavy jsou zelenou barvou stejně jako Autoři avšak bez nadpisu: <span style="color: #6CAA46">**Kain**</span> a <span style="color: #6CAA46">**Ábel**</span>
+Pokud je další dělení uvnitř Dělení označuje se modrou barvou bez '##':
+
+## Dělení
+
+* text
+
+<span style="color: #327DC3">**Dělení uvnitř dělení**</span>
+
+
+
+Postavy a osobnosti jsou zelenou barvou stejně jako Autoři avšak bez nadpisu: <span style="color: #6CAA46">**Kain**</span> a <span style="color: #6CAA46">**Ábel**</span>
 
 
 

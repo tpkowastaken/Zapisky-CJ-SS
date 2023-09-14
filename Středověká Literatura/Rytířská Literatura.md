@@ -12,7 +12,7 @@ category: Středověká Literatura
 * do popředí se staví milostná tématika, princ většinou zamilován do nějaké urozené ženy
 * Rytířské kroniky byly Základní zdroj informací o středověku
 
-## <span style="color: #327DC3">**Rytířská Epika**</span>
+## Rytířská Epika
 
 ### <span style="color: #EC7627">**Bretoňský cyklus**</span>
 * <span style="color: #DBA400">konec 15. st.</span>
@@ -39,7 +39,7 @@ category: Středověká Literatura
 * Milostná tématika
 * Trubadůři - Rytířští zpěváci Lyriky
 
-##  <span style="color: #327DC3">**Rytířská zábavná literatura - Cestopisy**</span>
+##  Rytířská zábavná literatura - Cestopisy
 
 ### <span style="color: #6CAA46">**Marco polo**</span>
   * <span style="color: #EC7627">**Milion**</span>

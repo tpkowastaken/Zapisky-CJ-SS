@@ -12,7 +12,7 @@ category: Středověká Literatura
 * dobytí konstantinopole <span style="color: #DBA400">1453</span>
 * vynález knihtisku <span style="color: #6CAA46">**Johannesem Gutenbergem**</span> <span style="color: #DBA400">1450</span>
 
-## <span style="color: #327DC3">**Arabská literatura**</span> 
+## Arabská literatura
 <span style="color: #EC7627">**Korán**</span>
 * Kanonický text Irán
 * odvíjel se od izmaela ze <span style="color: #DBA400">7. st.</span>
@@ -28,7 +28,7 @@ category: Středověká Literatura
   * <span style="color: #DBA400">10.st.</span>
 * <span style="color: #EC7627">**Aladin**</span>
 
-## <span style="color: #327DC3">**Evropská literatura**</span>
+## Evropská literatura
 * Stěhování národů <span style="color: #DBA400">od 4. do 6. století</span>
 * Vznikaly Státní celky
   * Vznik Francké říše
@@ -48,7 +48,7 @@ category: Středověká Literatura
   * Gotika 
     * třeba chrám svatého Víta
 
-## <span style="color: #327DC3">**Hrdinské národní eposy**</span>
+## Hrdinské národní eposy
 
 ###  <span style="color: #327DC3">**Antická řecká literatura (starověké řecko)**</span>
   * <span style="color: #EC7627">**Idias a Olysea**</span>

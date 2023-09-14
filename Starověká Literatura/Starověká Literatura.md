@@ -21,7 +21,7 @@ category: Starověká Literatura
 * Panovník
   * Byl brán jako potomek Bohů
 
-## <span style="color: #327DC3">**Mezopotámie**</span>
+## Mezopotámie
 
 * <span style="color: #EC7627">**Epos o geogešovi**</span>
   * Hradby okolo Uraku
@@ -37,7 +37,7 @@ category: Starověká Literatura
   * Oko za oko, zub za zub
   * Najdeme v důvru ve Francii
 
-## <span style="color: #327DC3">**Egypt**</span>
+## Egypt
 * Všechny textové památky
 * Stěny a papyrus
 * <span style="color: #EC7627">**Champollion Jean**</span>
@@ -53,7 +53,7 @@ category: Starověká Literatura
 * Polytheismus
   * Výra v několik bohů
 
-##  <span style="color: #327DC3">**Indie**</span>
+## Indie
 * <span style="color: #8422ce">**Sanskrt**</span>
   * Indické písmo
 * <span style="color: #8422ce">**Hinduismus**</span>

@@ -13,7 +13,7 @@ category: Antická Literatura
 * Začátek <span style="color: #DBA400">8. až 5. století př. n. l.</span> 
 * konec <span style="color: #DBA400">476 n. l.</span>
 
-## <span style="color: #327DC3">**Řecké tragédie:**</span>
+## Řecké tragédie:
 
 ### <span style="color: #6CAA46">**Aischylos**</span>
 * <span style="color: #EC7627">**Oresteia**</span>
@@ -27,13 +27,13 @@ category: Antická Literatura
 * <span style="color: #EC7627">**Médeia**</span>
   * <span style="color: #6CAA46">**Médeia**</span> je zamilovaná do <span style="color: #6CAA46">**Jásona**</span>, nosila roumo, on ji zradí, ožení se s jinou a ona se pak mstí a zabije rodinu.
 
-## <span style="color: #327DC3">**Řecká komedie:**</span>
+## Řecké komedie:
 
 ### <span style="color: #6CAA46">**Aristofánes**</span>
 * <span style="color: #EC7627">**Dysistraté**</span>
   * ženy odpírají mužům manželské povinnosti a požadují, aby muži přestali válčit.
 
-## <span style="color: #327DC3">**Řecké Básně:**</span>
+## Řecké Básně:
 
 ### <span style="color: #6CAA46">**Homér**</span>
 * <span style="color: #EC7627">**Ilias a Odysea**</span>
@@ -46,18 +46,18 @@ category: Antická Literatura
     * Rozhněval Boha Poseidona
     * "Věrná Penelopa" - čekala na manžela
 
-## <span style="color: #327DC3">**Řecké Bajky**</span>
+## Řecké Bajky
 
 ### <span style="color: #6CAA46">**Ezop**</span>
 * <span style="color: #EC7627">**Ezopovy bajky**</span>
 
-## <span style="color: #327DC3">**Řečtí Historikové**</span>
+## Řečtí Historikové
 
 ### <span style="color: #6CAA46">**Tukkiddes**</span>
 
 ### <span style="color: #6CAA46">**Herodotos**</span>
 
-## <span style="color: #327DC3">**Řecká Filozofie:**</span>
+## Řecká Filozofie:
 
 ### <span style="color: #6CAA46">**Aristoteles**</span>
 * pravidlo tří jednot
@@ -69,7 +69,7 @@ category: Antická Literatura
 
 ### <span style="color: #6CAA46">**Sokrates**</span>
 
-## <span style="color: #327DC3">**Řecké drama:**</span>
+## Řecké drama:
 * Řeckým dramatem se hodně inspiruje renesance a klasicismus
 
 ### <span style="color: #6CAA46">**Euripidés**</span>

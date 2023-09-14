@@ -12,7 +12,7 @@ category: Antická Literatura
 * Přebírá hotové útvary z literatury řecké
 * Díky ní se zvýšila znalost antické a řecké vzdělanosti
 
-## <span style="color: #327DC3">**Komedie**</span>
+## Komedie
 
 ### <span style="color: #6CAA46">**Plautus**</span>
 * Koncept vybírání témat z každodenního života, hovorovým jazykem
@@ -22,7 +22,7 @@ category: Antická Literatura
 * <span style="color: #EC7627">**Komedie o hrnci**</span>
 * <span style="color: #EC7627">**dívka z Andru**</span>
 
-## <span style="color: #327DC3">**Básnictví**</span>
+## Básnictví
 
 ### <span style="color: #6CAA46">**Carus**</span>
 * <span style="color: #EC7627">**O povaze věcí**</span>
@@ -40,7 +40,7 @@ category: Antická Literatura
 ### <span style="color: #6CAA46">**Ovidius**</span>
 * <span style="color: #EC7627">**Umění milovat**</span>
 
-##  <span style="color: #327DC3">**Římská próza**</span>
+## Římská próza
 
 ### <span style="color: #6CAA46">**Petronius**</span>
 * filozof
@@ -49,6 +49,6 @@ category: Antická Literatura
 * <span style="color: #EC7627">**Seneca**</span>
   * Oba byli nuceni spáchat sebevraždu za císaře Nera, kvůli nahánění křesťanů
 
-###  <span style="color: #327DC3">**Filozofové**</span>
+### Filozofové
 * <span style="color: #6CAA46">**Seneca**</span>
 * <span style="color: #6CAA46">**Marcus Aurelius**</span>
