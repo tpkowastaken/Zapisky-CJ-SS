@@ -74,6 +74,11 @@ Nebo
 
 8. Pull request do tohoto repozitáře můžete udělat buďto přímo na githubu nebo přímo ve vscode (popis toho je o kousek níže). Děkujeme!
 
+## Jak psát zápisky?
+
+* Pokud si přejete udělat nové téma stačí vytvořit soubor s koncovkou .md ('jmenovasehonovehotematu.md') a první řádek musí být nadpis a jméno vašeho tématu. Zbytek už je na vás.
+* Tento soubor musí být buďto v jedné ze složek nebo v nové složce v hlavní directory (/Moderní Literatura/literatura 19.st/renesance.md) 👎 (/Moderní Literatura/Renesance.md) 👍
+
 ## Extensiony 
 pro lepší práci jsem si připravil extensiony:
 
@@ -98,3 +103,20 @@ code --install-extension ./insert-color-span-1.0.0.vsix
 při čtení textu v .md souborech můžete zmáčknout ctrl+shift+p a markdown: open preview to side - to vám ukáže jak soubor bude vypadat
 
 insert-color-span přidá do menu pravého tlačítka stylizační nabídky pro text (barvičky a odsazení - Trebesin Čj -- Formátování ). To použijete tak, že označíte text a poté vyberete stylizaci (například pro autora). Extension vám následně aplikuje stylizaci v podobě <span> elementu.
+
+# Forkování tohoto projektu
+
+Pro Lepší orientaci v souborovém systému jsem se rozhodl jekyll soubory (a soubory související s formátováním markdownu a stránky jako takové) oddělit do [druhého repozitáře](https://github.com/tpkowastaken/jekyll-dark-github-theme). Pokud chcete spustit tuto stránku na své doméně, případně ji upravit nebo vylepšit a udělat pull request musíte se nejdřív držet těmito instrukcemi:
+
+1. Forkněte si oba repozitáře
+2. v [config.yml](https://github.com/tpkowastaken/Zapisky-CJ-SS/blob/7bdd493ec43850e70cc17935f842d0efb44ab6ba/_config.yml#L38-L40) v repozitáři se zápisky upravte vaše url pro přístup ke stránce (pokud nemáte vlastní doménu bude vypadat asi takto: https://vasejmenonagithubu.github.io/jmeno_repozitare, odkaz na vas repozitar a branch, kam chcete odkazovat lidi, co kliknou na edit on github
+3. v [build.yml](https://github.com/tpkowastaken/Zapisky-CJ-SS/blob/7bdd493ec43850e70cc17935f842d0efb44ab6ba/.github/workflows/build.yml#L102-L106) ve workflows upravte odkaz na repozitář s jekyll soubory
+4. v [build.yml](https://github.com/tpkowastaken/Zapisky-CJ-SS/blob/7bdd493ec43850e70cc17935f842d0efb44ab6ba/.github/workflows/build.yml#L93-L99) ve workflows upravte informace na vaše údaje na githubu a odkaz na druhý repozitář (secrets.TOKEN zanechte)
+5. v nastavení repozitáře se zápisky přidejte secret v Security->Secrets and variables->actions->new repository secret
+6. secret pojmenujte 'TOKEN'
+7. do pole Secret vložte token vašeho účtu - ten získáte v nastavení vašeho profilu -> developer settings (uplne dole v menu vlevo) -> personal access tokens -> a vygenerujte si token (token musí mít právo editovat repozitář se zápisky)
+8. v nastavení repozitáře vyberte pages a pod build and deployment zvolte github actions
+9. Vložte svojí doménu pod nebo nechte prázdné
+10. v repozitáři klikněte na actions a spusťte build.yml
+
+Vaše stránka se zkompiluje a bude brzy dostupná na vaši adrese 👍
