@@ -35,6 +35,7 @@ category: Novověká Literatura
   * jsou natolik ovlivněni tou válkou, že popisujou válku
   * nebo je jejich tvorba válkou ovlivněna 
   * může se to vztahovat i na jiné autory než americké - např. <span style="color: #6CAA46">**Erich Maria Remarque**</span> - <span style="color: #FF0505">**Na západní frontě klid**</span>
+
 ## Rysy <span style="color: #8422ce">**Ztracené generace**</span>
 * zklámání
 * deziluze
