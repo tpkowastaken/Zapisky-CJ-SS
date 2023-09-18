@@ -20,19 +20,19 @@
 * Římská literatura
   * <span style="color: #DBA400">3. - 5. st. př. n. l.</span>
   * římská filozofie
-    * Petronius, Seneca, Marcus Aurelius
+    * <span style="color: #6CAA46">**Petronius**</span>, <span style="color: #6CAA46">**Seneca**</span>, <span style="color: #6CAA46">**Marcus Aurelius**</span>
   * poezie
-    * Catullus, Vergilius, Ovidius
+    * <span style="color: #6CAA46">**Catullus**</span>, <span style="color: #6CAA46">**Vergilius**</span>, <span style="color: #6CAA46">**Ovidius**</span>
   * drama
-    * Plautus
+    * <span style="color: #6CAA46">**Plautus**</span>
   * próza
-    * Petronius
+    * <span style="color: #6CAA46">**Petronius**</span>
   * válečné zápisky
-    * G. Julius Caesar  
+    * <span style="color: #6CAA46">**G. Julius Caesar**</span>
   * Řečnictví
-    * Cicero
+    * <span style="color: #6CAA46">**Cicero**</span>
   * Dějepisectví
-    * Tacitus
+    * <span style="color: #6CAA46">**Tacitus**</span>
 * Bible
   * <span style="color: #DBA400">10.st. - 4.st. př. n. l.</span>
   * Starý zákon
@@ -40,3 +40,11 @@
 
 ## Středověk
 * <span style="color: #DBA400">5. - 15. st. našeho letopočtu</span>
+* Latinská literatura
+* literatura v národních jazycích
+  * rozvoj českého písemnictví
+* Hrdinské národní eposy
+  * Beowulf
+  * Píseň o Cidovi
+  * Píseň o Rolandovi
+  * Edda
