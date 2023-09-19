@@ -92,15 +92,48 @@ category: testy
     * <span style="color: #EC7627">**Podkonní a žák**</span>
     * <span style="color: #EC7627">**Mastičkář**</span>
   * Husitská Literatura
-    * Jan Hus
+    * <span style="color: #6CAA46">**Jan Hus**</span>
       * <span style="color: #EC7627">**O církvi**</span>
-      * O pravopise Českém
-      * Knížky o svatokupectví
-      * Budyšínský rukopis
-      * Któž jsú boží bojovníci
+      * <span style="color: #EC7627">**O pravopise Českém**</span>
+      * <span style="color: #EC7627">**Knížky o svatokupectví**</span>
+      * <span style="color: #EC7627">**Budyšínský rukopis**</span>
+      * <span style="color: #EC7627">**Któž jsú boží bojovníci**</span>
 * Vydání knihtisku
-  * 15. století
-  * Díky Johannesu Gutenbergovi
+  * <span style="color: #DBA400">15. století</span>
+  * Díky <span style="color: #6CAA46">**Johannesu Gutenbergovi**</span>
   * Dříve manusktipta v klášterech
 
 ## Renesance
+
+  * <span style="color: #DBA400">14.stol. - 17.stol.</span>
+  * <span style="color: #FF6363">**obrat od Boha k člověku**</span>, důraz na vzdělanost, rozum, rozvoj věd, <span style="color: #FF6363">**individualismus**</span>, návrat k estetickým ideálům antiky
+  * humanismus
+    * myšlení zrcadlící renesanční hodnoty (vzdělanost, důraz na lidské hodnoty), není spjat jen s renesancí
+### <span style="color: #6CAA46">**Petrarca**</span>
+* <span style="color: #EC7627">**Sonety Lauře**</span>
+### <span style="color: #6CAA46">**Dante**</span>
+* <span style="color: #EC7627">**Božská komedie**</span>
+### <span style="color: #6CAA46">**Boccaccio**</span>
+* <span style="color: #EC7627">**Dekameron**</span>
+### <span style="color: #6CAA46">**Shakespeare**</span>
+* <span style="color: #EC7627">**Hamlet**</span>
+* <span style="color: #EC7627">**Romeo a Julie**</span>
+* <span style="color: #EC7627">**Zkrocení zlé ženy**</span>
+* <span style="color: #EC7627">**Othello**</span>
+### <span style="color: #6CAA46">**Marlowe**</span>
+* <span style="color: #EC7627">**Faust**</span>
+### <span style="color: #6CAA46">**Machiavelli**</span>
+* <span style="color: #EC7627">**Vladař**</span>
+### <span style="color: #6CAA46">**Villon**</span>
+* <span style="color: #EC7627">**Závěť**</span>
+### <span style="color: #6CAA46">**De Cervantes**</span>
+* <span style="color: #EC7627">**Důmyslný rytíř Don Quijote de la Mancha**</span>
+### České země
+* renesance opožděna kvůli husitským válkám
+  * <span style="color: #DBA400">1420-1434</span>
+  * jejich výsledkem je legální dvojvěří - katolická a husitská víra
+* prosazení <span style="color: #8422ce">**humanismu**</span>
+  * <span style="color: #6CAA46">**Daniel Adam z Veleslavína**</span>
+    * zájem o český jazyk
+    * v tuto dobu zlatá doba českého jazyka
+  * cestopis <span style="color: #6CAA46">**Kryštofa Haranta**</span> z Polžic a Bezdružic, <span style="color: #6CAA46">**Mikuláš Dačický**</span> z Heslova
