@@ -146,3 +146,13 @@ category: testy
     * zájem o český jazyk
     * v tuto dobu zlatá doba českého jazyka
   * cestopis <span style="color: #6CAA46">**Kryštofa Haranta**</span> z Polžic a Bezdružic, <span style="color: #6CAA46">**Mikuláš Dačický**</span> z Heslova
+
+## baroko
+* <span style="color: #DBA400">16. st.</span> v itálii
+* <span style="color: #DBA400">17-18. st.</span> v Evropě
+* vítězství Habsburků (katolíků) v bitvě na Bílé Hoře
+  * <span style="color: #DBA400">1620</span>
+  * proti protestantům
+  * díky tomu vznikla násilná rekatolizace
+    * povinný přechod od husitství nebo protestanství k římsko-katolickému vyznání
+    * baroko jako nástroj k prosazení víry
