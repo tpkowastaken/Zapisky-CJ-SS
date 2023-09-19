@@ -109,25 +109,34 @@ category: testy
   * <span style="color: #FF6363">**obrat od Boha k člověku**</span>, důraz na vzdělanost, rozum, rozvoj věd, <span style="color: #FF6363">**individualismus**</span>, návrat k estetickým ideálům antiky
   * humanismus
     * myšlení zrcadlící renesanční hodnoty (vzdělanost, důraz na lidské hodnoty), není spjat jen s renesancí
+
 ### <span style="color: #6CAA46">**Petrarca**</span>
 * <span style="color: #EC7627">**Sonety Lauře**</span>
+
 ### <span style="color: #6CAA46">**Dante**</span>
 * <span style="color: #EC7627">**Božská komedie**</span>
+
 ### <span style="color: #6CAA46">**Boccaccio**</span>
 * <span style="color: #EC7627">**Dekameron**</span>
+
 ### <span style="color: #6CAA46">**Shakespeare**</span>
 * <span style="color: #EC7627">**Hamlet**</span>
 * <span style="color: #EC7627">**Romeo a Julie**</span>
 * <span style="color: #EC7627">**Zkrocení zlé ženy**</span>
 * <span style="color: #EC7627">**Othello**</span>
+
 ### <span style="color: #6CAA46">**Marlowe**</span>
 * <span style="color: #EC7627">**Faust**</span>
+
 ### <span style="color: #6CAA46">**Machiavelli**</span>
 * <span style="color: #EC7627">**Vladař**</span>
+
 ### <span style="color: #6CAA46">**Villon**</span>
 * <span style="color: #EC7627">**Závěť**</span>
+
 ### <span style="color: #6CAA46">**De Cervantes**</span>
 * <span style="color: #EC7627">**Důmyslný rytíř Don Quijote de la Mancha**</span>
+
 ### České země
 * renesance opožděna kvůli husitským válkám
   * <span style="color: #DBA400">1420-1434</span>
