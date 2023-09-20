@@ -19,6 +19,7 @@ category: Novověká Literatura
 Exilová (protestantská) Tvorba
 
 ### <span style="color: #6CAA46">**Jan Ámos komenský**</span>
+* Humanista
 * Příslušníkem <span style="color: #8422ce">**jednoty bratrské**</span>
 * Gymnáziální studia v Přerově od 16.let
 * Pochází z Uherského Brodu

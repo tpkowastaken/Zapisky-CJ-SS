@@ -156,3 +156,52 @@ category: testy
   * díky tomu vznikla násilná rekatolizace
     * povinný přechod od husitství nebo protestanství k římsko-katolickému vyznání
     * baroko jako nástroj k prosazení víry
+* obrat od člověka k Bohu (opak renesance)
+* návrat k římso-katolické víře, nitru člověka, mysticismu, dramatičnosti, kontrastu, náboženským tématům
+* <span style="color: #EC7627">**Tasso**</span>
+  * Osvobozený Jeruzalém
+* <span style="color: #EC7627">**Milton**</span>
+  * Ztracený ráj
+* <span style="color: #EC7627">**de la Barca**</span>
+  * Život je sen
+### Česká Literatura
+  * <span style="color: #6CAA46">**Komenský**</span>
+    * protestant/exulant
+    * <span style="color: #EC7627">**Labyrint světa a ráj srdce**</span>
+    * <span style="color: #EC7627">**Orbis Pictus**</span>
+    * <span style="color: #EC7627">**Velká didaktika**</span>
+  * <span style="color: #6CAA46">**Balbín**</span>
+    * katolík
+    * jezuita
+  * <span style="color: #EC7627">**Michna z Otradovic**</span>
+    * katolík
+
+## Klasicismus
+
+* <span style="color: #DBA400">17. a 18. století (vrchol za Ludvíka XIV.)</span>
+* napodobování antiky, oproti renesanci ale důraz na řád a účelovost
+* hledání krásy v přírodě
+* rozdělení lit. žánrů
+  * Vysoké žánry
+    * poezie
+    * tragédie
+    * óda
+  * nízké žánry
+    * próza
+    * komedie
+* Komedie:
+  * <span style="color: #6CAA46">**Moliére**</span>
+    * <span style="color: #EC7627">**Lakomec**</span>
+    * <span style="color: #EC7627">**Misantrop**</span>
+    * <span style="color: #EC7627">**Zdravý a nemocný**</span>
+  * <span style="color: #6CAA46">**Goldoni**</span>
+    * <span style="color: #EC7627">**Sluha dvou pánů**</span>
+* Tragédie
+  * <span style="color: #6CAA46">**Corneille**</span>
+    * <span style="color: #EC7627">**Cid**</span>
+  * <span style="color: #6CAA46">**Racine**</span>
+    * <span style="color: #EC7627">**Faidra**</span>
+* Bajky
+  * <span style="color: #6CAA46">**Jean de la Fountaine**</span>
+
+## Osvícenství

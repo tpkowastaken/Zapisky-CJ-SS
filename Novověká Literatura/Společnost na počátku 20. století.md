@@ -37,6 +37,7 @@ category: Novověká Literatura
   * může se to vztahovat i na jiné autory než americké - např. <span style="color: #6CAA46">**Erich Maria Remarque**</span> - <span style="color: #FF0505">**Na západní frontě klid**</span>
 
 ## Rysy <span style="color: #8422ce">**Ztracené generace**</span>
+* <span style="color: #6CAA46">**Gertruda Steinová**</span> tento pojem vytvořila
 * zklámání
 * deziluze
 * skeptičnost
@@ -46,3 +47,46 @@ category: Novověká Literatura
 * Hlavní hrdina bývá introvert
 * vyskytuje se zde apatie
 * hrdinové hledají smysl bytí
+### <span style="color: #6CAA46">**Ernest Hemingway**</span>
+* pilíře jeho tvorby:
+  * láska, citlivost, odvaha, statečnost
+  * vychází z extrémních situací v životě
+  * <span style="color: #FF6363">**pocit vykořeněnosti**</span>
+  * dobré vyobrazení psychických stavů člověka
+  * Jeho hrdina je silný a osamělý, velmi často intelektuál
+* <span style="color: #8422ce">**metoda ledovce**</span>
+  * jeho psací styl je velice úsporný a čtenáři předává pouze to nejdůležitější a mnoho nepopsaného se skrývá pod povrchem
+* Roku 1945 byla Hemingwayovi udělene Nobelova cena za literaturu
+* zájem o byčí zápasy
+  * <span style="color: #EC7627">**Fiesta (Slunce vychází)**</span> 
+* odchází jako dobrovolník na italskou frontu
+  * vrací se zničený
+* Vrací se do Paříže, kde je reportérem
+  * stýká se tu s moderní společností malířů a literátů
+* Podnikal lovecké výpravy do afriky
+* <span style="color: #EC7627">**Zelené pahorky africké**</span>
+  * próza
+* <span style="color: #8422ce">**španělská občanská válka**</span>
+  * <span style="color: #DBA400">1936 - 1938/9</span>
+  * je sem poslán jako reportér
+  * <span style="color: #EC7627">**Komu zvoní hrana**</span>
+* <span style="color: #EC7627">**Sbohem, Armádo**</span>
+  * válečný román z italské fronty
+  * prvky autobiografie
+    * autobiografie - když si autor prožije to o čem píše
+  * cynismus vojáků
+    * všechno vidějí negativně a zpochybňují ty věci dobré
+  * voják, který je raněn se zamiluje do anglické zdravotní sestry, která ho ošetřuje
+### <span style="color: #6CAA46">**Wiliam faulkner**</span>
+* <span style="color: #DBA400">1897 - 1892</span>
+* bytostně spjat s jihem USA
+* "Jižanská sága" - pojmenování pro jeho díla
+* Soustřeďuje se na vyjímečné charaktery
+* časté dějové odbočky
+* zůčastnil se 1.sv.války jako pilot
+* témata
+  * rasismus
+  * pocit nadřazenosti běloši x černoši
+  * vztah indiáni vs Američani
+* <span style="color: #EC7627">**Vojákům žold**</span>
+* <span style="color: #EC7627">**Divoké Palmy**</span>
