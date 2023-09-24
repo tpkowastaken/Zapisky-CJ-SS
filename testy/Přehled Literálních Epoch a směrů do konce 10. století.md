@@ -26,6 +26,7 @@ category: testy
     * <span style="color: #6CAA46">**Ezop**</span>
   * Dějepisectví
     * <span style="color: #6CAA46">**Thúkydidés**</span>, <span style="color: #6CAA46">**Hérodotos**</span>
+
 ### Římská literatura
   * <span style="color: #DBA400">3. - 5. st. př. n. l.</span>
   * římská filozofie
@@ -42,6 +43,7 @@ category: testy
     * <span style="color: #6CAA46">**Cicero**</span>
   * Dějepisectví
     * <span style="color: #6CAA46">**Tacitus**</span>
+
 ### Bible
   * <span style="color: #DBA400">10.st. - 4.st. př. n. l.</span>
   * Starý zákon
@@ -190,6 +192,7 @@ category: testy
   * <span style="color: #FF6363">**nízké žánry**</span>
     * próza
     * komedie
+
 ### Komedie
   * <span style="color: #6CAA46">**Moliére**</span>
     * <span style="color: #EC7627">**Lakomec**</span>
@@ -197,11 +200,13 @@ category: testy
     * <span style="color: #EC7627">**Zdravý a nemocný**</span>
   * <span style="color: #6CAA46">**Goldoni**</span>
     * <span style="color: #EC7627">**Sluha dvou pánů**</span>
+
 ### Tragédie
   * <span style="color: #6CAA46">**Corneille**</span>
     * <span style="color: #EC7627">**Cid**</span>
   * <span style="color: #6CAA46">**Racine**</span>
     * <span style="color: #EC7627">**Faidra**</span>
+
 ### Bajky
   * <span style="color: #6CAA46">**Jean de la Fountaine**</span>
 
@@ -218,6 +223,7 @@ category: testy
     * sociální zabezpečení
 * Vliv na Velkou francouzskou revoluci
   * zároveň i na společensko-politický vývoj v 19. století
+
 ### Encyklopedisté
   * <span style="color: #6CAA46">**Voltaire**</span>
   * <span style="color: #6CAA46">**Diderot**</span>
@@ -228,13 +234,16 @@ category: testy
     * <span style="color: #EC7627">**Tom Jones**</span>
   * <span style="color: #6CAA46">**Defoe**</span>
     * <span style="color: #EC7627">**Robinson Crusoe**</span>
+
 ### Česká Literatura
 * <span>1. fáze národního obrození</span>
   * <span style="color: #6CAA46">**Dobrovský**</span>
   * <span style="color: #6CAA46">**Thám**</span>
   * <span style="color: #6CAA46">**Pelcl**</span>
+
 ## Preromantismus
 * <span style="color: #DBA400">pol. 18. st. - začátek 19. st.</span>
+
 ### charakteristiky
   * sentimentalismus
   * důraz na city
@@ -242,14 +251,17 @@ category: testy
   * vznešenost
   * zájem o ústní lidovou slovesnost
   * zesílený cit k národu a zájem o jeho původ
+
 ### Filozofové
   * <span style="color: #6CAA46">**Rousseau**</span>
   * <span style="color: #6CAA46">**Herder**</span>
+
 ### Hnutí Sturm und Drang:
   * <span style="color: #6CAA46">**Goethe**</span>
     * <span style="color: #EC7627">**Utrpení mladého Werthera**</span>
   * <span style="color: #6CAA46">**Schiller**</span>
     * <span style="color: #EC7627">**Loupežníci**</span>
+
 ### Česká Literatura
 * <span>2. fáze národního obrození</span>
   * <span style="color: #6CAA46">**Jungmann**</span>
@@ -260,6 +272,7 @@ category: testy
 * V evropě: <span style="color: #DBA400">poč 19. st.</span>
 * V ČR: <span style="color: #DBA400">od 30. let 19. st.</span>
   * Hlavní vývoj v <span style="color: #DBA400">1. pol. 19. st.</span>
+
 ### charakteristiky
 * emoce
 * revolučnost
@@ -269,24 +282,34 @@ category: testy
 * zavřený hrdina
 * obdiv k přírodě
 * návrat k minulosti (středověku)
+
 ### <span style="color: #6CAA46">**Hugo**</span>
 * <span style="color: #EC7627">**Bídníci**</span>
+
 ### <span style="color: #6CAA46">**Puškin**</span>
 * <span style="color: #EC7627">**Evžen Oněgin**</span>
+
 ### <span style="color: #6CAA46">**Poe**</span>
 * <span style="color: #EC7627">**Jáma a kyvadlo**</span>
+
 ### <span style="color: #6CAA46">**Shelleyová**</span>
 * <span style="color: #EC7627">**Frankenstein**</span>
+
 ### <span style="color: #6CAA46">**Scott**</span>
 * <span style="color: #EC7627">**Ivanhoe**</span>
+
 ### <span style="color: #6CAA46">**Austenová**</span>
 * <span style="color: #EC7627">**Pýcha a předsudek**</span>
+
 ### <span style="color: #6CAA46">**Dumas st.**</span>
 * <span style="color: #EC7627">**Tři mušketýři**</span>
+
 ### <span style="color: #6CAA46">**Byron**</span>
 * <span style="color: #EC7627">**Childe Haroldova pouť**</span>
+
 ### <span style="color: #6CAA46">**Mickiewicz**</span>
 * <span style="color: #EC7627">**Pan Tadeáš**</span>
+
 ### Česká Literatura
 * <span>3. fáze národního obrození</span>
   * <span style="color: #6CAA46">**Mácha**</span>
@@ -295,9 +318,11 @@ category: testy
     * <span style="color: #EC7627">**Kytice**</span>
   * <span style="color: #6CAA46">**Tyl**</span>
     * <span style="color: #EC7627">**Strakonický dudák**</span>
+
 ## Realismus
 * od poloviny <span style="color: #DBA400">19. st. až dodnes</span>
   * hlavní vývoj v <span style="color: #DBA400">2. pol. 19. st.</span>
+
 ### charakteristiky
 * snaha objektivně, bez iluzí a příkras zobrazit reálný svět (společnost) v umění
 * každodennost
@@ -308,30 +333,41 @@ category: testy
 * zájem o současná témata
 * typizace charakterů
 * vývoj postav
+
 ### Naturalismus
 * krajní směr realismu
 * reálné zobrazení i odpudivých škaredých jevů, zobrazení i nejnižších vrstev společnosti, psychicky nevyrovnané nebo až zvrácené postavy
+
 ### Determinismus
 * přeurčení lidského osudu/charakteru na základě sociálního postavení, prostředí nebo dědičnosti
 * <span style="color: #6CAA46">**Emil Zola**</span>
   * <span style="color: #EC7627">**Zabiják**</span>
+
 ### <span style="color: #6CAA46">**Bakzac**</span>
 * <span style="color: #EC7627">**Otec Goriot**</span>
+
 ### <span style="color: #6CAA46">**Sienkiewicz**</span>
 * <span style="color: #EC7627">**Quo Vadis**</span>
+
 ### <span style="color: #6CAA46">**Gogol**</span>
 * <span style="color: #EC7627">**Revizor**</span>
+
 ### <span style="color: #6CAA46">**Tolstoj**</span>
 * <span style="color: #EC7627">**Vojna a mír**</span>
 * <span style="color: #EC7627">**Anna Karenina**</span>
+
 ### <span style="color: #6CAA46">**Dostojevskij**</span>
 * <span style="color: #EC7627">**Zločin a trest**</span>
+
 ### <span style="color: #6CAA46">**Čechov**</span>
 * <span style="color: #EC7627">**Višňový sad**</span>
+
 ### <span style="color: #6CAA46">**Flaubert**</span>
 * <span style="color: #EC7627">**Paní Bovaryová**</span>
+
 ### <span style="color: #6CAA46">**Dickens**</span>
 * <span style="color: #EC7627">**Oliver Twist**</span>
+
 ### Česká Literatura
 * začátek v <span style="color: #DBA400">pol. 19. st.</span>
 * <span style="color: #6CAA46">**Němcová**</span>
@@ -365,5 +401,4 @@ category: testy
     * <span style="color: #EC7627">**Maryša**</span>
 
   
-
 
