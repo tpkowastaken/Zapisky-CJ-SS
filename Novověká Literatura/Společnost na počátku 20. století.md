@@ -90,3 +90,10 @@ category: Novověká Literatura
   * vztah indiáni vs Američani
 * <span style="color: #EC7627">**Vojákům žold**</span>
 * <span style="color: #EC7627">**Divoké Palmy**</span>
+### <span style="color: #6CAA46">**Francis Scott Fitzgerald**</span>
+* nastupuje do války
+* kritizuje americký sen
+* jazzový věk
+* <span style="color: #DBA400">20. léta 20. st.</span>
+### <span style="color: #EC7627">**Velký Gatsby 1925**</span>
+

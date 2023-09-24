@@ -205,3 +205,14 @@ category: testy
   * <span style="color: #6CAA46">**Jean de la Fountaine**</span>
 
 ## Osvícenství
+
+* <span style="color: #DBA400">18. století</span>, v ČR až počátkem <span style="color: #DBA400">19. století</span>
+* důraz na racionalitu, vzdělanost, osvětu, kritika církve
+* rozvoj věd a občanské společnosti
+  * lidská práva, zákony, sociologie
+* Kritika absolutismu
+  * osvícenský absolutismus - absolutistická vláda založená na osvícenských reformách
+    * zrušení nevolnictví
+    * náboženska tolerance
+    * sociální zabezpečení
+    * aj.
