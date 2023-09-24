@@ -47,6 +47,7 @@ category: Novověká Literatura
 * Hlavní hrdina bývá introvert
 * vyskytuje se zde apatie
 * hrdinové hledají smysl bytí
+
 ### <span style="color: #6CAA46">**Ernest Hemingway**</span>
 * pilíře jeho tvorby:
   * láska, citlivost, odvaha, statečnost
@@ -77,6 +78,7 @@ category: Novověká Literatura
   * cynismus vojáků
     * všechno vidějí negativně a zpochybňují ty věci dobré
   * voják, který je raněn se zamiluje do anglické zdravotní sestry, která ho ošetřuje
+
 ### <span style="color: #6CAA46">**Wiliam faulkner**</span>
 * <span style="color: #DBA400">1897 - 1892</span>
 * bytostně spjat s jihem USA
