@@ -109,6 +109,7 @@ category: testy
 
 * <span style="color: #DBA400">14.stol. - 17.stol.</span>
 * <span style="color: #FF6363">**obrat od Boha k člověku**</span>, důraz na vzdělanost, rozum, rozvoj věd, <span style="color: #FF6363">**individualismus**</span>, návrat k estetickým ideálům antiky
+
 ## humanismus
 * myšlení zrcadlící renesanční hodnoty (vzdělanost, důraz na lidské hodnoty), není spjat jen s renesancí
 
