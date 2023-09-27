@@ -94,10 +94,21 @@ category: Novověká Literatura
 * <span style="color: #EC7627">**Divoké Palmy**</span>
 
 ### <span style="color: #6CAA46">**Francis Scott Fitzgerald**</span>
+* <span style="color: #DBA400">20. léta 20. st.</span>
 * nastupuje do války
 * kritizuje americký sen
 * jazzový věk
-* <span style="color: #DBA400">20. léta 20. st.</span>
-
-### <span style="color: #EC7627">**Velký Gatsby 1925**</span>
+* <span style="color: #EC7627">**Velký Gatsby**</span>
+  * <span style="color: #DBA400">1925</span>
+  * potká Daisy a snaží se jí ohromit majetkem
+  * buď zdědil majetek po chlapíkovi, který mu zachránil život na moři nebo prodával alkohol během prohibice
+  * Nick je bratranec Daisy
+  * Gatsby pozve nicka na párty
+  * Gatsby chce tom nickovi aby mu přinesla daisy
+  * Tom má manželku Daisy
+  * Tom má milenku
+  * Daisy nejdřív chce s Gatsbym obnovit romanci před válkou, kterou s Gatsbym měla
+  * Daisy srazí a přejede milenku Toma, Gatsby vezme vinu na sebe
+  * manžel milenky Toma zabije Gatsbyho
+  * na pohřeb přijde jenom Nick, protože ho všichni zneužívali kvůli majetku
 
