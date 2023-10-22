@@ -18,6 +18,8 @@ category: Novověká Literatura
 
 ### [Osvícenství](Osvícenství) 
 
+### [Reakce na 1. sv. válku](Reakce na 1. sv. válku) 
+
 ### [Realismus](Realismus) 
 
 ### [Renesanční Literatura](Renesanční Literatura) 
