@@ -13,7 +13,7 @@ category: Zápisky z češtiny SPŠ na Třebešíně
 <h2> pokud hledáte odkaz na poslední test je tady:</h2>
 
 </div>
-  <a href="testy/P%C5%99ehled%20Liter%C3%A1ln%C3%ADch%20Epoch%20a%20sm%C4%9Br%C5%AF%20do%20konce%2010.%20stolet%C3%AD">
+  <a href="/Novov%C4%9Bk%C3%A1%20Literatura/Reakce%20na%201.%20sv.%20v%C3%A1lku">
     <button class="testbutton">Poslední test</button>
   </a>
 <div class="textdiv"></div>
