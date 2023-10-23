@@ -8,7 +8,7 @@ category: Novověká Literatura
 
 # Reakce na 1. světovou válku v literatuře
 
-## Společnost na počtáku 20. st.
+## Společnost na počátku 20. st.
 
 ### Belle Epoque (krásná doba)
 * předválečná doba
@@ -23,7 +23,7 @@ category: Novověká Literatura
 ## Ztracená generace
 * generace náctiletých nastupujících do 1. sv. války
 * ztráta života
-* autoři ovlivněni válkou z pravidla z USA
+* autoři ovlivněni válkou, z pravidla z USA
     * narukovali do 1. sv. války
     * buď přímo popisují válku, nebo je tvorba alespoň ovlivněna
 * pojem vymyslela Gertruda Stein
@@ -35,15 +35,14 @@ category: Novověká Literatura
 
 ### <span style="color: #6CAA46">**Ernest Hemingway**</span>
 * 1899 - 1961, zemřel sebevraždou
-* hlavní představitel ztracené generace
-* američan
+* hlavní představitel ztracené generace, z USA
 * narukoval do války na italskou frontu, kde byl vážně raněn
 * patří k největším humanistům
     * (humanismus - víra v lidi a lidskou spolupráci, lidský pokrok)
 * mezi jeho ústřední motivy patří: láska, citlivost, odvaha, statečnost
 * po válce pobýval v Paříži
     * psal články do novin
-    * pohyboval se kolem literátů a malířů artgárního (moderního) um2ní
+    * pohyboval se kolem literátů a malířů moderního umění
 * podnikal lovecké výpravy do Afriky
 * byl válečný reportér za španělské občanské války
 * často popisuje extrémní životní situace
@@ -51,7 +50,7 @@ category: Novověká Literatura
 * dobře zobrazuje různé psychické stavy člověka
 * jeho hrdina:
     * silný a osamělý, často intelektuál
-* je známý jeho metodou vyprávění ledovce:
+* je známý jeho metodou vyprávění **ledovce**:
     * úsporný styl psaní - popisuje to nejdůležitější
     * významy a sdělení pod povrchem
 * v 50. letech dostal nobelovu cenu za literaturu
@@ -102,15 +101,15 @@ category: Novověká Literatura
 * čas: rok 1922
 * vypravěč Nick Carraway
     * sestřenice Daisy
-* Gastba je soused Nicka
+* Gatsby je soused Nicka
     * pořádá večírky
-    * pozva Nicka s Daisy - hlavně kvůli schůzce s Daisy
+    * pozve Nicka s Daisy - hlavně kvůli schůzce s Daisy
         * Daisy je jeho láska před válkou
         * Tom - manžel Daisy
             * má milenku Myrtle
                 * má manžela mechanika
             * Daisy řídí auto a náhodou zabije Myrtle
-            * Tom z pomsty střelí Gatsbyho
+            * manžel Myrtle z pomsty zastřelí Gatsbyho, myslí si že on je vrah
 
 ## Francouzká literatura
 
@@ -129,13 +128,13 @@ category: Novověká Literatura
 
 <span style="color: #EC7627">**Petr a Lucie**</span>
 
-* protiválečná novela se Shaekespearovským námětem
+* protiválečná novela se Shakespearovským námětem
 * čas: 30. ledna - 29. března roku 1918
 * hl. hrdina: Petr Ambiez (18 let)
     * syn z měšťanské rodiny
     * zamiluje se v Paříži do Lucie
         * uzavírají se do své lásky
-        * na Valký pátek zemřou při bombardování v kostele
+        * na Valký pátek zemřou při náletu v kostele
 
 ### <span style="color: #6CAA46">**Henri Barbusse**</span>
 * 1873 - 1935
@@ -143,7 +142,7 @@ category: Novověká Literatura
 <span style="color: #EC7627">**Oheň**</span>
 
 * vydáno 1916, za život autora vydáno přes 60 překladů
-* román zachtcující život vojáků
+* román zachycující život vojáků
 * sugestivní líčení utrpení a hrůz
 * odpor k lidem zodpovědným za válku
 
@@ -159,7 +158,7 @@ category: Novověká Literatura
 * 1931 se přestěhoval do Švýcarska, 1939 do USA
 * hitlerosvký režim pronásledoval protiválečná díla
 * vydal série románů
-* mnoho přiběhů šablonovitých, vykonstruované zápletky
+* kritika: mnoho přiběhů šablonovitých, vykonstruované zápletky
 
 <span style="color: #EC7627">**Na západní frontě klid**</span>
 
@@ -178,8 +177,8 @@ category: Novověká Literatura
 * 1890 - 1960
 * nositel nobelovy ceny za literaturu (1958), kvůli režimu nucen odmítnout
 * básník, prozaik, překladatel
-* pocházel z um2lecké rodiny
-* přítel Majakovkijho - spolu považováni za nejúspěšnější pásníky
+* pocházel z umělecké rodiny
+* přítel Majakovskijho - spolu považováni za nejúspěšnější básníky
 * rozvinul tradici ruské filozofické lyriky
 * v 30. letech - manipulace do ústraní
 * jeho díla plně odkryta až v 80. letech
@@ -196,7 +195,7 @@ category: Novověká Literatura
 * proti násilnosti revoluce
 * historický kontext:
     * carská vláda do roku 1918, vyvražděni
-    * řijnová revoluce 1917, výstup z války
+    * řijnová revoluce 1917, výstup ze sv. války
     * občanská válka mezi bílými a rudými (vyhráli)
 
 ## Česká literatura
@@ -206,12 +205,12 @@ category: Novověká Literatura
     * proslaveni v Rusku - občanská válka
         * většina legionářů je proti bolševikům
     * významně přispěli samostatnosti ČSR
-        * spojenici si vážili boje proti Rak.-Uhr.
+        * spojenci si vážili boje proti Rak.-Uhr.
 * 1917 - významná bitva legií - Zborov
     * vzrůst napětí mezi legionáři a bolševiky
-* po transsibiřské magostrále do Vladivostoku a do Francie
+* návrat po transsibiřské magistrále do Vladivostoku a do Francie
     * boje s bolševiky až do prosince
-* po roce 1948 byli legionáři zamlčeni
+* po roce 1948 byli legionáři zamlčeni kvůli režimu
 
 ### <span style="color: #6CAA46">**Josef Kopta**</span>
 * legionář, autobiografické prvky, romantizace příběhů
@@ -225,7 +224,7 @@ category: Novověká Literatura
 * 1890 - 1940
 * populární
 * stal se generálem, konzervativní
-* vyustění názorů k fašismu, proti demokratickým autorů(Čapek)
+* vyústění názorů k fašismu, proti demokratickým autorům (Čapek)
 
 <span style="color: #EC7627">**Anabáze**</span>
 
@@ -258,7 +257,7 @@ category: Novověká Literatura
 * anarchista - touha po společnosti bez řádu, proti monarchii
 * redaktor časopisu "Svět zvířat" - záliba v zvířatech, obchod se psy
 * geniální mystifikátor
-* spal spoustu povídek
+* sepsal spoustu povídek
 * původně byl v armádě Rakouska-Uherska, po zajetí byl v ruských legiích, pak v rudé armádě na úřední pozici a vrátil se roku 1920, kdy nebyl dobře přijat
 
 <span style="color: #EC7627">**Můj obchod se psy**</span>
@@ -266,8 +265,8 @@ category: Novověká Literatura
 <span style="color: #EC7627">**Osudy dobrého vojáka Švejka**</span>
 
 * románová tetralogie
-* poslední díl nedopsal on, dopsal jeho přítel
-* humoristický, satirsitický
+* poslední díl nedopsal on, dopsal jej jeho přítel
+* humoristický, satirisitický
 * samostatné humorné epizody, použité vulgarismy
 * přeloženo do 60 jazyků
 * Švejk
