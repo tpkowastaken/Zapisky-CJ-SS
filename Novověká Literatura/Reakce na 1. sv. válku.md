@@ -177,8 +177,8 @@ category: Novověká Literatura
 * 1890 - 1960
 * nositel nobelovy ceny za literaturu (1958), kvůli režimu nucen odmítnout
 * básník, prozaik, překladatel
-* pocházel z um2lecké rodiny
-* přítel Majakovkijho - spolu považováni za nejúspěšnější pásníky
+* pocházel z umělecké rodiny
+* přítel Majakovskijho - spolu považováni za nejúspěšnější básníky
 * rozvinul tradici ruské filozofické lyriky
 * v 30. letech - manipulace do ústraní
 * jeho díla plně odkryta až v 80. letech
