@@ -8,7 +8,7 @@ category: Novověká Literatura
 
 # Reakce na 1. světovou válku v literatuře
 
-## Společnost na počtáku 20. st.
+## Společnost na počátku 20. st.
 
 ### Belle Epoque (krásná doba)
 * předválečná doba
