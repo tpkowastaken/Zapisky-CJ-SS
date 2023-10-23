@@ -101,7 +101,7 @@ category: Novověká Literatura
 * čas: rok 1922
 * vypravěč Nick Carraway
     * sestřenice Daisy
-* Gastba je soused Nicka
+* Gatsby je soused Nicka
     * pořádá večírky
     * pozve Nicka s Daisy - hlavně kvůli schůzce s Daisy
         * Daisy je jeho láska před válkou
