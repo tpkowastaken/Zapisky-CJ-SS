@@ -42,7 +42,7 @@ category: Novověká Literatura
 * mezi jeho ústřední motivy patří: láska, citlivost, odvaha, statečnost
 * po válce pobýval v Paříži
     * psal články do novin
-    * pohyboval se kolem literátů a malířů artgárního (moderního) um2ní
+    * pohyboval se kolem literátů a malířů moderního umění
 * podnikal lovecké výpravy do Afriky
 * byl válečný reportér za španělské občanské války
 * často popisuje extrémní životní situace
