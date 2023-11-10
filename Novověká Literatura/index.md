@@ -14,6 +14,8 @@ category: Novověká Literatura
 
 ### [Humanismus](Humanismus) 
 
+### [Meziválečná světová literatura](Meziválečná světová literatura) 
+
 ### [Národní obrození](Národní obrození) 
 
 ### [Osvícenství](Osvícenství) 
