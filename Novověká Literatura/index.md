@@ -16,6 +16,8 @@ category: Novověká Literatura
 
 ### [Meziválečná světová literatura](Meziválečná světová literatura) 
 
+### [Moderní umělecké směry 20. století v literatuře](Moderní umělecké směry 20. století v literatuře) 
+
 ### [Národní obrození](Národní obrození) 
 
 ### [Osvícenství](Osvícenství) 

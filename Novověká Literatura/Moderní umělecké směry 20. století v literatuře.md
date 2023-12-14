@@ -47,8 +47,10 @@ category: Novověká Literatura
 * **revoluce, podpora války** jako hygieny světa
 * dynamická, přehnaně volná poezie, **nedá se jí rozumět**
     * **osvobozená slova** - chybí struktura
+
 ### <span style="color: #6CAA46">**Fillipo Marinetti**</span>
 * hl. představitel futurismu, italský básník a dramatik
+
 ### <span style="color: #6CAA46">**Vladimir Mayakovsky**</span>
 * ruský představitel futurismu, komunista, novinář, básník
 * <span style="color: #EC7627">**Oblak v kalhotách**</span>
@@ -80,6 +82,7 @@ category: Novověká Literatura
     * skandální divadelní představení (Paříž 1919)
 
 ### <span style="color: #6CAA46">**Man Ray**</span>
+
 ### <span style="color: #6CAA46">**Kurt Schwitters**</span>
 
 ## Surrealismus
