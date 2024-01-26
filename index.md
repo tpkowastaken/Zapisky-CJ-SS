@@ -7,6 +7,7 @@ category: Zápisky z češtiny SPŠ na Třebešíně
 ---
 
 # Vítejte na stránkách zápisek pro češtinu.
+
 <div class="mainButtonContainer">
 <div class="textdiv">
 
@@ -30,6 +31,8 @@ category: Zápisky z češtiny SPŠ na Třebešíně
 ### [Starověká Literatura](Starověká%20Literatura)
 
 ### [Středověká Literatura](Středověká%20Literatura)
+
+### [Tipy k Maturitě](Tipy%20k%20Maturitě)
 
 ### [testy](testy)
 
