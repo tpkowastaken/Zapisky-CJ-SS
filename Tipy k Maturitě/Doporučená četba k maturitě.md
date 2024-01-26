@@ -1,3 +1,10 @@
+---
+toc: true
+layout: dark
+title: Doporučená četba k maturitě.md 
+parent_url: ./Tipy k Maturitě 
+category: Tipy k Maturitě 
+---
 - Romeo a Julie
 - Lakomec
 - Kytice
