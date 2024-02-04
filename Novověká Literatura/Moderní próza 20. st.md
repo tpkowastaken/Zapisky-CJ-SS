@@ -46,7 +46,6 @@ category: Novověká Literatura
     * válka ho změnila, je hrubý
     * jeho žena si najde milence hajného
 
-
 ### <span style="color: #6CAA46">**Bertold Brecht**</span>
 * Němec, emigroval za Hitlera do USA, po WWII se vrátil a založil v Berlíně divadlo
 * představitel **Epického divadla**

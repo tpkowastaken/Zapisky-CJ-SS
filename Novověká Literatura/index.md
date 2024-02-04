@@ -16,6 +16,8 @@ category: Novověká Literatura
 
 ### [Meziválečná světová literatura](Meziválečná světová literatura) 
 
+### [Moderní próza 20. st](Moderní próza 20. st) 
+
 ### [Moderní umělecké směry 20. století v literatuře](Moderní umělecké směry 20. století v literatuře) 
 
 ### [Národní obrození](Národní obrození) 
@@ -31,6 +33,8 @@ category: Novověká Literatura
 ### [Romantismus](Romantismus) 
 
 ### [Společnost na počátku 20. století](Společnost na počátku 20. století) 
+
+### [Tvorba pražských Němců](Tvorba pražských Němců) 
 
 ### [Venkovská próza a drama, Městská próza](Venkovská próza a drama, Městská próza) 
 
