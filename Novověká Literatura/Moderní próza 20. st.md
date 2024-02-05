@@ -62,7 +62,7 @@ category: Novověká Literatura
 * většinu života strávil ve Švýcarsku
 * <span style="color: #EC7627">**Stepní vlk**</span>
     * psychologicko - filosofický román
-    * zápisky Haryyho Hallera
+    * zápisky Harryho Hallera
         * boje s vnitřním vlkem
         * chce dobro, ale je zlý
         * zpochybňuje hodnoty rozpolceného světa
@@ -84,7 +84,7 @@ category: Novověká Literatura
     * absurdní, fantasijní svět, pesimismus, byrokracie = monstrum, svět odcizení člověka, líčení extrémních podrobností
     * částečně expresionismus
     * prvky existencionalismu
-    * řeší otázky lidské existence, krize hodnot, opuštění
+        * řeší otázky lidské existence, krize hodnot, opuštění
 * po jeho smrti Max Brod vydal jeho díla navzdory jeho přání
 * <span style="color: #EC7627">**Proces**</span>
     * nedokončený román, 10 samostatných kapitol - nejasné pořadí
@@ -99,4 +99,4 @@ category: Novověká Literatura
     * přestal být řádným člověkem, bez naplnění - vyčerpán
     * proměna je jeho soud
     * měl špatný vztah s otcem
-* ostatní díla: <span style="color: #EC7627">**Zámek**</span>, <span style="color: #EC7627">**Amerika**</span>
+* ostatní díla: <span style="color: #EC7627">**Zámek**</span>, <span style="color: #EC7627">**Amerika**</span>...
