@@ -12,7 +12,7 @@ category: Novověká Literatura
 
 ### <span style="color: #6CAA46">**Marcel Proust**</span>
 * Francouz
-* <span style="color: #EC7627">**Hledání straceného času**</span>
+* <span style="color: #EC7627">**Hledání ztraceného času**</span>
     * psal to od roku 1913 - 22, pak zemřel a do roku 1927 to dopsal někdo jiný
     * 7 dílný román
     * popis francouzské společnosti -> duševní pochody - důraz na psychiku
