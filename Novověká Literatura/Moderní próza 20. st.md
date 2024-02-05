@@ -41,8 +41,8 @@ category: Novověká Literatura
 * Angličan, stojí na pomezí realismu a moderní lit.
 * sexuální otevřenost
 * <span style="color: #EC7627">**Milenec Lady Chatterleyové**</span>
-    * maželé Constance a Clifford
-    * mažel se vrátí z války na vozíčku neschopný sexu
+    * manželé Constance a Clifford
+    * manžel se vrátí z války na vozíčku neschopný sexu
     * válka ho změnila, je hrubý
     * jeho žena si najde milence hajného
 
