@@ -98,7 +98,7 @@ category: Novověká Literatura
 ### <span style="color: #6CAA46">**Viktor Dyk**</span> (1977 - 1931)
 
 * psal prózu, poezii, drama
-* novinář, psal do Lumǐru
+* novinář, psal do Lumíru
 * nacionalista, pravicový
 * 1910-14 - psal pro Samostatnost
 * WWI - podíl na odboji proti R-U
@@ -107,7 +107,7 @@ category: Novověká Literatura
   * poslanec národního schromaždění
   * 1925 - senátor
 * psal do časopisu Vlajka, Národní listy
-* z počatku byl skeptický (proces s omladinou)
+* z počátku byl skeptický (proces s omladinou)
 * kritizoval politiku TGM
 * poezie:
   * <span style="color: #EC7627">**Milá sedmi loupežníků**</span>
@@ -125,11 +125,11 @@ category: Novověká Literatura
     * vychází ze staroněmecké pověsti
       * vyčistil město od krys - nedostal zaplaceno - vzal si děti
     * příběh:
-      * do města si přivedou krysaře, ten se 1. noc seznámí s Ágnes , ta má milence Krystiána
+      * do města si přivedou krysaře, ten se 1. noc seznámí s Ágnes, ta má milence Krystiána
       * krysař se zbaví krys a nedostane zaplaceno
       * Faust, pomocník ďábla, přesvědčuje krysaře k pomstě - ten to odmíta
       * Ágnes čeká dítě
-      * krysař město opustí, Ágnes se zabije, krysař už toho má dost, je zdrcený společností města - věšechny občany odvede a zabije (kromě blbce a batolete)
+      * krysař město opustí, Ágnes se zabije, krysař už toho má dost, je zdrcený společností města - všechny občany odvede a zabije (kromě blbce a batolete)
 
 ### <span style="color: #6CAA46">**S.K. Neumann**</span>
 
@@ -141,7 +141,7 @@ category: Novověká Literatura
   * dekadence/symbolismus:
     * individualismus, sociální revolta
     * <span style="color: #EC7627">**Satanova sláva mezi námi**</span>
-      * Satan symoblem revolty (proti křesťanství)
+      * Satan symbolem revolty (proti křesťanství)
       * vlastní volba, odvaha žít individuálně
   * civilismus/vitalismus:
     * příroda, lyrika
