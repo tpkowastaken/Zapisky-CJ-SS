@@ -10,6 +10,8 @@ category: Novověká Literatura
 
 ### [Baroko](Baroko) 
 
+### [Generace Buřičů](Generace Buřičů) 
+
 ### [Historická Beletrie](Historická Beletrie) 
 
 ### [Humanismus](Humanismus) 
