@@ -63,12 +63,12 @@ category: Novověká Literatura
 
 ### <span style="color: #6CAA46">**Egon Ervín Kisch**</span>
 * spisovatel a novinář z rodiny zámožného žid. obchodníka
-    * psal pro Tagtblatt
+    * psal pro Tagblatt
     * byl komunista
 * byl vyhnán z Berlína, odešel z Prahy do Paříže, pak do USA kvůli WWII
-* velmi dobrodružný člověk - "být při tom"
+* **velmi dobrodružný člověk** - "být při tom"
 * přezdívka "zuřivý reportér"
     * psal lehce, elegantně, s nadhledem
-* znal pražskou spodinu, podsvětí, kriminálníky...
+* znal pražskou spodinu, prostitutky, podsvětí, kriminálníky...
 * zemřel 1948
 * příklady děl: <span style="color: #EC7627">**Pasák**</span>, <span style="color: #EC7627">**Zuřivý reportér**</span>, <span style="color: #EC7627">**Pražská dobrodružství**</span>, <span style="color: #EC7627">**Tržiště senzací**</span> - autobiografie

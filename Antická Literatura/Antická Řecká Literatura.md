@@ -10,35 +10,73 @@ category: Antická Literatura
 * Ztělesnění věčného mládí a krásy
 * Koncem Března uznávali slavnost v čest Dionýsovi - Bohu vína a veselí
 - Tanec na píseň kozlů
-- Začátek - 8. až 5. století př. n. l. konec 476 n. l.
-Řecké tragédie: 
-* Aischylos - Oresteia - syn agameona, který se snaží pomstít otcovu vraždu a jeho otec je agamemnon z trojské války.
-* Sofokles - Antigona - král oidipus zabije svého otce a pak se ožení se svou matkou - oidipovský komplex
-* Euripidés - Médeia -  zamilovaná do Jásona nosila roumo, on ji zradí ožení se s jinou a ona se pak mstí a zabije rodinu.
-Řecká komedie:
-* Aristofánes - Dysistraté - ženy odpírají mužům manželské povinnosti a požadují, aby muži přestali válčit.
-Básně:
-* Epos
-* Homér - Ilias a Odysea
-Ilias
-* O trojské válce - 1200 př.n.l.
-* Řečtí Bohové ovládají válku
-* Troja Prohrála
-Odysea
-* Vrátil se na ostrov Ithaica po deseti letech
-* Rozhněval Boha Poseidona
-* "Věrná Penelopa" - čekala na manžela
-Bajky
-* Ezop - Ezopovy bajky
-Historikové
-* Tukkiddes
-* Herodotos
-Filozofie:
-* Aristoteles - pravidlo tří jednot - jednota místa, času a děje - Jednota děje - jedna dějová linka
-* Platon - forum dialogu, protidekratické názory
-* Sokrates
-Řecké drama:
-Řeckým dramatem se hodně inspiruje renesance a klasicismus
-* Euripidés - Médeia
-* Démosthenés - Filipiky - projevy mířené proti panovníkovi - Filip Makedonský
-* Deus ex machina - bůh se snesl z provazu, rozuzlení, vyřešení situace, konec dramatu
+* Začátek <span style="color: #DBA400">8. až 5. století př. n. l.</span> 
+* konec <span style="color: #DBA400">476 n. l.</span>
+
+## Řecké tragédie:
+
+### <span style="color: #6CAA46">**Aischylos**</span>
+* <span style="color: #EC7627">**Oresteia**</span>
+  * syn agameona, který se snaží pomstít otcovu vraždu a jeho otec je agamemnon z trojské války.
+
+### <span style="color: #6CAA46">**Sofokles**</span>
+* <span style="color: #EC7627">**Antigona**</span>
+  * král <span style="color: #6CAA46">**oidipus**</span> zabije svého otce a pak se ožení se svou matkou - <span style="color: #FF6363">**oidipovský komplex**</span>
+
+### <span style="color: #6CAA46">**Euripidés**</span>
+* <span style="color: #EC7627">**Médeia**</span>
+  * <span style="color: #6CAA46">**Médeia**</span> je zamilovaná do <span style="color: #6CAA46">**Jásona**</span>, nosila roumo, on ji zradí, ožení se s jinou a ona se pak mstí a zabije rodinu.
+
+## Řecké komedie:
+
+### <span style="color: #6CAA46">**Aristofánes**</span>
+* <span style="color: #EC7627">**Dysistraté**</span>
+  * ženy odpírají mužům manželské povinnosti a požadují, aby muži přestali válčit.
+
+## Řecké Básně:
+
+### <span style="color: #6CAA46">**Homér**</span>
+* <span style="color: #EC7627">**Ilias a Odysea**</span>
+  * <span style="color: #EC7627">**Ilias**</span>
+    * O trojské válce - <span style="color: #DBA400">1200 př.n.l.</span>
+    * Řečtí Bohové ovládají válku
+    * Troja Prohrála
+  * <span style="color: #EC7627">**Odysea**</span>
+    * Vrátil se na ostrov Ithaica po deseti letech
+    * Rozhněval Boha Poseidona
+    * "Věrná Penelopa" - čekala na manžela
+
+## Řecké Bajky
+
+### <span style="color: #6CAA46">**Ezop**</span>
+* <span style="color: #EC7627">**Ezopovy bajky**</span>
+
+## Řečtí Historikové
+
+### <span style="color: #6CAA46">**Tukkiddes**</span>
+
+### <span style="color: #6CAA46">**Herodotos**</span>
+
+## Řecká Filozofie:
+
+### <span style="color: #6CAA46">**Aristoteles**</span>
+* pravidlo tří jednot
+  * jednota místa, času a děje
+    * Jednota děje = jedna dějová linka
+
+### <span style="color: #6CAA46">**Platon**</span>
+* forum dialogu, protidekratické názory
+
+### <span style="color: #6CAA46">**Sokrates**</span>
+
+## Řecké drama:
+* Řeckým dramatem se hodně inspiruje renesance a klasicismus
+
+### <span style="color: #6CAA46">**Euripidés**</span>
+  * <span style="color: #EC7627">**Médeia**</span>
+
+### <span style="color: #6CAA46">**Démosthenés**</span>
+* <span style="color: #EC7627">**Filipiky**</span>
+  * projevy mířené proti panovníkovi Filipovi Makedonskému
+* <span style="color: #8422ce">**Deus ex machina**</span>
+  * bůh se snesl z provazu, rozuzlení, vyřešení situace, konec dramatu

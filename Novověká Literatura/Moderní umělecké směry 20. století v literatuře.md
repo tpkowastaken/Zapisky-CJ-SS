@@ -35,8 +35,8 @@ category: Novověká Literatura
 ## Kubismus
 * zdrojem malíř **Picasso**
 * styl využíval malíř **Josef Čapek**
-* experimentuje s geometrií těles, rozbýjí 3D objekty do 2D, úhly pohledu
-* v literatuře rozbýjí text na základní prvky a vytváří novou strukturu
+* experimentuje s geometrií těles, rozbíjí 3D objekty do 2D, úhly pohledu
+* v literatuře rozbíjí text na základní prvky a vytváří novou strukturu
 * výskyt ve tvorbě <span style="color: #6CAA46">**Jeana Cocteua**</span> nebo <span style="color: #6CAA46">**Maxe Jacoba**</span>
 
 ## Futurismus
@@ -47,15 +47,17 @@ category: Novověká Literatura
 * **revoluce, podpora války** jako hygieny světa
 * dynamická, přehnaně volná poezie, **nedá se jí rozumět**
     * **osvobozená slova** - chybí struktura
+
 ### <span style="color: #6CAA46">**Fillipo Marinetti**</span>
 * hl. představitel futurismu, italský básník a dramatik
+
 ### <span style="color: #6CAA46">**Vladimir Mayakovsky**</span>
 * ruský představitel futurismu, komunista, novinář, básník
 * <span style="color: #EC7627">**Oblak v kalhotách**</span>
     * báseň
 
 ## Expresionismus
-* citové stavy, projevy **lidksé psychiky - pesimismus, katastrofa**
+* citové stavy, projevy **lidské psychiky - pesimismus, katastrofa**
     * zoufalství, prázdnota, morbidnost
 * německá kulturní oblast 1910-20
 * představitelé: <span style="color: #6CAA46">**Franc Kafka**</span>, <span style="color: #6CAA46">**Johannes R. Becher**</span>, <span style="color: #6CAA46">**Gottfried Benn**</span>
@@ -64,10 +66,10 @@ category: Novověká Literatura
 * reakce na 1. sv. válku, protest **proti lidským a uměleckým zásadám**
 * principy **náhody (díla z výstřižků z novin), absurdity, proti normám**, mystifikace, proti civilizaci
 * chce **burcovat, šokovat, provokovat**
-* švýcarský klub **Voltaire** založen 1916
+* švýcarský klub **Kabaret Voltaire** založen 1916
 
 ### <span style="color: #6CAA46">**Tristan Tzara**</span>
-* hl. představitel dadaismu, osobnost klubu Voltaire
+* hl. představitel dadaismu, osobnost klubu Kabaret Voltaire
 * rumunský básník
 * vydával sešity <span style="color: #EC7627">**Dada**</span>
 * 1918 napsal manifest dadaismu
@@ -80,12 +82,13 @@ category: Novověká Literatura
     * skandální divadelní představení (Paříž 1919)
 
 ### <span style="color: #6CAA46">**Man Ray**</span>
+
 ### <span style="color: #6CAA46">**Kurt Schwitters**</span>
 
 ## Surrealismus
 * 20\. léta 20. století - Francie
 * **sny, nevědomí, duševní pochody**, sexualita, halucinace
-* ovlidvněn pyschoanalýzou **Sigmunda Freuda**
+* ovlivněn psychoanalýzou **Sigmunda Freuda**
 * **psychický automatismus** - obrazy v podvědomí
 
 ### <span style="color: #6CAA46">**André Breton**</span>

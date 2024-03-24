@@ -90,7 +90,6 @@ category: Novověká Literatura
 * Malý princ vyprávý o svých putováních po planetách
     * stará se o růži co je symbol jeho lásky a potká lišku co je symbol přátelství
 
-
 ## Německá literatura
 
 * proti-fašistická, demokratická, proti-válečná literatura
@@ -109,7 +108,6 @@ category: Novověká Literatura
     * je pokrytecký, tyranizuje studenty, kontroluje morálku
     * sám pořádá doma orgie, má vztah s prostitutkou atd.
 * kritika Německé střední společenské třídy
-
 
 ### <span style="color: #6CAA46">**Thomas Mann**</span>
 

@@ -6,8 +6,8 @@ parent_url: .
 category: Antická Literatura 
 ---
 
-# Obsahuje témata: 
+## Obsahuje témata: 
 
-### <span class="goldA">[Antická Řecká Literatura](Antická Řecká Literatura)</span> 
+### [Antická Řecká Literatura](Antická Řecká Literatura) 
 
-### <span class="goldA">[Latinská Římská Literatura](Latinská Římská Literatura)</span> 
+### [Latinská Římská Literatura](Latinská Římská Literatura) 

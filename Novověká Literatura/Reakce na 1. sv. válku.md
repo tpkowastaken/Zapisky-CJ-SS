@@ -262,7 +262,6 @@ category: Novověká Literatura
 
 <span style="color: #EC7627">**Můj obchod se psy**</span>
 
-
 <span style="color: #EC7627">**Osudy dobrého vojáka Švejka**</span>
 
 * románová tetralogie

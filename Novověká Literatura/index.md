@@ -6,32 +6,46 @@ parent_url: .
 category: Novověká Literatura 
 ---
 
-# Obsahuje témata: 
+## Obsahuje témata: 
 
-### <span class="goldA">[Baroko](Baroko)</span> 
+### [Baroko](Baroko) 
 
-### <span class="goldA">[Humanismus](Humanismus)</span> 
+### [Generace Buřičů](Generace Buřičů) 
 
-### <span class="goldA">[Národní obrození](Národní obrození)</span> 
+### [Historická Beletrie](Historická Beletrie) 
 
-### <span class="goldA">[Osvícenství](Osvícenství)</span> 
+### [Humanismus](Humanismus) 
 
-### <span class="goldA">[Realismus](Realismus)</span> 
+### [Meziválečná světová literatura](Meziválečná světová literatura) 
 
-### <span class="goldA">[Renesanční Literatura](Renesanční Literatura)</span> 
+### [Moderní próza 20. st](Moderní próza 20. st) 
 
-### <span class="goldA">[Romantismus](Romantismus)</span> 
+### [Moderní umělecké směry 20. století v literatuře](Moderní umělecké směry 20. století v literatuře) 
 
-### <span class="goldA">[Venkovská próza a drama, Městská próza](Venkovská próza a drama, Městská próza)</span> 
+### [Národní obrození](Národní obrození) 
 
-### <span class="goldA">[idk](idk)</span> 
+### [Osvícenství](Osvícenství) 
 
-### <span class="goldA">[klasicismus](klasicismus)</span> 
+### [Reakce na 1. sv. válku](Reakce na 1. sv. válku) 
 
-### <span class="goldA">[naturalismus](naturalismus)</span> 
+### [Realismus](Realismus) 
 
-### <span class="goldA">[preromantismus](preromantismus)</span> 
+### [Renesanční Literatura](Renesanční Literatura) 
 
-### <span class="goldA">[test](test)</span> 
+### [Romantismus](Romantismus) 
 
-### <span class="goldA">[Česká literatura 60. let 19. st](Česká literatura 60. let 19. st)</span> 
+### [Společnost na počátku 20. století](Společnost na počátku 20. století) 
+
+### [Tvorba pražských Němců](Tvorba pražských Němců) 
+
+### [Venkovská próza a drama, Městská próza](Venkovská próza a drama, Městská próza) 
+
+### [idk](idk) 
+
+### [klasicismus](klasicismus) 
+
+### [naturalismus](naturalismus) 
+
+### [preromantismus](preromantismus) 
+
+### [Česká literatura 60. let 19. st](Česká literatura 60. let 19. st) 

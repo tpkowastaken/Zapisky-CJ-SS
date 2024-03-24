@@ -8,11 +8,17 @@ category: Zápisky z češtiny SPŠ na Třebešíně
 
 # Vítejte na stránkách zápisek pro češtinu.
 
-## pokud hledáte odkaz na poslední test je tady:
+<div class="mainButtonContainer">
+<div class="textdiv">
 
-<a href="./Novověká%20Literatura/Česká%20meziválečná%20poezie">
-  <button style="background-color: #B8860B; color: white; padding: 1em 2em; border: none; border-radius: 0.5em; cursor: pointer;font-size: 2em;">Poslední test</button>
-</a>
+<h2> pokud hledáte odkaz na poslední test je tady:</h2>
+
+</div>
+  <a href="/Novov%C4%9Bk%C3%A1%20Literatura/Meziv%C3%A1le%C4%8Dn%C3%A1%20sv%C4%9Btov%C3%A1%20literatura">
+    <button class="testbutton">Poslední test</button>
+  </a>
+<div class="textdiv"></div>
+</div>
 
 ## Ostatní témata:
 
@@ -25,6 +31,8 @@ category: Zápisky z češtiny SPŠ na Třebešíně
 ### [Starověká Literatura](Starověká%20Literatura)
 
 ### [Středověká Literatura](Středověká%20Literatura)
+
+### [Tipy k Maturitě](Tipy%20k%20Maturitě)
 
 ### [testy](testy)
 

@@ -32,13 +32,13 @@ jobs:
           if [[ -f "${dir}index.md" ]]; then
             rm -f "${dir}index.md"
           fi
-          printf "# Obsahuje témata: \n\n" > "${dir}index.md"
+          printf "## Obsahuje témata: \n\n" > "${dir}index.md"
           for file in "${dir}"*; do
             FILENAME=$(printf "%s" "${file##*/}")
             EXTENSION=$(printf "%s" "${FILENAME##*.}")
             FILENAME=$(printf "%s" "${FILENAME%.*}")
             if [[ -f "${file}" && "${FILENAME}" != "README" && "${FILENAME}" != "index" && "$EXTENSION" == "md" ]]; then
-              printf "### <span class=\"goldA\">[%s](%s)</span> \n" "${FILENAME}" "${FILENAME}" >> "${dir}index.md"
+              printf "### [%s](%s) \n" "${FILENAME}" "${FILENAME}" >> "${dir}index.md"
             fi
           done
         done
