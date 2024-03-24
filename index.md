@@ -14,7 +14,7 @@ category: Zápisky z češtiny SPŠ na Třebešíně
 <h2> pokud hledáte odkaz na poslední test je tady:</h2>
 
 </div>
-  <a href="/Novov%C4%9Bk%C3%A1%20Literatura/Meziv%C3%A1le%C4%8Dn%C3%A1%20sv%C4%9Btov%C3%A1%20literatura">
+  <a href="/Novov%C4%9Bk%C3%A1%20Literatura/%C4%8Cesk%C3%A1%20meziv%C3%A1le%C4%8Dn%C3%A1%20poezie">
     <button class="testbutton">Poslední test</button>
   </a>
 <div class="textdiv"></div>
