@@ -10,7 +10,7 @@ category: Zápisky z češtiny SPŠ na Třebešíně
 
 ## pokud hledáte odkaz na poslední test je tady:
 
-<a href="./Novověká%20Literatura/Venkovská%20próza%20a%20drama%2C%20Městská%20próza">
+<a href="./Novověká%20Literatura/Česká%20meziválečná%20poezie">
   <button style="background-color: #B8860B; color: white; padding: 1em 2em; border: none; border-radius: 0.5em; cursor: pointer;font-size: 2em;">Poslední test</button>
 </a>
 
