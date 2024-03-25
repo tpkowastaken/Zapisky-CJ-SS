@@ -99,9 +99,9 @@ category: Novověká Literatura
 * <span style="color: #EC7627">**50 hořkých balad věčného studenta Robarta Davida**</span> (1936-37)
   * odkazy na fašismus
   * humor, soc. problémy, forma francouzské balady
-* <span style="color: #EC7627">Matka naděje</span>
+* <span style="color: #EC7627">**Matka naděje**</span>
   * 1938 - reakce na mnichovskou dohodu - poezie národního ohrožení
-* <span style="color: #EC7627">Manon Lescaut</span>
+* <span style="color: #EC7627">**Manon Lescaut**</span>
   * 1939 divadelní hra. kombinace drama a poezie, veršované
   * založena na díle z 18. st. - milostný příběh
   * Rytíř des Grieux (Francie)
@@ -109,21 +109,21 @@ category: Novověká Literatura
 ### <span style="color: #6CAA46">**Jaroslav Seifert**</span>
 
 1. \- meziválečná fáze - Poetismus
-    * <span style="color: #EC7627">Na vlnách TSF</span>
+    * <span style="color: #EC7627">**Na vlnách TSF**</span>
       * opěvuje telegraf
       * K. Taige provedl grafickou úpravu
-    * <span style="color: #EC7627">Slavík zpíva špatně</span>
+    * <span style="color: #EC7627">**Slavík zpíva špatně**</span>
       * dǔraz na **krvavost bolševismu**, odklon od KSČ
-    * <span style="color: #EC7627">Poštovní holub</span>
+    * <span style="color: #EC7627">**Poštovní holub**</span>
       * více intimních témat, pomalu opouští poetismus
 2. \- 30\. léta - intimní poezie
     * témata lásky - k ženě, vlasti, Praze
-    * <span style="color: #EC7627">Jablko z klína</span>
+    * <span style="color: #EC7627">**Jablko z klína**</span>
 3. \- konec 30. let - poezie národního ohrožení
-    * <span style="color: #EC7627">Zhasněte světla</span>
+    * <span style="color: #EC7627">**Zhasněte světla**</span>
       * přímo po mnichovské dohodě
 4. \- doba protektorátu:
-    * <span style="color: #EC7627">Vějíř Boženy Němcové</span>
+    * <span style="color: #EC7627">**Vějíř Boženy Němcové**</span>
       * výročí B. Něm.
       * báseň - Světlem oděná
         * vlastenectví - Praha
@@ -143,25 +143,25 @@ category: Novověká Literatura
 * nejdříve psal proletářskou poezii
 * od 30. let píše existencionální poezii
 * nelibozvučná tvorba
-* <span style="color: #EC7627">Sépie</span>
+* <span style="color: #EC7627">**Sépie**</span>
   * poetismus - temnější
-* <span style="color: #EC7627">Torzo naděje</span>
+* <span style="color: #EC7627">**Torzo naděje**</span>
   * poezie národního ohrožení
   * básně: Praze, Zpěv úzkosti, atd.
   * reakce na mnichovskou dohodu a mobilizaci
-* <span style="color: #EC7627">Kohout plaší smrt</span>
+* <span style="color: #EC7627">**Kohout plaší smrt**</span>
   * smrt, zmar
-* <span style="color: #EC7627">Naše paní Božena Němcová</span>
+* <span style="color: #EC7627">**Naše paní Božena Němcová**</span>
 
 ### <span style="color: #6CAA46">**Vladimír Holan**</span> (1905-80)
 
 * halasovská linie
-* <span style="color: #EC7627">Triumf smrti</span> (1930)
+* <span style="color: #EC7627">**Triumf smrti**</span> (1930)
   * pesimismus, samota, abstraktní poezie
-* <span style="color: #EC7627">Kameni, přicházíš...</span> (1937)
-* <span style="color: #EC7627">Září</span> (1938)
+* <span style="color: #EC7627">**Kameni, přicházíš...**</span> (1937)
+* <span style="color: #EC7627">**Září**</span> (1938)
   * poezie národního ohrožení
-* <span style="color: #EC7627">Terezka Planetová</span> (1943)
+* <span style="color: #EC7627">**Terezka Planetová**</span> (1943)
   * příběhová poezie
   * poema o lásce a smrti, básník je přítomen tragédii chlapce, lékaři povídá o své platonické lásce
   * pomíjivost krásy, úvaha o smyslu života
@@ -171,21 +171,21 @@ category: Novověká Literatura
 * halasovská linie
 * básník **ostravska**
 * otec padl 1915
-* <span style="color: #EC7627">Panychida</span> (1927)
+* <span style="color: #EC7627">**Panychida**</span> (1927)
   * slavnost za mrtvé - WWI
-* <span style="color: #EC7627">Siréna</span>
+* <span style="color: #EC7627">**Siréna**</span>
   * ostravské, apokalypsa
 * poezie národního ohrožení:
-  * <span style="color: #EC7627">Cesta pěšky</span> (1937)
+  * <span style="color: #EC7627">**Cesta pěšky**</span> (1937)
     * blížící se nebezpečí
 * poezie za protektorátu:
-  * <span style="color: #EC7627">Hradní věž</span>
+  * <span style="color: #EC7627">**Hradní věž**</span>
     * věž symbol rodného kraje
 
 ### <span style="color: #6CAA46">**František Hrubín**</span> (1910-71)
 
 * na pomezí seifertovské a halasovské linie
-* <span style="color: #EC7627">Krásná po chudobě</span>
+* <span style="color: #EC7627">**Krásná po chudobě**</span>
 
 ## 4. - Katolická poezie
 
@@ -193,14 +193,14 @@ category: Novověká Literatura
 
 ### <span style="color: #6CAA46">**Jan Zahradníček**</span>
 
-* <span style="color: #EC7627">Pokušení smrti</span>
+* <span style="color: #EC7627">**Pokušení smrti**</span>
   * halasovská linie
   * fascinace smrtí
-* <span style="color: #EC7627">Návrat</span>
+* <span style="color: #EC7627">**Návrat**</span>
   * křesťanství smyslem života
-* <span style="color: #EC7627">Korouhve</span>
+* <span style="color: #EC7627">**Korouhve**</span>
   * prosí svaté o ochranu za protektorátu
-* <span style="color: #EC7627">La Saletta</span> (1947)
+* <span style="color: #EC7627">**La Saletta**</span> (1947)
   * proti komunistickému režimu
 * za komunismu byl vězněn - nepustili ho na pohřeb dcery
 
@@ -211,11 +211,11 @@ category: Novověká Literatura
 * kraj - Petrkov (u Havlíčkova Brodu)
 * vliv **symbolismu, mysticismu**
 * ticho, klid kraje - putování básníka
-* <span style="color: #EC7627">Podzimní motýli</span> (1946)
+* <span style="color: #EC7627">**Podzimní motýli**</span> (1946)
   * motivy z Bible, starý zákon
   * hledá harmonii
   * **Petrkov**
-* <span style="color: #EC7627">Rybí šupiny</span>
+* <span style="color: #EC7627">**Rybí šupiny**</span>
   * **lyrizovaná próza**
   * koloběh venkovského života
 
@@ -225,5 +225,5 @@ category: Novověká Literatura
 * časté básně v próze
 * 1902 - kněz
 * témata: smrt, úzkost, utrpení, pocity nedocenění
-* <span style="color: #EC7627">Miriam</span>
-* <span style="color: #EC7627">Moji přátelé</span>
+* <span style="color: #EC7627">**Miriam**</span>
+* <span style="color: #EC7627">**Moji přátelé**</span>
