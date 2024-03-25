@@ -14,7 +14,7 @@ category: Novověká Literatura
 * vznik **Devětsil** - 1920
   * spolek avantgardních(moderních) levicových umělců
 * založení KSČ - 1921
-* vstup K. Gotwalda do KSČ - 1929
+* vstup K. Gottwalda do KSČ - 1929
   * reakcí na to vznikl **Manifest sedmi**
     * protest proti radikalizaci KSČ
     * sepsali Seifert, Vančura, SK Neumann a další
@@ -94,7 +94,7 @@ category: Novověká Literatura
   * výročí narození **T. Edisona**
   * úvaha o životě - kontrast tíže a radosti života
   * **pásmo**
-* 30. léta - surrealismus - významný
+* 30\. léta - surrealismus - významný
   * ovlivněn psychoanalýzou - Z. Freuda
 * <span style="color: #EC7627">**50 hořkých balad věčného studenta Robarta Davida**</span> (1936-37)
   * odkazy na fašismus
