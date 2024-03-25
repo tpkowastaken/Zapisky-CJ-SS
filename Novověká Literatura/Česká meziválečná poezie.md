@@ -13,16 +13,16 @@ category: Novověká Literatura
 * vznik ČSR - 1918
 * vznik **Devětsil** - 1920
   * spolek avantgardních(moderních) levicových umělců
-* založení KSČ 1921
+* založení KSČ - 1921
 * vstup K. Gotwalda do KSČ - 1929
-  * reakcí na to vznikl protest **Manifest sedmi**
+  * reakcí na to vznikl **Manifest sedmi**
     * protest proti radikalizaci KSČ
     * sepsali Seifert, Vančura, SK Neumann a další
 
 ## 1. - Proletářská poezie
   
 * 1\. pol. 20. let
-* ovlivňeena Marxismem-leninismem
+* ovlivněna Marxismem-leninismem
 * reaguje na sociální bídu a důsledky WWI
 * rozdíly mezi spol. třídami - revolučnost
 * kolektivismus - básník mluvčím dělnictva
@@ -44,7 +44,7 @@ category: Novověká Literatura
   * **poezie prostých věcí** - zlidštění, personifikace
   * časté zdrobněliny
   * motivy **očí, srdce, rukou**
-  * básně Kamna, Lampa, Poštovní schránka
+  * básně: Kamna, Lampa, Poštovní schránka, atd.
   * 4 cykly:
     * např: Svatý kopeček (pásmo)
 * <span style="color: #EC7627">**Těžká hodina**</span>
@@ -52,7 +52,7 @@ category: Novověká Literatura
   * např:
     * Balada o nenarozeném dítěti, Balada o snu
     * Balada o očích topičových
-      * topič z práce oslepna a žena zdrcená z toho
+      * topič z práce oslepne a žena je z toho zdrcená
 
 ### <span style="color: #6CAA46">**Josef Hora**</span>
 
@@ -146,8 +146,8 @@ category: Novověká Literatura
 * <span style="color: #EC7627">Sépie</span>
   * poetismus - temnější
 * <span style="color: #EC7627">Torzo naděje</span>
-  * poezie nárdoního ohrožení
-  * básně: Praze, Zpěv úzkosti
+  * poezie národního ohrožení
+  * básně: Praze, Zpěv úzkosti, atd.
   * reakce na mnichovskou dohodu a mobilizaci
 * <span style="color: #EC7627">Kohout plaší smrt</span>
   * smrt, zmar
@@ -171,7 +171,7 @@ category: Novověká Literatura
 * halasovská linie
 * básník **ostravska**
 * otec padl 1915
-* <span style="color: #EC7627">Panychida</span> (1943)
+* <span style="color: #EC7627">Panychida</span> (1927)
   * slavnost za mrtvé - WWI
 * <span style="color: #EC7627">Siréna</span>
   * ostravské, apokalypsa
@@ -209,7 +209,7 @@ category: Novověká Literatura
 * básník samoty a vykořeněnosti
 * motivy: smrt, úzkost, osamění
 * kraj - Petrkov (u Havlíčkova Brodu)
-* vliv **symbolismu*, mysticismu**
+* vliv **symbolismu, mysticismu**
 * ticho, klid kraje - putování básníka
 * <span style="color: #EC7627">Podzimní motýli</span> (1946)
   * motivy z Bible, starý zákon
