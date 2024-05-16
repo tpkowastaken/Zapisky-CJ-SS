@@ -12,7 +12,7 @@ category: Novověká Literatura
 
 ## Demokratický proud
 
-* spojuje je: myslí demkoraticky a píšou do Lidových novin
+* spojuje je: myslí demokraticky a píšou do Lidových novin
 
 ### <span style="color: #6CAA46">**Karel Čapek**</span> (1890-1938)
 
@@ -71,8 +71,8 @@ category: Novověká Literatura
     * maršál onemocní -> přistoupí k dohodě ale zfanatizovaný dav maršála zabije
   * <span style="color: #EC7627">**Matka**</span>
     * drama
-    * matka - postupně jí synové jdou do války (španělská občanská válka)
-      * nechce posledního syna pustit do války, ale v rozhlase uslyší jak zabíjejí děti a tak tam pošle
+    * matka - postupně její synové jdou do války (španělská občanská válka)
+      * nechce posledního syna pustit do války, ale v rozhlase uslyší jak zabíjejí děti a tak ho tam pošle
 * **povídková a novelistická tvorba** 1917...
   * <span style="color: #EC7627">**"Boží muka"**</span>
     * vliv expresionismu, filosofické povídky
@@ -87,7 +87,7 @@ category: Novověká Literatura
     * 1. pol. 30. let
     * umělecky uznávaná
     * **neotika** - nauka o poznání
-  * **relativismus** - pravda je subjektivní, každý má svoji pravdu - čapkůuv filos. názor
+  * **relativismus** - pravda je subjektivní, každý má svoji pravdu - čapkův filos. názor
   * relativistická díla:
   * <span style="color: #EC7627">**Hordubal**</span>
     * Podkarpatská Rus
@@ -96,10 +96,10 @@ category: Novověká Literatura
     * pátrání - trojí pohled -> nejsaný výsledek
   * <span style="color: #EC7627">**Povětroň**</span>
     * nehoda neznámého letce
-    * spekulace - kdo? co? proč?, život? -> různé výklady
+    * spekulace - kdo? co? proč? život? -> různé výklady
   * <span style="color: #EC7627">**Obyčejný život**</span>
-    * příběh železničního ǔředníka -> sám retrospektivně líčí svůj život
-    * neschopnost objektvního posudku sám sebe
+    * příběh železničního úředníka -> sám retrospektivně líčí svůj život
+    * neschopnost objektivního posudku sám sebe
 * **překlady**
   * <span style="color: #EC7627">**Francouzká poezie nové doby**</span>
     * Apollinaire, prokletí básníci
@@ -122,7 +122,7 @@ category: Novověká Literatura
 * narozen v Rychnově nad Kněžnou, bojoval ve WWI
 * žid, novinář, humorista
 * psal fejetony, sloupky, soudničky (krátké storky inspirované soudními procesy)
-* kritika maloměšťanů, humoristické prózy
+* kritika maloměšťanů; humoristické prózy
 * <span style="color: #EC7627">**Bylo nás pět**</span>
   * nejznámější, vzniká za protektorátu
   * hum. próza - román
@@ -135,7 +135,7 @@ category: Novověká Literatura
   * psychyka a vášeň fanoušků
 * **románová pentalogie**
   * <span style="color: #EC7627">**Okresní město**</span>, <span style="color: #EC7627">**Hrdinové táhnou do boje**</span>, <span style="color: #EC7627">**Podzemní město**</span>, <span style="color: #EC7627">**Vyprodáno**</span>
-  * měšťácy, nuda, řeší banality, "nevidí za špičku nosu"
+  * měšťáci, nuda, řeší banality, "nevidí za špičku nosu"
 
 ### <span style="color: #6CAA46">**Eduard Bass**</span>
 
