@@ -84,7 +84,7 @@ category: Novověká Literatura
   * <span style="color: #EC7627">**Kniha apokryfů**</span>
     * povídky s biblickými tématy
   * **"neotická trilogie"**
-    * 1. pol. 30. let
+    * 1\. pol. 30. let
     * umělecky uznávaná
     * **neotika** - nauka o poznání
   * **relativismus** - pravda je subjektivní, každý má svoji pravdu - čapkův filos. názor
