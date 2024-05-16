@@ -132,7 +132,7 @@ category: Novověká Literatura
   * kombinace spisovné a nespisovné češtiny
 * <span style="color: #EC7627">**Muži v ofsajdu**</span>
   * román z fotbalového protředí
-  * psychyka a vášeň fanoušků
+  * psychika a vášeň fanoušků
 * **románová pentalogie**
   * <span style="color: #EC7627">**Okresní město**</span>, <span style="color: #EC7627">**Hrdinové táhnou do boje**</span>, <span style="color: #EC7627">**Podzemní město**</span>, <span style="color: #EC7627">**Vyprodáno**</span>
   * měšťáci, nuda, řeší banality, "nevidí za špičku nosu"
