@@ -51,3 +51,5 @@ category: Novověká Literatura
 ### [Česká literatura 60. let 19. st](Česká literatura 60. let 19. st) 
 
 ### [Česká meziválečná poezie](Česká meziválečná poezie) 
+
+### [Český demokratický, katolický a imaginativní proud prózy 1. pol. 20. st](Český demokratický, katolický a imaginativní proud prózy 1. pol. 20. st) 

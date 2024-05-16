@@ -111,6 +111,7 @@ category: Novověká Literatura
 * **stati/pojednání/eseje**
   * <span style="color: #EC7627">**Hovory s TGM**</span>
     * fiktivní rozhovory založené na skutečnosti
+
 ### <span style="color: #6CAA46">**Josef Čapek**</span>
 * malíř kubismu, spisovatel
 * zavřen do koncetráku, kde také psal a zamřel 1945
