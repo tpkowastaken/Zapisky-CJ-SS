@@ -83,10 +83,10 @@ category: Novověká Literatura
     * častou postavu komisař Mejzlík
   * <span style="color: #EC7627">**Kniha apokryfů**</span>
     * povídky s biblickými tématy
-  * **"neotická trilogie"**
+  * **"noetická trilogie"**
     * 1\. pol. 30. let
     * umělecky uznávaná
-    * **neotika** - nauka o poznání
+    * **noetika** - nauka o poznání
   * **relativismus** - pravda je subjektivní, každý má svoji pravdu - čapkův filos. názor
   * relativistická díla:
   * <span style="color: #EC7627">**Hordubal**</span>
