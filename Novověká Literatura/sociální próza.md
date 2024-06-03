@@ -1,5 +1,12 @@
-# Sociální próza
+---
+toc: true
+layout: dark
+title: sociální próza.md 
+parent_url: ./Novověká Literatura 
+category: Novověká Literatura 
+---
 
+# Sociální próza
 
 * Ovlivněn marxismem, leninismem, komunismem
 * Próza, idiologicky zabarvená
@@ -24,6 +31,5 @@
 * Podílel se na cenzuře
 
 ### Jiří Neumann
-
 
 ### Jiří Walker

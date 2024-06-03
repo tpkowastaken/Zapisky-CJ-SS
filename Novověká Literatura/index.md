@@ -48,6 +48,8 @@ category: Novověká Literatura
 
 ### [preromantismus](preromantismus) 
 
+### [sociální próza](sociální próza) 
+
 ### [Česká literatura 60. let 19. st](Česká literatura 60. let 19. st) 
 
 ### [Česká meziválečná poezie](Česká meziválečná poezie) 
