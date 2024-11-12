@@ -14,13 +14,15 @@ category: Zápisky z češtiny SPŠ na Třebešíně
 <h2> pokud hledáte odkaz na poslední test je tady:</h2>
 
 </div>
-  <a href="/Novov%C4%9Bk%C3%A1%20Literatura/%C4%8Cesk%C3%A1%20meziv%C3%A1le%C4%8Dn%C3%A1%20poezie">
+  <a href="/Brücknerová/Obraz%20WWII%20a%20boje%20proti%20fašismu">
     <button class="testbutton">Poslední test</button>
   </a>
 <div class="textdiv"></div>
 </div>
 
 ## Ostatní témata:
+
+### [Brücknerová](Brücknerová)
 
 ### [Antická Literatura](Antická%20Literatura)
 
