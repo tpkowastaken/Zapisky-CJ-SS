@@ -15,7 +15,7 @@ category: Brücknerová
 * řeší psychiku člověka
 * v menší množství i satira a humor - absurdita války
 
-## Literartura po roce 1945 - sovětská "východní"
+## Literatura po roce 1945 - sovětská "východní"
 
 * zpočátku dokumentární
 * poté **patetický** pohled (zveličování, dojímavost)
@@ -64,7 +64,7 @@ category: Brücknerová
     * **román** o útěku sedmi vězňů
     * jednoho nechytí a neukřižují - **symbol svobody**
 
-## Literartura po roce 1945 - "západní"
+## Literatura po roce 1945 - "západní"
 
 * **nepatetický** pohled (nechce budit emoce)
 * obrazy vnitřního světa vojáků
