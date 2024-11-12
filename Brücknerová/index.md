@@ -1,11 +1,11 @@
 ---
 toc: false
 layout: dark
-title: Brücknerová
+title: Brücknerová 
 parent_url: . 
-category: Brücknerová
+category: Brücknerová 
 ---
 
-## Obsahuje témata:
+## Obsahuje témata: 
 
-### [Obraz 2. světové války \(WWII\) a boje proti fašismu](Obraz%20WWII%20a%20boje%20proti%20fašismu)
+### [Obraz WWII a boje proti fašismu](Obraz WWII a boje proti fašismu) 

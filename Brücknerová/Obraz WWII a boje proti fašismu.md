@@ -64,7 +64,6 @@ category: Brücknerová
     * **román** o útěku sedmi vězňů
     * jednoho nechytí a neukřižují - **symbol svobody**
 
-
 ## Literartura po roce 1945 - "západní"
 
 * **nepatetický** pohled (nechce budit emoce)
