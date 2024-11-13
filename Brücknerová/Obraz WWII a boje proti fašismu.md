@@ -34,7 +34,7 @@ category: Brücknerová
     * **obnovu, identitu, morální hodnoty**
     * zobrazení osobního a kolektivního traumatu z války
 * <span style="color: #EC7627">**Osudy člověka**</span> (1957)
-    * román
+    * **román**
     * sleduje příběh Andreje Sokolova, během války ztrácí rodinu
     * psychologické a emocionální zátěže, hledání smyslu života po **válečné devastaci**
 
@@ -42,11 +42,11 @@ category: Brücknerová
 
 * **osobní zkušenosti z fronty**
 * <span style="color: #EC7627">**Hořící sníh**</span> (1972)
-    * román
+    * **román**
     * odehrává se za WWII
     * zachycuje dramatické okamžiky, psychické zátěže vojáků
     * hrdinství, přežití v těžkých podmínkách
-    * *poznámka k názvu, je to **oxymorón** - vylučující se vyjádření*
+    * *poznámka k názvu: je to **oxymorón** - vylučující se vyjádření*
 
 ## Německo - antifašistická tvorba
 
@@ -136,7 +136,7 @@ category: Brücknerová
     * narušené vztahy v rodině
 * <span style="color: #EC7627">**Zapal ten dům**</span>
     * **román**, inspirován životem umělce a **zhoubnou mocí peněz**
-* <span style="color: #EC7627">**Spohiina volba**</span> (1979)
+* <span style="color: #EC7627">**Sophiina volba**</span> (1979)
     * **román**
     * ich-forma, paralela mezi jižanským otrokářstvím a holokaustem
     * odehrává se v době války
