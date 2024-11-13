@@ -143,13 +143,13 @@ category: Brücknerová
     * hl. postavy:
         * **Stigno** - začínající spisovatel
         * **Sophie** - polská katolička z antisemní rodiny
-        * **Nathan** Laudan - amer. žid, shisofrenik, narkoman
+        * **Nathan** Laudan - amer. žid, schisofrenik, narkoman
     * děj:
         * Sophie postupně odhaluje svůj příběh
-            * pašovala jǐdlo, **selekce - volba, které z jejich dětí si nechá**
+            * pašovala jǐdlo, **selekce - volba, které z jejích dětí si nechá**
             * pracovala jako zapisovatelka Rudolfa Hesse
-            * Stingo balí Sophii, ta se rozejde s Nathanem, vyspí se se Stingem
-            * Sophie a Nathan nakonec spáchají sebevraždu
+        * Stingo balí Sophii, ta se rozejde s Nathanem, vyspí se se Stingem
+        * **Sophie a Nathan** nakonec spolu **spáchají sebevraždu**
 
     
 
