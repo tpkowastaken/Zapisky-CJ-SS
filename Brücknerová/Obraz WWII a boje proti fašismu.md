@@ -25,7 +25,7 @@ category: Brücknerová
 
 ## Rusko
 
-### <span style= "color: #6CAA46">**Michail Alexandrovič Šolchov**</span>
+### <span style= "color: #6CAA46">**Michail Alexandrovič Šolochov**</span>
 
 * zažil **obě sv. války**
 * obdržel nobelovu cenu
