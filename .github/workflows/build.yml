@@ -123,7 +123,7 @@ jobs:
         args: build --config _config.yml --source ./ --destination ./_site --incremental 
         
     - name: Upload artifact to view
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: site
         path: _site
