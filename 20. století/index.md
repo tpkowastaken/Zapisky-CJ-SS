@@ -1,9 +1,9 @@
 ---
 toc: false
 layout: dark
-title: Brücknerová
+title: 20. století
 parent_url: . 
-category: Brücknerová
+category: 20. století
 ---
 
 ## Obsahuje témata:
